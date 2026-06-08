@@ -1,0 +1,7 @@
+.obsidian/workspace*
+.DS_Store
+Thumbs.db
+outputs/**/*.tmp
+__pycache__/
+*.pyc
+.venv/
