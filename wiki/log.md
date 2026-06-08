@@ -9,3 +9,8 @@
 - Esquema: `CLAUDE.md` (PT-BR) — vocabulário canônico (11 áreas, 8 tipos de página, subtipos de entidade), contrato de frontmatter e workflows INGEST / QUERY / LINT / IDEA.
 - Guia humano: `README.md`. Catálogo: `wiki/index.md`.
 - Notas: `raw/` começa vazio (só `inbox/` e `assets/`); a wiki cresce a partir de fontes reais. Skills `obsd-*` (de outro vault, schema diferente) foram realocadas para fora deste vault para evitar conflito.
+
+## [2026-06-08] setup | Skills /adl-ingest e /adl-lint
+- Criadas em `.claude/skills/` (escopadas a este vault): operacionalizam os workflows INGEST e LINT do `CLAUDE.md` como comandos `/`.
+- `/adl-ingest` cobre todos os formatos (PDF/DOCX/MD/TXT/JSON/imagem) + expansão de fonte já existente + triagem leve de notas do inbox.
+- QUERY e IDEA permanecem conversacionais (sem skill dedicada, por escolha de escopo).
