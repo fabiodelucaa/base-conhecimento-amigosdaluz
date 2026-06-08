@@ -1,4 +1,6 @@
 .obsidian/workspace*
+.obsidian/plugins/
+.obsidian/cache
 .DS_Store
 Thumbs.db
 outputs/**/*.tmp

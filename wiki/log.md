@@ -24,3 +24,8 @@
 - `/adl-ingest` → `/obsd-al-ingest`; `/adl-lint` → `/obsd-al-lint` (conteúdo + diretórios).
 - Prefixo unificado `obsd-` (família de wikis Obsidian) com `al` para Amigos da Luz. Sem colisão com as `obsd-*` do vault irmão (escopos de projeto separados).
 - Docs atualizadas: README, CLAUDE.md (nota de skills em §6), memória do projeto.
+
+## [2026-06-08] setup | Política de versionamento do .obsidian/
+- Escolha do operador: ignorar binários de plugin, versionar config.
+- `.gitignore`: adicionados `.obsidian/plugins/` e `.obsidian/cache` (`workspace*` já estava).
+- Versionados: `.obsidian/{app,appearance,core-plugins,community-plugins,graph}.json`. Dataview instala-se via README.
