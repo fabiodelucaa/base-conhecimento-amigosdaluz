@@ -1,10 +1,10 @@
 # Amigos da Luz — Wiki Bootstrap Prompt (for Claude Code)
 
-> **How to use:** Open Claude Code in the repository root (the folder where `raw/` and `wiki/`
+> **For the human user:** Open Claude Code in the repository root (the folder where `raw/` and `wiki/`
 > should live) and paste this entire file as your first message. Claude Code will scaffold a
 > complete, LLM-maintained knowledge base following the pattern below, then report what it built.
->
-> This prompt is written in English on purpose. **Everything you create — `CLAUDE.md`, `README.md`,
+
+> **For Claude Code:** This prompt is written in English on purpose. **Everything you create — `CLAUDE.md`, `README.md`,
 > the wiki pages, templates, and all generated outputs — must be written in Brazilian Portuguese
 > (PT-BR).** The only English artifact is this bootstrap prompt.
 

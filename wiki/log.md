@@ -1,0 +1,11 @@
+# Log — Wiki Amigos da Luz
+
+> Log cronológico **append-only**. Mais novo embaixo. Cada entrada começa com
+> `## [AAAA-MM-DD] <tipo> | <título>`. Tipos: `ingest`, `query`, `lint`, `setup`, `schema`.
+> A mensagem de commit espelha a entrada correspondente (ver [[CLAUDE]] §10).
+
+## [2026-06-08] setup | Bootstrap da wiki Amigos da Luz
+- Estrutura criada: `_templates/` (8 templates), `wiki/areas/` (11 hubs), `wiki/{entidades,conceitos,ideias,decisoes,reunioes,fontes,sinteses}/`, `raw/{inbox,assets}/`, `outputs/`, `scripts/`.
+- Esquema: `CLAUDE.md` (PT-BR) — vocabulário canônico (11 áreas, 8 tipos de página, subtipos de entidade), contrato de frontmatter e workflows INGEST / QUERY / LINT / IDEA.
+- Guia humano: `README.md`. Catálogo: `wiki/index.md`.
+- Notas: `raw/` começa vazio (só `inbox/` e `assets/`); a wiki cresce a partir de fontes reais. Skills `obsd-*` (de outro vault, schema diferente) foram realocadas para fora deste vault para evitar conflito.
