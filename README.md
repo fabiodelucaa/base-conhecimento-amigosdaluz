@@ -19,7 +19,7 @@ artística, criativa, histórica, espiritual, comercial e de comunicação.
 ## Como adicionar uma fonte (INGEST)
 
 1. Solte o arquivo em **`raw/inbox/`** (ou aponte um arquivo já em `raw/`).
-2. Peça ao agente: *"ingere esta fonte"* (ou `/obsd-ingest`, se as skills da família estiverem
+2. Peça ao agente: *"ingere esta fonte"* (ou `/obsd-al-ingest`, se as skills da família estiverem
    ativas neste vault).
 3. O agente lê, discute os pontos-chave, cria a página `fonte`, atualiza 10–15 páginas conectadas,
    sinaliza contradições, atualiza o índice/log e faz commit+push.
@@ -32,7 +32,7 @@ páginas `sintese`.
 
 ## Manutenção (LINT)
 
-Peça um *health-check* periódico: o agente relata contradições, páginas órfãs, wikilinks quebrados e
+Peça um *health-check* periódico (`/obsd-al-lint`): o agente relata contradições, páginas órfãs, wikilinks quebrados e
 frontmatter inválido — e só corrige com sua aprovação.
 
 ## Setup no Obsidian (recomendado)

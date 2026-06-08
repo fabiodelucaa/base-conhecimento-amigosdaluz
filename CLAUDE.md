@@ -191,6 +191,10 @@ aliases: []                               # nomes alternativos para linkagem no 
 
 ## 6. Workflows
 
+> **Skills:** os fluxos INGEST e LINT têm comandos dedicados — `/obsd-al-ingest` e `/obsd-al-lint`
+> (em `.claude/skills/`, versionados junto com o vault). **QUERY** e **IDEA** são
+> **conversacionais** (sem skill): é só pedir em linguagem natural que o agente segue o workflow.
+
 ### 6.1 INGEST — transformar uma fonte bruta em conhecimento
 
 1. O operador coloca um arquivo em `raw/inbox/` (ou aponta um arquivo em `raw/`) e pede para
@@ -246,7 +250,9 @@ Quando o operador tiver uma semente criativa (esquete, campanha, cena, vídeo, p
 quadro, formato), capture-a como página `type: ideia` com `maturidade: semente`, `areas:`
 relevantes (geralmente `criativo` + outras) e links para o que ela se relaciona. Quando uma ideia
 amadurece em projeto/produção/conceito real, **promova-a**: crie a página-alvo, defina
-`maturidade: promovida`, linke nos dois sentidos e registre no log. Ideias são de primeira classe.
+`maturidade: promovida`, linke nos dois sentidos. **Tanto capturar quanto promover uma ideia mexem
+na wiki → registre no `log.md` (tipo `ideia`) e faça `commit+push`** (ver §10). Ideias são de
+primeira classe.
 
 ### 6.5 Saídas (outputs)
 
@@ -278,7 +284,7 @@ para que `grep "^## \[" log.md | tail -5` funcione:
 - Notas: contradição com [[orcamento-2025]] sinalizada.
 ```
 
-**Tipos de entrada:** `ingest`, `query`, `lint`, `setup`, `schema`.
+**Tipos de entrada:** `ingest`, `query`, `lint`, `ideia`, `setup`, `schema`.
 
 ---
 
@@ -315,12 +321,13 @@ Este vault **já é um repositório git** conectado a um **remote privado no Git
 branch `main`).
 
 - **NÃO** rode `git init` e **NÃO** crie um novo remote.
-- Após **cada ingestão**, cada **query arquivada** e cada **lint com correções aplicadas**, rode:
+- Após **cada ingestão**, cada **query arquivada**, cada **lint com correções aplicadas** e cada
+  **captura/promoção de ideia**, rode:
   ```
   git add -A && git commit -m "<mensagem>" && git push
   ```
 - A **mensagem de commit espelha a entrada do `log.md`** (ex.: `ingest | Edital Lei Rouanet 2026`,
-  `query | comparação de orçamentos`, `lint | correções de wikilinks`).
+  `query | comparação de orçamentos`, `lint | correções de wikilinks`, `ideia | esquete do porteiro`).
 
 Isso mantém cada mudança da fonte da verdade versionada e reversível.
 
@@ -335,6 +342,6 @@ Isso mantém cada mudança da fonte da verdade versionada e reversível.
 - **QUERY:** índice → páginas → (raw/ se preciso) → responder com citações → oferecer arquivar
   síntese.
 - **LINT:** escanear → relatar checklist → corrigir só com OK.
-- **IDEA:** capturar semente → promover quando amadurecer.
+- **IDEA:** capturar semente → `log` (`ideia`) + commit → promover quando amadurecer.
 - **Toda página:** frontmatter válido + resumo no topo + wikilinks bidirecionais + `updated`
   atualizado.

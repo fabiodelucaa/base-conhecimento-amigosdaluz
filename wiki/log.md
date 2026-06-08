@@ -14,3 +14,13 @@
 - Criadas em `.claude/skills/` (escopadas a este vault): operacionalizam os workflows INGEST e LINT do `CLAUDE.md` como comandos `/`.
 - `/adl-ingest` cobre todos os formatos (PDF/DOCX/MD/TXT/JSON/imagem) + expansão de fonte já existente + triagem leve de notas do inbox.
 - QUERY e IDEA permanecem conversacionais (sem skill dedicada, por escolha de escopo).
+
+## [2026-06-08] schema | Tipo de log "ideia" + commit em captura/promoção de ideia
+- Adicionado o tipo de entrada `ideia` ao log (§7.2).
+- §10: captura e promoção de ideia agora disparam `commit+push` (fecha lacuna identificada — antes só ingest/query/lint commitavam).
+- §6.4 e a cola rápida atualizadas.
+
+## [2026-06-08] setup | Skills renomeadas: /adl-* → /obsd-al-*
+- `/adl-ingest` → `/obsd-al-ingest`; `/adl-lint` → `/obsd-al-lint` (conteúdo + diretórios).
+- Prefixo unificado `obsd-` (família de wikis Obsidian) com `al` para Amigos da Luz. Sem colisão com as `obsd-*` do vault irmão (escopos de projeto separados).
+- Docs atualizadas: README, CLAUDE.md (nota de skills em §6), memória do projeto.

@@ -1,12 +1,12 @@
 ---
-name: adl-ingest
-description: Processa uma fonte nova (arquivo em raw/ ou raw/inbox/) e a transforma em páginas estruturadas na wiki dos Amigos da Luz (Obsidian + Claude Code, schema PT-BR). Use sempre que o usuário pedir "ingest", "ingerir", "processar esta fonte", "adicionar este PDF/artigo/ata/contrato/edital/vídeo/imagem à wiki", "/adl-ingest", ou apontar um arquivo em raw/ ou raw/inbox/ e pedir para incorporar ao grafo. Cobre QUALQUER tipo de dado (PDF, DOCX, MD, TXT, JSON, imagem) — a leitura muda por formato, o workflow é o mesmo. Aplica o workflow INGEST descrito em CLAUDE.md.
+name: obsd-al-ingest
+description: Processa uma fonte nova (arquivo em raw/ ou raw/inbox/) e a transforma em páginas estruturadas na wiki dos Amigos da Luz (Obsidian + Claude Code, schema PT-BR). Use sempre que o usuário pedir "ingest", "ingerir", "processar esta fonte", "adicionar este PDF/artigo/ata/contrato/edital/vídeo/imagem à wiki", "/obsd-al-ingest", ou apontar um arquivo em raw/ ou raw/inbox/ e pedir para incorporar ao grafo. Cobre QUALQUER tipo de dado (PDF, DOCX, MD, TXT, JSON, imagem) — a leitura muda por formato, o workflow é o mesmo. Aplica o workflow INGEST descrito em CLAUDE.md.
 ---
 
-# adl-ingest — Ingestão de fonte nova na wiki Amigos da Luz
+# obsd-al-ingest — Ingestão de fonte nova na wiki Amigos da Luz
 
 ## Quando disparar
-- `/adl-ingest` ou "ingerir/processar <arquivo>".
+- `/obsd-al-ingest` ou "ingerir/processar <arquivo>".
 - O operador aponta um arquivo em `raw/` ou `raw/inbox/` e pede "adicionar à wiki", "extrair conceitos", "incorporar ao grafo".
 - Vale para **qualquer formato** (PDF, DOCX, MD, TXT, JSON, imagem). Só a forma de **ler** (passo 1) muda; o resto é idêntico.
 

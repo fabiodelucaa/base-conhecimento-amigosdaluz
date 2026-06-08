@@ -1,12 +1,12 @@
 ---
-name: adl-lint
-description: Health-check completo da wiki dos Amigos da Luz (Obsidian + Claude Code, schema PT-BR) — detecta contradições, páginas órfãs, wikilinks quebrados, frontmatter inválido (type/area/status fora do vocabulário, chaves obrigatórias faltando, updated desatualizado), slugs/tags com acento, conceitos sem página própria, índice desatualizado e lacunas — e produz RELATÓRIO sem auto-corrigir. Use sempre que o usuário pedir "/adl-lint", "lint da wiki", "health-check do vault", "revisar integridade", "escanear erros", ou auditar o estado geral da base. Aplica o workflow LINT descrito em CLAUDE.md.
+name: obsd-al-lint
+description: Health-check completo da wiki dos Amigos da Luz (Obsidian + Claude Code, schema PT-BR) — detecta contradições, páginas órfãs, wikilinks quebrados, frontmatter inválido (type/area/status fora do vocabulário, chaves obrigatórias faltando, updated desatualizado), slugs/tags com acento, conceitos sem página própria, índice desatualizado e lacunas — e produz RELATÓRIO sem auto-corrigir. Use sempre que o usuário pedir "/obsd-al-lint", "lint da wiki", "health-check do vault", "revisar integridade", "escanear erros", ou auditar o estado geral da base. Aplica o workflow LINT descrito em CLAUDE.md.
 ---
 
-# adl-lint — Health-check da wiki Amigos da Luz
+# obsd-al-lint — Health-check da wiki Amigos da Luz
 
 ## Quando disparar
-- `/adl-lint`, "lint da wiki", "health-check do vault", "revisar integridade", "escanear erros".
+- `/obsd-al-lint`, "lint da wiki", "health-check do vault", "revisar integridade", "escanear erros".
 - Após ingestões grandes, em manutenção periódica, ou antes de uma entrega/publicação.
 
 **Não confundir:** corrigir/refazer **uma** página específica apontada pelo operador é trabalho direto, não um lint completo.
