@@ -32,3 +32,14 @@
 
 ## [2026-06-08] setup | obsd-al-lint: relatório por severidade + verificação via web search
 - Portadas 2 ideias do lint do vault irmão: modelo de relatório por severidade (🔴🟠🟡🟢) e protocolo de web search para claims `⚠️ não verificado` (verificado / contradito / inconclusivo).
+
+## [2026-06-08] schema | Novos subtipos de entidade: organizacao, lugar
+- Motivo: a primeira ingestão (institucional) exigiu modelar a própria produtora e a sede.
+- `organizacao` (a produtora / organizações) e `lugar` (espaços físicos — substitui o `espaco` antes previsto). `CLAUDE.md` §3.3 atualizado.
+
+## [2026-06-08] ingest | Institucional Amigos da Luz
+- Fonte criada: [[fonte-al-institucional]] (`raw/AL_institucional.md`).
+- Páginas criadas: [[amigos-da-luz-produtora]], [[casa-de-cultura-amigos-da-luz]], [[fabio-bastos-de-luca]], [[fabio-de-oliveira-martins]], [[humor-espirita]], [[missao]], [[visao]], [[valores]].
+- Áreas tocadas (via frontmatter): institucional, juridico, comercial, comunicacao, operacional, espiritual, criativo, artistico, administrativo.
+- Stubs a enriquecer: sócios e Casa de Cultura (pendentes de `AL_equipe_dados` / `AL_casa_cultura`).
+- Notas: sem contradições (vault estava vazio).

@@ -28,12 +28,18 @@ estrutura transversal é o grafo de links.
 ## Entidades
 *(coisas concretas: pessoas, projetos, produções, documentos, parceiros, eventos, personagens, campanhas, roteiros.)*
 
-- *(vazio — a primeira ingestão preenche esta seção.)*
+- [[amigos-da-luz-produtora|Amigos da Luz Produtora]] — produtora de humor espírita (organização central): dados legais, contatos, redes.
+- [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] — sede no Rio Comprido/RJ (ex-"Espaço Cultural").
+- [[fabio-bastos-de-luca|Fábio Bastos de Luca]] — sócio.
+- [[fabio-de-oliveira-martins|Fábio de Oliveira Martins]] — sócio.
 
 ## Conceitos
 *(ideias abstratas, valores, métodos, doutrina.)*
 
-- *(vazio.)*
+- [[humor-espirita|Humor Espírita]] — método criativo central: humor como ponte para a Doutrina Espírita.
+- [[missao|Missão]] — unir humor e espiritualidade, tornando a Doutrina acessível.
+- [[visao|Visão]] — referência nacional + modelo de negócio robusto.
+- [[valores|Valores]] — os sete valores institucionais.
 
 ## Ideias
 *(baú criativo — sementes ainda não promovidas.)*
@@ -53,7 +59,7 @@ estrutura transversal é o grafo de links.
 ## Fontes
 *(um resumo por fonte ingerida — proveniência.)*
 
-- *(vazio — nenhuma fonte ingerida ainda.)*
+- [[fonte-al-institucional|Institucional Amigos da Luz]] — ficha institucional: identidade, dados legais, contatos, redes, sede.
 
 ## Sínteses
 *(visões transversais e análises.)*
