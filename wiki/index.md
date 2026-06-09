@@ -23,6 +23,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[fabio-oliviere|Fábio Oliviere]] — sócio co-fundador; produção executiva, cenografia.
 - [[alex-moczy|Alex Moczy]] · [[carla-guapyassu|Carla Guapyassú]] · [[ewerton-oliveira|Ewerton Oliveira]] · [[jean-rizo|Jean Rizo]] · [[loeni-mazzei|Loeni Mazzei]] · [[mariah-huguenin|Mariah Huguenin]] · [[natali-pazete|Natali Pazete]] · [[sidney-grillo|Sidney Grillo]] (†) · [[sonia-barbosa|Sônia Barbosa]] — elenco fixo.
 - [[babi|Babi]] (Libras) · [[thiago-brito|Thiago Brito]] (consultor) · [[thiago-moreno|Thiago Moreno]] (roteirista) · [[victoria-bastos|Victória Bastos]] (design/edição) — colaboradores.
+- [[kelli-sacalem|Kelli Sacalém]] · [[isabelle-oliveira|Isabelle de Oliveira]] — produção de circulação (vínculo a confirmar).
 - Referência externa: [[leopoldo-machado|Leopoldo Machado]] — educador espírita (Colégio Leopoldo), influência formativa.
 
 ### Produções
@@ -41,6 +42,9 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[missao|Missão]] · [[visao|Visão]] · [[valores|Valores]] — identidade institucional.
 - [[identidade-de-marca|Identidade de Marca]] — posicionamento, pilares, tom de voz.
 - [[identidade-visual|Identidade Visual]] — paleta, tipografia, aplicações.
+
+**Doutrinários (temas dos esquetes):**
+- [[reforma-intima|Reforma Íntima]] · [[obsessao|Obsessão]] · [[prece|Prece]] · [[mediunidade|Mediunidade]] · [[reencarnacao|Reencarnação]] · [[caridade|Caridade]] · [[causa-e-efeito|Causa e Efeito]] · [[desencarne|Desencarne e Luto]] · [[livre-arbitrio|Livre-Arbítrio]] · [[transicao-planetaria|Transição Planetária]] · [[progresso-espiritual|Progresso Espiritual]] · [[deus|Deus]].
 
 ## Ideias
 - [[escola-de-artes-espiritas|Escola de Artes Espíritas]] — `semente`: braço formativo permanente (futuro).
@@ -70,3 +74,6 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 **Entrevistas (transcrições integrais):**
 - [[fonte-entrevista-tv-nova-luz-2015|TV Nova Luz 2015]] · [[fonte-entrevista-programa-repensar-2015|Repensar 2015]] · [[fonte-entrevista-depoimentos-equipe-2015|Depoimentos 2015]] · [[fonte-entrevista-tv-nova-luz-casa-espirita-2017|Casa Espírita 2017]] · [[fonte-entrevista-radio-globo-catanduva-2017|Rádio Globo 2017]] · [[fonte-entrevista-carona-espirita-fabio-p1-2017|Carona Fábio p1]] · [[fonte-entrevista-carona-espirita-fabio-p2-2017|Carona Fábio p2]] · [[fonte-entrevista-carona-espirita-sidney-grillo-2017|Carona Sidney]] · [[fonte-entrevista-juventude-maior-2017|Juventude Maior 2017]] · [[fonte-entrevista-tv-brasil-viralizando-2018|TV Brasil 2018]] · [[fonte-entrevista-correio-espirita-2016|Correio Espírita 2016]] · [[fonte-entrevista-correio-news-2020|Correio News 2020]] · [[fonte-entrevista-abrarte-2020|ABRARTE 2020]] · [[fonte-entrevista-trajetoria-amigos-da-luz|Trajetória]]
+
+**Acervo & circulação:**
+- [[fonte-acervo-esquetes|Acervo de Esquetes]] · [[fonte-guia-circulacao|Guia de Circulação v2.0]] · [[fonte-info-pack-turne-sc|Info-pack Turnê SC]]

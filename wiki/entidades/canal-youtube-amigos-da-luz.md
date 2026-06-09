@@ -28,10 +28,10 @@ aliases: ["@amigosdaluz"]
 - **Esquetes** (formato principal, semanal) com personagens [[daniel-e-a-mentorona]], [[preces-do-alberto]], [[elisa-a-evoluida]].
 - **Lives:** Estudo Divertido do Espiritismo (com Libras por [[babi]]), Sextou, Com convidados.
 - **Quadro:** Replay Amigos da Luz. **Podcast Amigos da Luz** (videocast na Casa).
-- 250 esquetes catalogados (2015–2024) em 16 clusters doutrinários (acervo estruturado em `raw/`).
+- **250 esquetes** catalogados (2015–2024) em 16 clusters doutrinários — acervo consultável em [[fonte-acervo-esquetes]]; os temas viraram conceitos (ex.: [[reforma-intima]], [[obsessao]], [[prece]], [[reencarnacao]], [[caridade]]).
 
 ## Relações
 - [[amigos-da-luz]] · [[fabio-de-luca]] (apresentação) · [[publico-alvo]] · [[metricas-do-canal]] · [[identidade-visual]] (thumbnails)
 
 ## Fontes
-- [[fonte-al-audiovisual]] · [[fonte-al-metricas]]
+- [[fonte-al-audiovisual]] · [[fonte-al-metricas]] · [[fonte-acervo-esquetes]]

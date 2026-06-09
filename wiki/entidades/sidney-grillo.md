@@ -8,10 +8,10 @@ created: 2026-06-08
 updated: 2026-06-08
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-citacoes]]"]
 tags: [elenco, ator, in-memoriam, fundador]
-aliases: ["Grillo"]
+aliases: ["Grillo", "Bibe"]
 ---
 
-> **Resumo:** Ator do elenco fundador dos Amigos da Luz (*in memoriam*) — "Grillo falante", presente desde a primeira peça.
+> **Resumo:** Ator do elenco fundador dos Amigos da Luz (*in memoriam*) — presente desde a primeira peça.
 
 ## Função e papel
 Ator. Entrou em 1995 pela Cia. Menospausa Cultural. Integrou o elenco desde a primeira peça, *[[morrendo-e-aprendendo]]*. Memória afetiva do grupo; homenageado em Espiritismo.tv (*O Grilo saltou para o outro plano*).

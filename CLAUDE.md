@@ -310,7 +310,7 @@ estendê-los:
    ```
 4. Só então use o novo valor em páginas.
 
-Adições mais prováveis: subtipos de entidade `espaco`, `produto-servico`, `canal`, `acervo-item`.
+Adições mais prováveis: subtipos de entidade `produto-servico`, `canal`, `acervo-item`.
 
 ---
 

@@ -63,3 +63,10 @@
 - Nova pessoa: [[leopoldo-machado]] (educador espírita; referência formativa de [[fabio-de-luca]] e [[thiago-brito]], via Colégio Leopoldo).
 - Enriquecidas: [[cobertura-de-imprensa]] (links das 14 fontes), [[fabio-de-luca]], [[sidney-grillo]].
 - Notas: aprofundam/validam o que já havia em [[cobertura-de-imprensa]] e [[citacoes-chave]]. Esquetes individuais e figuras externas citadas (Divaldo, Aroldo, Rossandro) ficaram só mencionados. Datasets de esquetes (`audiovisual/`) ficam para depois.
+
+## [2026-06-08] ingest | Acervo de esquetes + guia de circulação + conceitos doutrinários
+- Fontes: [[fonte-acervo-esquetes]] (250 esquetes / 16 clusters), [[fonte-guia-circulacao]] (guia v2.0), [[fonte-info-pack-turne-sc]]. Arquivos movidos p/ `raw/audiovisual/` e `raw/circulacao/`.
+- **12 conceitos doutrinários** criados (reforma-intima, obsessao, prece, mediunidade, reencarnacao, caridade, causa-e-efeito, desencarne, livre-arbitrio, transicao-planetaria, progresso-espiritual, deus) — definição ancorada na Codificação + esquetes de cada cluster; **cruzam-referência às páginas do vault irmão `base-conhecimento`** (não copiadas).
+- 2 pessoas: [[kelli-sacalem]], [[isabelle-oliveira]] (produção de circulação — o vault irmão tem páginas delas).
+- Enriquecidos: [[canal-youtube-amigos-da-luz]] (acervo), [[circulacao-teatral]] (guia/info-pack).
+- Notas: os 250 esquetes **não** viraram páginas individuais — acervo consultável via JSON/índice temático, conforme o próprio doc recomenda.
