@@ -14,7 +14,7 @@ aliases: ["Espaço Cultural Amigos da Luz", "Casa de Cultura"]
 > **Resumo:** Sede dos Amigos da Luz — casa de cultura no Rio Comprido/RJ (ex-"Espaço Cultural Amigos da Luz", renomeada em 2026).
 
 ## Descrição
-Sede física da [[amigos-da-luz-produtora]]. ([[fonte-al-institucional]])
+Sede física da [[amigos-da-luz]]. ([[fonte-al-institucional]])
 
 - **Endereço:** Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro – RJ, CEP 20250-460.
 - **Site:** amigosdaluz.com/casa
@@ -27,7 +27,7 @@ Sede física da [[amigos-da-luz-produtora]]. ([[fonte-al-institucional]])
 - 2026 — renomeada para **Casa de Cultura Amigos da Luz**.
 
 ## Relações
-- [[amigos-da-luz-produtora]] — é a sede da produtora.
+- [[amigos-da-luz]] — é a sede da produtora.
 
 ## Fontes
 - [[fonte-al-institucional]]

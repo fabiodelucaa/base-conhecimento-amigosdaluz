@@ -1,5 +1,5 @@
 ---
-title: "Amigos da Luz Produtora"
+title: "Amigos da Luz"
 type: entidade
 subtype: organizacao
 areas: [institucional, juridico, comercial, comunicacao]

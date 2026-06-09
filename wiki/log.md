@@ -39,7 +39,11 @@
 
 ## [2026-06-08] ingest | Institucional Amigos da Luz
 - Fonte criada: [[fonte-al-institucional]] (`raw/AL_institucional.md`).
-- Páginas criadas: [[amigos-da-luz-produtora]], [[casa-de-cultura-amigos-da-luz]], [[fabio-bastos-de-luca]], [[fabio-de-oliveira-martins]], [[humor-espirita]], [[missao]], [[visao]], [[valores]].
+- Páginas criadas: [[amigos-da-luz]], [[casa-de-cultura-amigos-da-luz]], [[fabio-bastos-de-luca]], [[fabio-de-oliveira-martins]], [[humor-espirita]], [[missao]], [[visao]], [[valores]].
 - Áreas tocadas (via frontmatter): institucional, juridico, comercial, comunicacao, operacional, espiritual, criativo, artistico, administrativo.
 - Stubs a enriquecer: sócios e Casa de Cultura (pendentes de `AL_equipe_dados` / `AL_casa_cultura`).
 - Notas: sem contradições (vault estava vazio).
+
+## [2026-06-08] setup | Entidade central renomeada + push delegado ao auto-sync
+- `amigos-da-luz-produtora` → [[amigos-da-luz]] — passa a ser referenciada pelo nome mais conhecido (nó central do vault). Título, links, arquivo e índice atualizados.
+- Removida a instrução de `git push` do `CLAUDE.md`, README e skills `obsd-al-*`: o **push** fica por conta do **auto-sync do Obsidian (Git plugin)**; o agente só **commita**.

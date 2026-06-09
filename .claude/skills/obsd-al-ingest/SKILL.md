@@ -71,8 +71,8 @@ Adicione cada página nova na seção da categoria certa: `- [[slug]] — resumo
 - Notas: contradições sinalizadas, escopo, etc.
 ```
 
-### 12. Commit + push
-`git add -A && git commit -m "ingest | <título>" && git push` (a mensagem **espelha** a entrada do log). **Exceção:** se o operador pedir para acumular ("mando mais arquivos, commita depois"), pule o commit; o staging acumula até liberar.
+### 12. Commit (sem push)
+`git add -A && git commit -m "ingest | <título>"` (a mensagem **espelha** a entrada do log). **Não dê `git push`** — o **auto-sync do Obsidian (Git plugin)** cuida do push. **Exceção:** se o operador pedir para acumular ("mando mais arquivos, commita depois"), pule o commit; o staging acumula até liberar.
 
 ## Regras duras
 - **PT-BR** no conteúdo; **kebab-case ASCII sem acentos** em nomes de arquivo, slugs e tags.
@@ -80,7 +80,7 @@ Adicione cada página nova na seção da categoria certa: `- [[slug]] — resumo
 - Nunca inventar fatos.
 - **Toque muitas páginas (10–15)** — uma fonte rica conecta várias áreas.
 - Sinalize contradições, não sobrescreva.
-- **Commit E push** ao fim (este vault é versionado no GitHub — difere de vaults que não dão push).
+- **Commit ao fim** — **sem `git push`**; o auto-sync do Obsidian (Git plugin) faz o push.
 
 ## Por que essas regras existem
-O valor do vault está na **confiabilidade do grafo**: backlinks recíprocos evitam ilhas, `areas:` corretas alimentam os hubs Dataview, a proveniência torna tudo rastreável, e commit+push é a âncora reversível. A pausa do passo 3 existe porque o operador conhece o domínio melhor que o agente e pode redirecionar antes do trabalho pesado.
+O valor do vault está na **confiabilidade do grafo**: backlinks recíprocos evitam ilhas, `areas:` corretas alimentam os hubs Dataview, a proveniência torna tudo rastreável, e o commit é a âncora reversível (o push fica com o auto-sync). A pausa do passo 3 existe porque o operador conhece o domínio melhor que o agente e pode redirecionar antes do trabalho pesado.

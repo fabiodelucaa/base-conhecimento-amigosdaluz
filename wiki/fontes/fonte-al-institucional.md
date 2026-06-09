@@ -15,12 +15,12 @@ aliases: ["AL_institucional"]
 ## Metadados da fonte
 - **Arquivo:** `raw/AL_institucional.md`
 - **Tipo:** Documento institucional interno (Markdown)
-- **Origem:** [[amigos-da-luz-produtora]] (documento próprio)
+- **Origem:** [[amigos-da-luz]] (documento próprio)
 - **Datas do documento:** criado 2026-04-20, atualizado 2026-06-06
 - **Escopo processado:** Completo — identidade jurídica, missão/visão/valores, contatos, redes e sede.
 
 ## Resumo
-Documento-âncora da identidade institucional da [[amigos-da-luz-produtora]]: define o negócio como uma produtora artístico-cultural de **humor espírita** kardecista ([[humor-espirita]]), atuando em audiovisual e artes cênicas. Consolida a missão ([[missao]]), a visão ([[visao]]) e os sete valores ([[valores]]) do grupo.
+Documento-âncora da identidade institucional da [[amigos-da-luz]]: define o negócio como uma produtora artístico-cultural de **humor espírita** kardecista ([[humor-espirita]]), atuando em audiovisual e artes cênicas. Consolida a missão ([[missao]]), a visão ([[visao]]) e os sete valores ([[valores]]) do grupo.
 
 Reúne também os **dados legais** (razão social, CNPJ, natureza jurídica, porte, capital social, sócios, fundação), os **contatos oficiais** (e-mail, WhatsApp, site), as **redes sociais** dos canais da produtora e a **sede** — a [[casa-de-cultura-amigos-da-luz]], no Rio Comprido/RJ.
 
@@ -35,7 +35,7 @@ O próprio documento aponta para outras fontes ainda a ingerir (`AL_equipe_dados
 - Sede renomeada em 2026: "Espaço Cultural" → "Casa de Cultura Amigos da Luz".
 
 ## Páginas que esta fonte alimenta
-- [[amigos-da-luz-produtora]]
+- [[amigos-da-luz]]
 - [[casa-de-cultura-amigos-da-luz]]
 - [[fabio-bastos-de-luca]] · [[fabio-de-oliveira-martins]]
 - [[humor-espirita]]

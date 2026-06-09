@@ -250,7 +250,7 @@ quadro, formato), capture-a como página `type: ideia` com `maturidade: semente`
 relevantes (geralmente `criativo` + outras) e links para o que ela se relaciona. Quando uma ideia
 amadurece em projeto/produção/conceito real, **promova-a**: crie a página-alvo, defina
 `maturidade: promovida`, linke nos dois sentidos. **Tanto capturar quanto promover uma ideia mexem
-na wiki → registre no `log.md` (tipo `ideia`) e faça `commit+push`** (ver §10). Ideias são de
+na wiki → registre no `log.md` (tipo `ideia`) e faça `commit`** (ver §10). Ideias são de
 primeira classe.
 
 ### 6.5 Saídas (outputs)
@@ -319,11 +319,11 @@ Adições mais prováveis: subtipos de entidade `espaco`, `produto-servico`, `ca
 Este vault **já é um repositório git** conectado a um **remote privado no GitHub** (`origin`,
 branch `main`).
 
-- **NÃO** rode `git init` e **NÃO** crie um novo remote.
+- **NÃO** rode `git init`, **NÃO** crie um novo remote e **NÃO** dê `git push` — o **push é responsabilidade do auto-sync do Obsidian (Git plugin)**, que sincroniza sozinho em intervalos. O agente só **commita**.
 - Após **cada ingestão**, cada **query arquivada**, cada **lint com correções aplicadas** e cada
   **captura/promoção de ideia**, rode:
   ```
-  git add -A && git commit -m "<mensagem>" && git push
+  git add -A && git commit -m "<mensagem>"
   ```
 - A **mensagem de commit espelha a entrada do `log.md`** (ex.: `ingest | Edital Lei Rouanet 2026`,
   `query | comparação de orçamentos`, `lint | correções de wikilinks`, `ideia | esquete do porteiro`).
@@ -337,7 +337,7 @@ Isso mantém cada mudança da fonte da verdade versionada e reversível.
 - **Idioma:** PT-BR no conteúdo; slugs/chaves/vocabulário em kebab-case ASCII sem acentos.
 - **raw/ é imutável; wiki/ é sua.**
 - **INGEST:** ler fonte → discutir → criar `fonte` → atualizar 10–15 páginas → sinalizar
-  contradições → índice → log → commit+push.
+  contradições → índice → log → commit (push: auto-sync do Obsidian).
 - **QUERY:** índice → páginas → (raw/ se preciso) → responder com citações → oferecer arquivar
   síntese.
 - **LINT:** escanear → relatar checklist → corrigir só com OK.

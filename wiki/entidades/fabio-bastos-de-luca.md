@@ -14,12 +14,12 @@ aliases: []
 > **Resumo:** Sócio da Amigos da Luz Produtora.
 
 ## Descrição
-Um dos dois sócios da [[amigos-da-luz-produtora]]. ([[fonte-al-institucional]])
+Um dos dois sócios da [[amigos-da-luz]]. ([[fonte-al-institucional]])
 
 > ⚠️ Dados detalhados (papel, biografia, funções) ainda **não ingeridos** — virão de `AL_equipe_dados.md`.
 
 ## Relações
-- [[amigos-da-luz-produtora]] — sócio.
+- [[amigos-da-luz]] — sócio.
 - [[fabio-de-oliveira-martins]] — sócio co-fundador.
 
 ## Fontes

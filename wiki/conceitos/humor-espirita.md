@@ -16,10 +16,10 @@ aliases: []
 O **humor espírita** combina **entretenimento, espiritualidade e educação**, usando o humor como ponte para tornar a Doutrina Espírita kardecista leve, acessível, profunda e divertida. ([[fonte-al-institucional]])
 
 ## Como se aplica nos Amigos da Luz
-É o eixo de toda a produção da [[amigos-da-luz-produtora]] — vídeos, espetáculos, cursos e eventos, no digital e no presencial. Está no cerne da [[missao]] e dialoga diretamente com o valor de **fidelidade à Doutrina Espírita** (ver [[valores]]): o humor é meio, não licença para distorcer a doutrina.
+É o eixo de toda a produção da [[amigos-da-luz]] — vídeos, espetáculos, cursos e eventos, no digital e no presencial. Está no cerne da [[missao]] e dialoga diretamente com o valor de **fidelidade à Doutrina Espírita** (ver [[valores]]): o humor é meio, não licença para distorcer a doutrina.
 
 ## Relações
-- [[amigos-da-luz-produtora]] — quem pratica.
+- [[amigos-da-luz]] — quem pratica.
 - [[missao]] — o humor espírita é o "como" da missão.
 - [[valores]] — fidelidade doutrinária baliza o humor.
 

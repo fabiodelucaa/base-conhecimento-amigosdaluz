@@ -22,7 +22,7 @@ artística, criativa, histórica, espiritual, comercial e de comunicação.
 2. Peça ao agente: *"ingere esta fonte"* (ou `/obsd-al-ingest`, se as skills da família estiverem
    ativas neste vault).
 3. O agente lê, discute os pontos-chave, cria a página `fonte`, atualiza 10–15 páginas conectadas,
-   sinaliza contradições, atualiza o índice/log e faz commit+push.
+   sinaliza contradições, atualiza o índice/log e faz commit (o push fica com o auto-sync do Obsidian).
 
 ## Como perguntar (QUERY)
 
@@ -48,8 +48,9 @@ frontmatter inválido — e só corrige com sua aprovação.
 ## Controle de versão
 
 Este vault já é um repositório git conectado a um **remote privado no GitHub** (`origin`, `main`).
-O agente faz `git add -A && git commit && git push` após cada ingestão, query arquivada e lint com
-correções — mantendo tudo versionado e reversível.
+O agente faz `git add -A && git commit` após cada ingestão, query arquivada e lint com correções; o
+**push** fica por conta do **auto-sync do Obsidian (Git plugin)**, que sincroniza periodicamente —
+mantendo tudo versionado e reversível.
 
 ---
 

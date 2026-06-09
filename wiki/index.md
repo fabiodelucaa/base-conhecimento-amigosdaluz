@@ -28,7 +28,7 @@ estrutura transversal é o grafo de links.
 ## Entidades
 *(coisas concretas: pessoas, projetos, produções, documentos, parceiros, eventos, personagens, campanhas, roteiros.)*
 
-- [[amigos-da-luz-produtora|Amigos da Luz Produtora]] — produtora de humor espírita (organização central): dados legais, contatos, redes.
+- [[amigos-da-luz|Amigos da Luz]] — produtora de humor espírita (organização central): dados legais, contatos, redes.
 - [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] — sede no Rio Comprido/RJ (ex-"Espaço Cultural").
 - [[fabio-bastos-de-luca|Fábio Bastos de Luca]] — sócio.
 - [[fabio-de-oliveira-martins|Fábio de Oliveira Martins]] — sócio.
