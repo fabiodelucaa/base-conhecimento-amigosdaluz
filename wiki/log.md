@@ -76,6 +76,13 @@
 - Índice: nova linha "Referências espíritas externas" em Pessoas.
 - **Tags padronizadas** em 14 páginas (só nas linhas `tags:`): `kardecismo`→`espiritismo`, `doutrina`→`doutrina-espirita`.
 
+## [2026-06-09] setup | Indexação OpenViking do vault AdL
+- Recurso criado: `viking://resources/projects/adl-vault/base-conhecimento-amigosdaluz`.
+- Escopo: snapshot markdown-only de `README.md`, `CLAUDE.md`, `wiki/**`, `raw/**`, `_templates/**` e `.claude/skills/**`; excluídos `.git/`, `.obsidian/`, `outputs/`, `scripts/` e binários.
+- Relatório: `outputs/openviking-index-2026-06-09.md`.
+- Verificação: recurso destravado (`isLocked: false`), busca semântica e leitura direta retornaram páginas esperadas.
+- Nota de sensibilidade: inclui material interno de equipe/financeiro/contatos/pessoas quando presente; expor PII somente com necessidade operacional explícita.
+
 ## [2026-06-09] ingest | Acadêmicos (4) + fenômenos mediúnicos (6) + biografia de Leopoldo
 - **6 fontes:** [[fonte-tcc-teatro-humor-espiritualidade]] (Fábio Oliviere/Estácio 2025), [[fonte-dissertacao-religiao-humor]] (Grazyelle Fonseca/UERJ 2019), [[fonte-artigo-espiritismo-humor-youtube]] e [[fonte-artigo-espiritismo-vies-do-riso]] (Alanne Almeida & Robéria Nascimento/UEPB 2019), [[fonte-notas-fenomenos-mediunicos]], [[fonte-biografia-leopoldo-machado]].
 - **6 conceitos (fenômenos):** [[psicofonia]], [[clarividencia]], [[desdobramento]], [[bicorporeidade]], [[fenomeno-de-transporte]], [[terapia-pela-oracao]] — satélites de [[mediunidade]], com cross-ref ao vault irmão.
@@ -95,7 +102,7 @@
 - Arquivos movidos p/ `raw/doutrina/` (historico-do-espiritismo, resumo-doutrina-espirita), renomeados kebab-ASCII.
 
 ## [2026-06-09] lint | Consolidação das citações do TCC em AL_citacoes (remove duplicação)
-- Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
+- Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
 - Atualizados [[fonte-al-citacoes]] (escopo ~103) e [[citacoes-chave]] (recorte do elenco). O link [[fonte-tcc-teatro-humor-espiritualidade]] permanece como proveniência nas páginas.
 - Nota: editei `raw/AL_citacoes.md` — exceção pontual à imutabilidade de `raw/`, por ser doc-índice mantido por IA (com protocolo de append §17) e a pedido do operador.
 
