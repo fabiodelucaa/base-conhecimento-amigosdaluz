@@ -8,7 +8,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources: ["[[fonte-al-citacoes]]", "[[fonte-acervo-esquetes]]"]
 tags: [referencia, espiritismo, codificador]
-aliases: ["Hippolyte Léon Denizard Rivail"]
+aliases: ["Hippolyte Léon Denizard Rivail", "Kardec"]
 ---
 
 > **Resumo:** Codificador da Doutrina Espírita — a **referência doutrinária externa** que baliza todo o trabalho do grupo ("não sair de Kardec").

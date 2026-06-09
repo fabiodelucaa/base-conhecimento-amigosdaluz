@@ -14,7 +14,7 @@ aliases: ["Francisco Cândido Xavier"]
 > **Resumo:** Médium brasileiro de enorme influência; citado pelo grupo como exemplo de bom humor na vivência espírita, e via as obras de André Luiz. Referência externa.
 
 ## Descrição
-**Francisco Cândido Xavier**, um dos médiuns mais influentes do Espiritismo brasileiro. Externo ao grupo.
+**Francisco Cândido Xavier**, um dos médiuns mais influentes do Espiritismo brasileiro. 
 
 ## Nos Amigos da Luz
 Citado por [[fabio-de-luca]] como exemplo de quem "usava sempre o humor, sempre que podia"; a dupla **Chico + Emmanuel** é lembrada como "fabulosa" no humor. As obras de **André Luiz** psicografadas por Chico (*Nosso Lar*, *Missionários da Luz*) foram a porta de entrada de [[sidney-grillo]] no Espiritismo.
