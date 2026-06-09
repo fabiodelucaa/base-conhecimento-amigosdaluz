@@ -6,7 +6,7 @@ areas: [institucional, juridico, comercial, comunicacao]
 status: ativo
 created: 2026-06-08
 updated: 2026-06-08
-sources: ["[[fonte-al-institucional]]"]
+sources: ["[[fonte-al-institucional]]", "[[fonte-al-historico]]"]
 tags: [institucional, identidade, dados-legais, contatos]
 aliases: ["Amigos da Luz", "AMIGOS DA LUZ PRODUTORA LTDA", "Amigos da Luz Produtora"]
 ---
@@ -14,54 +14,35 @@ aliases: ["Amigos da Luz", "AMIGOS DA LUZ PRODUTORA LTDA", "Amigos da Luz Produt
 > **Resumo:** Produtora artístico-cultural de humor espírita kardecista (audiovisual + cênico) — o nó institucional central da wiki.
 
 ## Descrição
-Produtora dedicada ao **humor espírita** ([[humor-espirita]]), com atuação integrada em **audiovisual** (YouTube e redes sociais) e **artes cênicas** (teatro, oficinas, eventos). Cria, produz e distribui vídeos, espetáculos, cursos e eventos que combinam entretenimento, espiritualidade e educação. ([[fonte-al-institucional]])
-
-- **Segmento:** produção audiovisual e teatral de humor espírita kardecista.
-- **Atuação:** digital e presencial.
+Produtora dedicada ao **humor espírita** ([[humor-espirita]]), com atuação integrada em **audiovisual** (YouTube e redes) e **artes cênicas** (teatro, oficinas, eventos). Cria, produz e distribui vídeos, espetáculos, cursos e eventos. ([[fonte-al-institucional]])
 
 ## Identidade
-- **Missão:** [[missao]]
-- **Visão:** [[visao]]
-- **Valores:** [[valores]]
+[[missao]] · [[visao]] · [[valores]] · [[humor-espirita]] · marca: [[identidade-de-marca]] / [[identidade-visual]].
 
 ## Dados legais
 | Campo | Dado |
 | --- | --- |
 | Razão Social | AMIGOS DA LUZ PRODUTORA LTDA |
-| Nome Fantasia | Amigos da Luz Produtora |
 | CNPJ | 12.378.545/0001-15 |
 | Natureza Jurídica | 206-2 — Sociedade Empresária Limitada |
 | Porte | Microempresa (ME) |
-| Inscrição Municipal (RJ) | 1231349-7 |
-| Capital Social | R$ 10.000,00 |
+| Inscrição Municipal (RJ) | 1231349-7 · Capital Social R$ 10.000,00 |
 | Fundação | 2008 (formalização em 2010) |
 
-Sócios: [[fabio-bastos-de-luca]] · [[fabio-de-oliveira-martins]].
+Sócios: [[fabio-de-luca]] · [[fabio-oliviere]].
 
 ## Contatos oficiais
-- **E-mail:** contato@amigosdaluz.com
-- **WhatsApp:** (21) 2669-2424
-- **Site:** www.amigosdaluz.com
+contato@amigosdaluz.com · WhatsApp (21) 2669-2424 · www.amigosdaluz.com · redes `@amigosdaluz` / `@canal.amigosdaluz`.
 
-## Redes sociais
-| Plataforma | Identificador |
-| --- | --- |
-| YouTube | `@amigosdaluz` |
-| Instagram | `@canal.amigosdaluz` |
-| TikTok | `@canal.amigosdaluz` |
-| Twitter/X | `@amigosdaluz` |
-| Facebook | `facebook.com/amigosdaluz` |
-
-A [[casa-de-cultura-amigos-da-luz]] tem canais próprios (`@casa.amigosdaluz`).
-
-## Sede
-[[casa-de-cultura-amigos-da-luz]] — Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro/RJ.
-
-## Relações
-- [[humor-espirita]] — método criativo central.
-- [[missao]] · [[visao]] · [[valores]] — identidade.
-- [[casa-de-cultura-amigos-da-luz]] — sede.
-- [[fabio-bastos-de-luca]] · [[fabio-de-oliveira-martins]] — sócios.
+## Mapa do grupo
+- **Pessoas:** [[fabio-de-luca]] · [[fabio-oliviere]] · elenco e colaboradores (ver [[fonte-al-equipe]]).
+- **Sede:** [[casa-de-cultura-amigos-da-luz]].
+- **Audiovisual:** [[canal-youtube-amigos-da-luz]].
+- **Teatro:** [[fim]] · [[60-minutos-para-morrer]] · repertório completo via [[historia-amigos-da-luz]].
+- **Negócio:** [[portfolio-de-negocios]] · [[circulacao-teatral]] · [[oficinas-e-cursos]] · [[estrutura-financeira]] · [[ferramentas-digitais]].
+- **Público & marca:** [[publico-alvo]] · [[cobertura-de-imprensa]] · [[pesquisa-academica]].
+- **Momento atual:** [[campanha-sos-amigos-da-luz]].
+- **História:** [[historia-amigos-da-luz]].
 
 ## Fontes
-- [[fonte-al-institucional]]
+- [[fonte-al-institucional]] · [[fonte-al-historico]]

@@ -115,9 +115,9 @@ ad hoc. Ver Seção 9 (Como evoluir o esquema).
 ### 3.3 Subtipos de entidade — `subtype:` para `type: entidade`
 
 Canônicos (extensíveis com deliberação): `pessoa`, `projeto`, `producao`, `documento`, `parceiro`,
-`evento`, `personagem`, `campanha`, `roteiro`, `organizacao`, `lugar`.
+`evento`, `personagem`, `campanha`, `roteiro`, `organizacao`, `lugar`, `canal`.
 
-Adições futuras prováveis (quando necessárias): `produto-servico`, `canal`, `acervo-item`.
+Adições futuras prováveis (quando necessárias): `produto-servico`, `acervo-item`.
 
 ### 3.4 Contexto espiritual
 

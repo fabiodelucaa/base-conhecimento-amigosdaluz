@@ -29,7 +29,7 @@ O próprio documento aponta para outras fontes ainda a ingerir (`AL_equipe_dados
 ## Pontos-chave
 - Segmento: produção audiovisual e teatral de **humor espírita kardecista**; atuação digital (YouTube/redes) e presencial (teatro, oficinas, eventos).
 - Razão social **AMIGOS DA LUZ PRODUTORA LTDA**, CNPJ **12.378.545/0001-15**, ME, capital social R$ 10.000,00.
-- Sócios: [[fabio-bastos-de-luca]] e [[fabio-de-oliveira-martins]]. Fundação em **2008**, formalização em **2010**.
+- Sócios: [[fabio-de-luca]] e [[fabio-oliviere]]. Fundação em **2008**, formalização em **2010**.
 - Contatos: contato@amigosdaluz.com · WhatsApp (21) 2669-2424 · www.amigosdaluz.com.
 - Redes: `@amigosdaluz` (YouTube/X/Facebook) e `@canal.amigosdaluz` (Instagram/TikTok); a Casa tem canais próprios (`@casa.amigosdaluz`).
 - Sede renomeada em 2026: "Espaço Cultural" → "Casa de Cultura Amigos da Luz".
@@ -37,6 +37,6 @@ O próprio documento aponta para outras fontes ainda a ingerir (`AL_equipe_dados
 ## Páginas que esta fonte alimenta
 - [[amigos-da-luz]]
 - [[casa-de-cultura-amigos-da-luz]]
-- [[fabio-bastos-de-luca]] · [[fabio-de-oliveira-martins]]
+- [[fabio-de-luca]] · [[fabio-oliviere]]
 - [[humor-espirita]]
 - [[missao]] · [[visao]] · [[valores]]

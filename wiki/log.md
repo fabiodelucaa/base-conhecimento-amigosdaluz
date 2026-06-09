@@ -39,7 +39,7 @@
 
 ## [2026-06-08] ingest | Institucional Amigos da Luz
 - Fonte criada: [[fonte-al-institucional]] (`raw/AL_institucional.md`).
-- Páginas criadas: [[amigos-da-luz]], [[casa-de-cultura-amigos-da-luz]], [[fabio-bastos-de-luca]], [[fabio-de-oliveira-martins]], [[humor-espirita]], [[missao]], [[visao]], [[valores]].
+- Páginas criadas: [[amigos-da-luz]], [[casa-de-cultura-amigos-da-luz]], [[fabio-de-luca]], [[fabio-oliviere]], [[humor-espirita]], [[missao]], [[visao]], [[valores]].
 - Áreas tocadas (via frontmatter): institucional, juridico, comercial, comunicacao, operacional, espiritual, criativo, artistico, administrativo.
 - Stubs a enriquecer: sócios e Casa de Cultura (pendentes de `AL_equipe_dados` / `AL_casa_cultura`).
 - Notas: sem contradições (vault estava vazio).
@@ -47,3 +47,13 @@
 ## [2026-06-08] setup | Entidade central renomeada + push delegado ao auto-sync
 - `amigos-da-luz-produtora` → [[amigos-da-luz]] — passa a ser referenciada pelo nome mais conhecido (nó central do vault). Título, links, arquivo e índice atualizados.
 - Removida a instrução de `git push` do `CLAUDE.md`, README e skills `obsd-al-*`: o **push** fica por conta do **auto-sync do Obsidian (Git plugin)**; o agente só **commita**.
+
+## [2026-06-08] schema | Novo subtipo de entidade: canal
+- Motivo: o canal do YouTube (principal vitrine) precisava de tipo próprio. `CLAUDE.md` §3.3 atualizado (`canal` agora canônico).
+
+## [2026-06-08] ingest | Documentos institucionais (lote de 21 fontes)
+- 20 páginas `fonte` novas (proveniência) — todos os docs `AL_*` de `raw/inbox/` (institucional já existia).
+- Conteúdo criado/enriquecido: 15 pessoas (com dados cadastrais — PII liberada pelo operador para este vault privado), 10 produções, 3 personagens, [[canal-youtube-amigos-da-luz]], [[campanha-sos-amigos-da-luz]], [[espiritismo-tv]]; conceitos [[identidade-de-marca]] e [[identidade-visual]] (+ [[humor-espirita]] enriquecido); 12 sínteses (história, portfólio, público, circulação, produção, oficinas, ferramentas, financeiro, métricas, imprensa, citações, academia); ideia [[escola-de-artes-espiritas]]; hubs [[amigos-da-luz]] e [[casa-de-cultura-amigos-da-luz]] enriquecidos.
+- Áreas tocadas: todas as 11.
+- Fontes movidas de `raw/inbox/` para `raw/`.
+- Notas: transcrições de entrevistas (`imprensa/`) e datasets de esquetes (`audiovisual/`) ficam para a próxima rodada. Vários campos "a completar" nas fontes originais permanecem como tal.

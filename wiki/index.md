@@ -1,67 +1,68 @@
 # Índice — Wiki Amigos da Luz
 
 > **Resumo:** Catálogo mestre da base de conhecimento dos Amigos da Luz, organizado por categoria.
-> Comece por aqui para localizar páginas. Cada entrada traz um resumo de uma linha para varredura
-> rápida (inclusive por agentes de IA). Esquema e workflows: ver [[CLAUDE]] na raiz do repositório.
+> Comece por aqui para localizar páginas. Esquema e workflows: ver [[CLAUDE]] na raiz do repositório.
 
-**Como navegar:** as **áreas** são hubs temáticos (dashboards Dataview que se atualizam sozinhos);
-as demais categorias são páginas de conteúdo conectadas por wikilinks. Áreas **não** são pastas — a
-estrutura transversal é o grafo de links.
+**Como navegar:** as **áreas** são hubs Dataview; as demais categorias são páginas conectadas por
+wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de links.
 
 ---
 
 ## Áreas
-*(11 hubs temáticos.)*
-
-- [[institucional|Institucional]] — identidade, missão, visão, valores, governança e estatuto.
-- [[administrativo|Administrativo]] — gestão interna, papéis, RH, associados, burocracia.
-- [[operacional|Operacional]] — rotinas, produção executiva, logística, espaço, eventos, fornecedores.
-- [[juridico|Jurídico]] — contratos, estatuto, direitos autorais, compliance, leis de incentivo.
-- [[financeiro|Financeiro]] — orçamentos, captação, patrocínio, prestação de contas, fluxo de caixa.
-- [[artistico|Artístico]] — espetáculos, repertório, encenação, técnica teatral, direção, elenco.
-- [[criativo|Criativo]] — desenvolvimento de conteúdo, conceitos criativos, processos de criação.
-- [[historico|Histórico]] — linha do tempo, marcos, memória do grupo, produções passadas.
-- [[espiritual|Espiritual]] — fundamentos espirituais (Espiritismo/kardecismo), princípios, práticas.
-- [[comercial|Comercial]] — parcerias comerciais, produtos, serviços, vendas, propostas.
-- [[comunicacao|Comunicação]] — marca, redes sociais, imprensa, divulgação, público.
+- [[institucional|Institucional]] · [[administrativo|Administrativo]] · [[operacional|Operacional]] · [[juridico|Jurídico]] · [[financeiro|Financeiro]] · [[artistico|Artístico]] · [[criativo|Criativo]] · [[historico|Histórico]] · [[espiritual|Espiritual]] · [[comercial|Comercial]] · [[comunicacao|Comunicação]]
 
 ## Entidades
-*(coisas concretas: pessoas, projetos, produções, documentos, parceiros, eventos, personagens, campanhas, roteiros.)*
 
-- [[amigos-da-luz|Amigos da Luz]] — produtora de humor espírita (organização central): dados legais, contatos, redes.
-- [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] — sede no Rio Comprido/RJ (ex-"Espaço Cultural").
-- [[fabio-bastos-de-luca|Fábio Bastos de Luca]] — sócio.
-- [[fabio-de-oliveira-martins|Fábio de Oliveira Martins]] — sócio.
+### Organização · Lugar · Canal
+- [[amigos-da-luz|Amigos da Luz]] — a produtora (nó central): identidade, dados legais, mapa do grupo.
+- [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] — sede no Rio Comprido/RJ; infra e serviços.
+- [[canal-youtube-amigos-da-luz|Canal do YouTube]] — principal vitrine; 435 mil inscritos, métricas.
+
+### Pessoas
+- [[fabio-de-luca|Fábio de Luca]] — sócio-fundador; ator/diretor/roteirista/apresentador.
+- [[fabio-oliviere|Fábio Oliviere]] — sócio co-fundador; produção executiva, cenografia.
+- [[alex-moczy|Alex Moczy]] · [[carla-guapyassu|Carla Guapyassú]] · [[ewerton-oliveira|Ewerton Oliveira]] · [[jean-rizo|Jean Rizo]] · [[loeni-mazzei|Loeni Mazzei]] · [[mariah-huguenin|Mariah Huguenin]] · [[natali-pazete|Natali Pazete]] · [[sidney-grillo|Sidney Grillo]] (†) · [[sonia-barbosa|Sônia Barbosa]] — elenco fixo.
+- [[babi|Babi]] (Libras) · [[thiago-brito|Thiago Brito]] (consultor) · [[thiago-moreno|Thiago Moreno]] (roteirista) · [[victoria-bastos|Victória Bastos]] (design/edição) — colaboradores.
+
+### Produções
+- [[morrendo-e-aprendendo|Morrendo e Aprendendo]] (2008, fundação) · [[muito-alem-da-janela|Muito Além da Janela]] (2009) · [[na-praca-dos-girassois|Na Praça dos Girassóis]] (2010) · [[reencarnashow|ReencarnaShow]] (2011) · [[samara-sempre-sabe|Samara Sempre Sabe]] (2013) · [[irmas-buonanotte|Irmãs Buonanotte]] (2014) · [[fim|Fim?]] (2022) · [[60-minutos-para-morrer|60 Minutos Para Morrer]] (2024).
+- [[uma-divida-de-natal|Uma Dívida de Natal]] (2018, filme) · [[alem-das-janelas|Além das Janelas]] (2019, websérie).
+
+### Personagens
+- [[daniel-e-a-mentorona|Daniel e a Mentorona]] · [[preces-do-alberto|Preces do Alberto]] · [[elisa-a-evoluida|Elisa, a Evoluída]].
+
+### Campanha · Parceiro
+- [[campanha-sos-amigos-da-luz|Campanha S.O.S. Amigos da Luz]] — arrecadação/sustentabilidade (2025–).
+- [[espiritismo-tv|Espiritismo.tv]] — plataforma parceira de distribuição.
 
 ## Conceitos
-*(ideias abstratas, valores, métodos, doutrina.)*
-
-- [[humor-espirita|Humor Espírita]] — método criativo central: humor como ponte para a Doutrina Espírita.
-- [[missao|Missão]] — unir humor e espiritualidade, tornando a Doutrina acessível.
-- [[visao|Visão]] — referência nacional + modelo de negócio robusto.
-- [[valores|Valores]] — os sete valores institucionais.
+- [[humor-espirita|Humor Espírita]] — método criativo central.
+- [[missao|Missão]] · [[visao|Visão]] · [[valores|Valores]] — identidade institucional.
+- [[identidade-de-marca|Identidade de Marca]] — posicionamento, pilares, tom de voz.
+- [[identidade-visual|Identidade Visual]] — paleta, tipografia, aplicações.
 
 ## Ideias
-*(baú criativo — sementes ainda não promovidas.)*
-
-- *(vazio.)*
+- [[escola-de-artes-espiritas|Escola de Artes Espíritas]] — `semente`: braço formativo permanente (futuro).
 
 ## Decisões
-*(uma página por decisão, rastreável.)*
-
 - *(vazio.)*
 
 ## Reuniões
-*(atas / notas de reunião.)*
-
 - *(vazio.)*
-
-## Fontes
-*(um resumo por fonte ingerida — proveniência.)*
-
-- [[fonte-al-institucional|Institucional Amigos da Luz]] — ficha institucional: identidade, dados legais, contatos, redes, sede.
 
 ## Sínteses
-*(visões transversais e análises.)*
+- [[historia-amigos-da-luz|História dos Amigos da Luz]] — trajetória 2007→2026.
+- [[portfolio-de-negocios|Portfólio de Negócios]] — 6 verticais + estratégia.
+- [[publico-alvo|Público-Alvo]] — perfil e ativação da audiência.
+- [[circulacao-teatral|Circulação Teatral]] — modelo de parceria e turnês.
+- [[producao-workflow|Workflow de Produção]] — 7 fases do vídeo.
+- [[oficinas-e-cursos|Oficinas e Cursos]] — oferta formativa.
+- [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.
+- [[estrutura-financeira|Estrutura Financeira]] — receitas e despesas.
+- [[metricas-do-canal|Métricas do Canal]] — KPIs do YouTube.
+- [[cobertura-de-imprensa|Cobertura de Imprensa]] — índice de entrevistas.
+- [[citacoes-chave|Citações-Chave]] — voz autêntica do grupo.
+- [[pesquisa-academica|Pesquisa Acadêmica]] — TCCs, artigos, tese.
 
-- *(vazio.)*
+## Fontes
+- [[fonte-al-institucional|Institucional]] · [[fonte-al-equipe|Equipe]] · [[fonte-al-equipe-dados|Diretório da Equipe]] · [[fonte-al-casa-cultura|Casa de Cultura]] · [[fonte-al-historico|Histórico]] · [[fonte-al-portfolio|Portfólio]] · [[fonte-al-publico|Público]] · [[fonte-al-id-marca|Id. de Marca]] · [[fonte-al-id-visual|Id. Visual]] · [[fonte-al-repertorio|Repertório]] · [[fonte-al-audiovisual|Audiovisual]] · [[fonte-al-producao|Produção]] · [[fonte-al-oficinas-cursos|Oficinas e Cursos]] · [[fonte-al-circulacao|Circulação]] · [[fonte-al-financeiro|Financeiro]] · [[fonte-al-metricas|Métricas]] · [[fonte-al-imprensa|Imprensa]] · [[fonte-al-academia|Academia]] · [[fonte-al-citacoes|Citações]] · [[fonte-al-contatos-externos|Contatos Externos]] · [[fonte-al-ferramentas|Ferramentas]]

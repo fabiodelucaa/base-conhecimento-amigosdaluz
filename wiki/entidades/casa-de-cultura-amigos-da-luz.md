@@ -3,31 +3,39 @@ title: "Casa de Cultura Amigos da Luz"
 type: entidade
 subtype: lugar
 areas: [operacional, institucional, espiritual]
-status: rascunho
+status: ativo
 created: 2026-06-08
 updated: 2026-06-08
-sources: ["[[fonte-al-institucional]]"]
-tags: [sede, casa-de-cultura]
+sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]"]
+tags: [casa-de-cultura, sede, infraestrutura]
 aliases: ["Espaço Cultural Amigos da Luz", "Casa de Cultura"]
 ---
 
-> **Resumo:** Sede dos Amigos da Luz — casa de cultura no Rio Comprido/RJ (ex-"Espaço Cultural Amigos da Luz", renomeada em 2026).
+> **Resumo:** Sede operacional da produtora e hub cultural aberto — casarão no Rio Comprido/RJ (ex-"Espaço Cultural", renomeado em 2026).
 
-## Descrição
-Sede física da [[amigos-da-luz]]. ([[fonte-al-institucional]])
-
+## Identificação
 - **Endereço:** Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro – RJ, CEP 20250-460.
-- **Site:** amigosdaluz.com/casa
-- **Instagram:** `@casa.amigosdaluz`
+- **Site:** amigosdaluz.com/casa · **Instagram:** @casa.amigosdaluz
+- **Papel:** sede da [[amigos-da-luz]] + hub de atividades culturais, artísticas e educacionais.
 
-> ⚠️ Infraestrutura, serviços e programação completos ainda **não ingeridos** — virão de `AL_casa_cultura.md`.
+## Missão/Visão/Valores (próprios da Casa)
+Distintos dos da produtora ([[missao]]/[[visao]]/[[valores]]). **Missão:** promover diversidade e inclusão num ambiente acolhedor de formação e prática artística. **Visão:** ser referência em inovação cultural no Rio. **Valores:** inclusão, criatividade, comunidade, educação, inovação.
 
-## Cronologia
-- até 2026 — chamava-se **Espaço Cultural Amigos da Luz**.
-- 2026 — renomeada para **Casa de Cultura Amigos da Luz**.
+## Infraestrutura (climatizada)
+| Espaço | Equipamentos |
+| --- | --- |
+| Sala de Espetáculos / Cine-teatro | palco, iluminação cênica, som, projetor 4K ⚠️ (a consertar), telão |
+| Sala de Aula | (+ jardim de inverno) |
+| Estúdio de Podcast | gravação/streaming A/V |
+| Estúdio Multiuso | chroma-key, fundo infinito |
+| Acervo | figurinos, equipamentos cênicos |
+
+## Atividades e serviços
+- **Uso interno:** gravações de vídeo/podcast, ensaios e montagens teatrais; temporadas de [[fim]], [[60-minutos-para-morrer]].
+- **Ao público (a implementar):** formação ([[oficinas-e-cursos]]), produção de terceiros, gravação (vídeo-books, cursos), eventos, aluguel de estúdios/salas.
 
 ## Relações
-- [[amigos-da-luz]] — é a sede da produtora.
+- [[amigos-da-luz]] (sede) · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos)
 
 ## Fontes
-- [[fonte-al-institucional]]
+- [[fonte-al-casa-cultura]] · [[fonte-al-institucional]]
