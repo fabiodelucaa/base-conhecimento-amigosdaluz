@@ -87,3 +87,9 @@
 ## [2026-06-09] ingest | Depoimentos do elenco (TCC) nas páginas de pessoas
 - Citações do TCC ([[fonte-tcc-teatro-humor-espiritualidade]]) adicionadas a **9 pessoas**: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]] (+ alias "Bárbara Barbosa"), [[fabio-de-luca]], [[fabio-oliviere]].
 - Fecha a lacuna registrada em [[pesquisa-academica]].
+
+## [2026-06-09] ingest | Espiritismo: gênese histórica + resumo da doutrina (Kardec)
+- Fonte: [[fonte-espiritismo-simples-expressao]] (extratos de *O Espiritismo em sua mais simples expressão*).
+- **2 conceitos guarda-chuva:** [[espiritismo]] (doutrina + tríplice aspecto, reunindo os conceitos doutrinários) e [[genese-do-espiritismo]] (origem 1848 → Codificação).
+- Linkados a [[humor-espirita]] (base doutrinária) e ao índice (novo bloco "Fundamentos").
+- Arquivos movidos p/ `raw/doutrina/` (historico-do-espiritismo, resumo-doutrina-espirita), renomeados kebab-ASCII.
