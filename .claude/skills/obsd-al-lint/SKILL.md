@@ -34,7 +34,33 @@ Escaneie `wiki/**` e produza um **relatório** (não edite em massa). Categorias
 10. **Lacunas** preenchíveis por web search; **páginas candidatas** e boas perguntas de acompanhamento.
 
 ## Como reportar
-**Checklist por categoria**, com caminho do arquivo e descrição do problema. Priorize (alto / médio / baixo). **Não corrija nada ainda.**
+Relatório no chat, **sem auto-corrigir nada**, agrupado por **severidade** (não por categoria) — assim o operador ataca primeiro o que quebra o grafo. Cada item: `[[slug]]` (ou caminho) + descrição de uma linha. Modelo:
+
+```markdown
+## Lint — <escopo> — AAAA-MM-DD
+
+### 🔴 Críticos (quebram o grafo / o Dataview)
+- [[slug]] — wikilink quebrado para [[destino-inexistente]]
+- [[slug]] — frontmatter sem `type` (ou `type`/`area` fora do vocabulário)
+- [[area-xyz]] — `areas:` ou bloco `dataview` quebrado → hub não popula
+
+### 🟠 Altos (inconsistência estrutural)
+- [[slug]] — backlink faltando: linka [[outro]], mas [[outro]] não o menciona
+- [[slug]] — `entidade` sem `subtype`
+- [[slug]] — slug/tag com acento (`reuniao-são-paulo` → `reuniao-sao-paulo`)
+
+### 🟡 Médios (conteúdo)
+- [[slug]] — claim `X` marcado `⚠️ não verificado`; fonte [[fonte-y]] parece cobrir
+- Conceito `Z` citado em 4 páginas, sem página própria (candidato a nó novo)
+- [[slug]] — contradiz [[outro]] sobre W (nenhum dos dois resolvido)
+
+### 🟢 Baixos (cosmético / índice)
+- `wiki/index.md` — página [[slug]] existe mas não está listada
+- [[slug-isolado]] — página órfã (nenhum link de entrada)
+- [[slug]] — `updated` mais antigo que a última edição real
+```
+
+**Não corrija nada ainda** — o relatório vem primeiro.
 
 ## Correções (só com OK)
 Aplique correções **somente com confirmação** do operador (ou se ele já disse "corrige o que achar"). Ao aplicar:
@@ -49,3 +75,11 @@ Aplique correções **somente com confirmação** do operador (ou se ele já dis
 
 ## Por que essas regras existem
 Wikis crescem por acreção e degradam em silêncio: links apodrecem, frontmatter diverge, páginas viram ilhas. O lint é o raio-x periódico. O relatório-antes-de-corrigir mantém o operador no controle e evita "consertos" que destroem nuance — por exemplo, apagar uma contradição que na verdade era um achado real a investigar.
+
+## Uso de web search durante o lint
+Para checar **lacunas** (categoria 10) e claims marcados `> ⚠️ não verificado`, é permitido usar web search. Resultado de cada checagem:
+- **Verificado** → propor remover a marca `⚠️` e adicionar a citação/fonte no corpo.
+- **Contradito** → propor marcar `> ⚠️ contradição com <fonte>` e **discutir com o operador** antes de alterar.
+- **Inconclusivo** → manter `⚠️` e anotar que a busca foi feita (para não repetir à toa).
+
+Vale a regra dura de sempre: nada muda sem o OK do operador.

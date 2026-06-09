@@ -29,3 +29,6 @@
 - Escolha do operador: ignorar binários de plugin, versionar config.
 - `.gitignore`: adicionados `.obsidian/plugins/` e `.obsidian/cache` (`workspace*` já estava).
 - Versionados: `.obsidian/{app,appearance,core-plugins,community-plugins,graph}.json`. Dataview instala-se via README.
+
+## [2026-06-08] setup | obsd-al-lint: relatório por severidade + verificação via web search
+- Portadas 2 ideias do lint do vault irmão: modelo de relatório por severidade (🔴🟠🟡🟢) e protocolo de web search para claims `⚠️ não verificado` (verificado / contradito / inconclusivo).
