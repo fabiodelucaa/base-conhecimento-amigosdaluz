@@ -4,8 +4,8 @@ type: conceito
 areas: [espiritual, criativo]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-acervo-esquetes]]"]
+updated: 2026-06-09
+sources: ["[[fonte-acervo-esquetes]]", "[[fonte-notas-fenomenos-mediunicos]]"]
 tags: [doutrina-espirita, espiritismo, mediunidade, passe]
 aliases: []
 ---
@@ -21,8 +21,11 @@ Capacidade de servir de intermediário às comunicações dos espíritos; existe
 ## Aprofundamento doutrinário
 Vault `base-conhecimento` › `concepts/mediunidade.md`, `concepts/psicografia.md`, `concepts/psicofonia.md`, `concepts/comunicacao-mediunica.md`.
 
+## Fenômenos relacionados
+A mediunidade e a emancipação da alma abrangem fenômenos estudados à parte: [[psicofonia]] (médium falante), [[clarividencia]], [[desdobramento]], [[bicorporeidade]] e o [[fenomeno-de-transporte]] (aporte). Notas doutrinárias em [[fonte-notas-fenomenos-mediunicos]].
+
 ## Relações
 - [[obsessao]] · [[reforma-intima]] · [[humor-espirita]] · [[canal-youtube-amigos-da-luz]]
 
 ## Fontes
-- [[fonte-acervo-esquetes]]
+- [[fonte-acervo-esquetes]] · [[fonte-notas-fenomenos-mediunicos]]

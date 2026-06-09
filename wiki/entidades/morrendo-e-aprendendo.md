@@ -5,8 +5,8 @@ subtype: producao
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-repertorio]]", "[[fonte-al-historico]]"]
+updated: 2026-06-09
+sources: ["[[fonte-al-repertorio]]", "[[fonte-al-historico]]", "[[fonte-dissertacao-religiao-humor]]"]
 tags: [teatro, espetaculo, comedia-espirita, fundacao]
 aliases: ["Uma Comédia do Outro Mundo"]
 ---
@@ -24,8 +24,11 @@ Presa em seu próprio velório, o espírito de Lourdes Thereza — socialite mat
 ## Temas
 Vida após a morte, reencarnação, evolução espiritual, lei de causa e efeito.
 
+## Reconhecimento acadêmico
+Analisada na dissertação de [[grazyelle-de-carvalho-fonseca|Grazyelle Fonseca]] (observação presencial em Saquarema, 30/03/2018) e no TCC de [[fabio-oliviere]]. Protagonista: a socialite Lourdes Thereza.
+
 ## Relações
-- [[amigos-da-luz]] · [[historia-amigos-da-luz]] (fundação) · [[sidney-grillo]] (elenco fundador) · [[humor-espirita]]
+- [[amigos-da-luz]] · [[historia-amigos-da-luz]] (fundação) · [[fabio-de-luca]] (autor/roteiro) · [[sidney-grillo]] (elenco fundador) · [[humor-espirita]] · [[pesquisa-academica]]
 
 ## Fontes
 - [[fonte-al-repertorio]] · [[fonte-al-historico]]

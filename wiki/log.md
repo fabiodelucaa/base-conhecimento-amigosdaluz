@@ -75,3 +75,11 @@
 - 3 entidades (referência externa, subtype pessoa): [[allan-kardec]] (codificador), [[divaldo-franco]] (orador/incentivador do grupo), [[chico-xavier]] (médium) — citadas no vault e agora com página; cross-ref ao vault irmão `base-conhecimento` (Chico ainda sem página lá).
 - Índice: nova linha "Referências espíritas externas" em Pessoas.
 - **Tags padronizadas** em 14 páginas (só nas linhas `tags:`): `kardecismo`→`espiritismo`, `doutrina`→`doutrina-espirita`.
+
+## [2026-06-09] ingest | Acadêmicos (4) + fenômenos mediúnicos (6) + biografia de Leopoldo
+- **6 fontes:** [[fonte-tcc-teatro-humor-espiritualidade]] (Fábio Oliviere/Estácio 2025), [[fonte-dissertacao-religiao-humor]] (Grazyelle Fonseca/UERJ 2019), [[fonte-artigo-espiritismo-humor-youtube]] e [[fonte-artigo-espiritismo-vies-do-riso]] (Alanne Almeida & Robéria Nascimento/UEPB 2019), [[fonte-notas-fenomenos-mediunicos]], [[fonte-biografia-leopoldo-machado]].
+- **6 conceitos (fenômenos):** [[psicofonia]], [[clarividencia]], [[desdobramento]], [[bicorporeidade]], [[fenomeno-de-transporte]], [[terapia-pela-oracao]] — satélites de [[mediunidade]], com cross-ref ao vault irmão.
+- **3 pesquisadoras:** [[grazyelle-de-carvalho-fonseca]], [[alanne-almeida]], [[roberia-nascimento]].
+- **Expandidos:** [[humor-espirita]] (fundamentação acadêmica), [[pesquisa-academica]] (catálogo corrigido — a "tese UERJ 2018" e "Religião e humor" eram o **mesmo** trabalho: a dissertação de Grazyelle, 2019), [[leopoldo-machado]] (biografia + precursor do teatro espírita), [[mediunidade]], [[morrendo-e-aprendendo]], [[fabio-oliviere]], [[historia-amigos-da-luz]] (+conflito 2017).
+- **Achados:** origem do nome = "Bairro da Luz" (Nova Iguaçu); **fundação 2008** (estreia de *Morrendo e Aprendendo*) confirmada pelo operador, com articulação/ensaios em 2007; conflito com federação espírita (01/10/2017, grupo manteve posição).
+- **Arquivos movidos** e renomeados para kebab-ASCII: `raw/academico/` (4), `raw/doutrina/` (6), `raw/historico/` (1).

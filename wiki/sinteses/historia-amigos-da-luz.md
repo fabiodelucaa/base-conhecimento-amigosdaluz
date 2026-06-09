@@ -4,7 +4,7 @@ type: sintese
 areas: [historico, institucional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: ["[[fonte-al-historico]]", "[[fonte-al-imprensa]]"]
 tags: [historia, linha-do-tempo, marcos]
 aliases: []
@@ -15,7 +15,7 @@ aliases: []
 ## Linha do tempo
 - **2007** origem (encontros entre atores da Baixada) · **14/06/2008** estreia de *[[morrendo-e-aprendendo]]* (data de fundação) · **2009** *[[muito-alem-da-janela]]*.
 - **2010** formalização da [[amigos-da-luz|produtora]]; *[[na-praca-dos-girassois]]*; Teatro Transcendental (presídios-CE) · **2011** *[[reencarnashow]]* · **2013** *[[samara-sempre-sabe]]* · **2014** *[[irmas-buonanotte]]*.
-- **20/03/2015** lançamento do [[canal-youtube-amigos-da-luz|canal]] (esquetes semanais) · **2018** *[[uma-divida-de-natal]]*, 252 mil inscritos, TV Brasil · **2019** *[[alem-das-janelas]]*.
+- **20/03/2015** lançamento do [[canal-youtube-amigos-da-luz|canal]] (esquetes semanais) · **2017** debate com uma federação espírita sobre humor + doutrina (grupo mantém a posição; ~99% de aprovação no canal) · **2018** *[[uma-divida-de-natal]]*, 252 mil inscritos, TV Brasil · **2019** *[[alem-das-janelas]]*.
 - **2020** pandemia → digital; início da [[casa-de-cultura-amigos-da-luz|Casa]]; Lives de Estudo · **2022** *[[fim]]* · **2024** *[[60-minutos-para-morrer]]*.
 - **2025** [[campanha-sos-amigos-da-luz|Campanha S.O.S.]] · **2026** Casa renomeada ("Espaço Cultural" → "Casa de Cultura").
 
@@ -26,7 +26,7 @@ Formação (2007–2010) → repertório teatral (2011–2015) → expansão dig
 Dupla: **literal** (Bairro da Luz, Nova Iguaçu, onde os fundadores moravam — num espaço na casa da mãe de [[fabio-oliviere|Fábio Oliviere]]) e **simbólica** (luz = conhecimento e alegria).
 
 ## Marcos de reconhecimento
-Mostra Brasileira de Teatro Transcendental; apresentações em presídios-CE (2010, 2013); tese de mestrado UERJ (2018); reportagem na TV Brasil; cobertura em portais espíritas. Ver [[pesquisa-academica]] e [[cobertura-de-imprensa]].
+Mostra Brasileira de Teatro Transcendental; apresentações em presídios-CE (2010, 2013); dissertação de mestrado UERJ (2019, Grazyelle Fonseca) e artigos acadêmicos (UEPB, 2019); reportagem na TV Brasil; cobertura em portais espíritas. Ver [[pesquisa-academica]] e [[cobertura-de-imprensa]].
 
 ## Fontes
 - [[fonte-al-historico]] · [[fonte-al-imprensa]]
