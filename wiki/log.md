@@ -57,3 +57,9 @@
 - Áreas tocadas: todas as 11.
 - Fontes movidas de `raw/inbox/` para `raw/`.
 - Notas: transcrições de entrevistas (`imprensa/`) e datasets de esquetes (`audiovisual/`) ficam para a próxima rodada. Vários campos "a completar" nas fontes originais permanecem como tal.
+
+## [2026-06-08] ingest | Entrevistas (14 transcrições integrais)
+- 14 páginas `fonte` novas (`fonte-entrevista-*`); transcrições movidas de `raw/inbox/` para `raw/imprensa/`.
+- Nova pessoa: [[leopoldo-machado]] (educador espírita; referência formativa de [[fabio-de-luca]] e [[thiago-brito]], via Colégio Leopoldo).
+- Enriquecidas: [[cobertura-de-imprensa]] (links das 14 fontes), [[fabio-de-luca]], [[sidney-grillo]].
+- Notas: aprofundam/validam o que já havia em [[cobertura-de-imprensa]] e [[citacoes-chave]]. Esquetes individuais e figuras externas citadas (Divaldo, Aroldo, Rossandro) ficaram só mencionados. Datasets de esquetes (`audiovisual/`) ficam para depois.

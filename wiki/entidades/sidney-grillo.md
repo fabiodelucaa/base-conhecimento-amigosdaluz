@@ -25,7 +25,8 @@ Ator. Entrou em 1995 pela Cia. Menospausa Cultural. Integrou o elenco desde a pr
 - **Instagram:** @grillosidney
 
 ## Relações
-- [[amigos-da-luz]] — elenco fundador. · [[morrendo-e-aprendendo]] — primeira peça.
+- [[amigos-da-luz]] — elenco fundador. · [[morrendo-e-aprendendo]] — primeira peça. · [[reencarnashow]] — em ensaio em 2017. · [[thiago-brito]] — entrevistador no *Carona Espírita*.
 
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]] · [[fonte-al-imprensa]]
+- Entrevistas: [[fonte-entrevista-carona-espirita-sidney-grillo-2017]] · [[fonte-entrevista-depoimentos-equipe-2015]] · [[fonte-entrevista-tv-nova-luz-2015]]

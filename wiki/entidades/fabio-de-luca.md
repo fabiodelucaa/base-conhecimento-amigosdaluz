@@ -19,7 +19,7 @@ Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-pr
 ## Trajetória / créditos
 - Integrou o elenco do **Parafernalha** e consolidou-se no **Porta dos Fundos** como ator/comediante.
 - Novelas/séries: Detetive Sabiá em *Êta Mundo Melhor!* (TV Globo, 2025–2026); Coronel Tenório Madeira no remake de *Dona Beja* (Max, 2026).
-- Aluno do Colégio Leopoldo (Nova Iguaçu); cita Leopoldo Machado como referência.
+- Aluno do **Colégio Leopoldo** (Nova Iguaçu); cita [[leopoldo-machado]] como referência formativa (colega de colégio: [[thiago-brito]]). Conheceu o espiritismo lendo *O Livro dos Espíritos*.
 
 ## Dados cadastrais e contato
 - **Nome completo:** Fábio Bastos de Luca · **Nascimento:** 20/03/1980
@@ -36,3 +36,4 @@ Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-pr
 
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-institucional]] · [[fonte-al-citacoes]]
+- Entrevistas: [[fonte-entrevista-carona-espirita-fabio-p1-2017]] · [[fonte-entrevista-carona-espirita-fabio-p2-2017]] · [[fonte-entrevista-trajetoria-amigos-da-luz]] · [[fonte-entrevista-tv-brasil-viralizando-2018]] · [[fonte-entrevista-correio-news-2020]]
