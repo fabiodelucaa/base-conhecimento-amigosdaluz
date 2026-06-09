@@ -6,7 +6,7 @@ status: ativo
 created: 2026-06-08
 updated: 2026-06-08
 sources: ["[[fonte-al-institucional]]", "[[fonte-al-id-marca]]", "[[fonte-al-citacoes]]", "[[fonte-al-academia]]"]
-tags: [humor-espirita, kardecismo, identidade, metodo]
+tags: [humor-espirita, espiritismo, identidade, metodo]
 aliases: []
 ---
 

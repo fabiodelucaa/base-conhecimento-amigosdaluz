@@ -70,3 +70,8 @@
 - 2 pessoas: [[kelli-sacalem]], [[isabelle-oliveira]] (produção de circulação — o vault irmão tem páginas delas).
 - Enriquecidos: [[canal-youtube-amigos-da-luz]] (acervo), [[circulacao-teatral]] (guia/info-pack).
 - Notas: os 250 esquetes **não** viraram páginas individuais — acervo consultável via JSON/índice temático, conforme o próprio doc recomenda.
+
+## [2026-06-09] ingest+manutencao | Figuras espíritas de referência + padronização de tags
+- 3 entidades (referência externa, subtype pessoa): [[allan-kardec]] (codificador), [[divaldo-franco]] (orador/incentivador do grupo), [[chico-xavier]] (médium) — citadas no vault e agora com página; cross-ref ao vault irmão `base-conhecimento` (Chico ainda sem página lá).
+- Índice: nova linha "Referências espíritas externas" em Pessoas.
+- **Tags padronizadas** em 14 páginas (só nas linhas `tags:`): `kardecismo`→`espiritismo`, `doutrina`→`doutrina-espirita`.

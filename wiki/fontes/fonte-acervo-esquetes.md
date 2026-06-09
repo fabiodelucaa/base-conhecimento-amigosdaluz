@@ -6,7 +6,7 @@ status: ativo
 created: 2026-06-08
 updated: 2026-06-08
 sources: ["raw/audiovisual/lista-videos-canal-youtube.json", "raw/audiovisual/indice-esquetes-por-tema.md"]
-tags: [audiovisual, esquetes, dataset, acervo, doutrina]
+tags: [audiovisual, esquetes, dataset, acervo, doutrina-espirita]
 aliases: []
 ---
 

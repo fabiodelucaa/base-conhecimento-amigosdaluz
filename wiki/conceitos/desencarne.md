@@ -6,7 +6,7 @@ status: ativo
 created: 2026-06-08
 updated: 2026-06-08
 sources: ["[[fonte-acervo-esquetes]]"]
-tags: [doutrina, kardecismo, desencarne, luto, morte]
+tags: [doutrina-espirita, espiritismo, desencarne, luto, morte]
 aliases: ["morte", "vida após a morte"]
 ---
 

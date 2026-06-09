@@ -6,7 +6,7 @@ status: ativo
 created: 2026-06-08
 updated: 2026-06-08
 sources: ["[[fonte-acervo-esquetes]]"]
-tags: [doutrina, kardecismo, mediunidade, passe]
+tags: [doutrina-espirita, espiritismo, mediunidade, passe]
 aliases: []
 ---
 

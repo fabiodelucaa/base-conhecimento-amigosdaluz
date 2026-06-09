@@ -25,6 +25,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[babi|Babi]] (Libras) · [[thiago-brito|Thiago Brito]] (consultor) · [[thiago-moreno|Thiago Moreno]] (roteirista) · [[victoria-bastos|Victória Bastos]] (design/edição) — colaboradores.
 - [[kelli-sacalem|Kelli Sacalém]] · [[isabelle-oliveira|Isabelle de Oliveira]] — produção de circulação (vínculo a confirmar).
 - Referência externa: [[leopoldo-machado|Leopoldo Machado]] — educador espírita (Colégio Leopoldo), influência formativa.
+- Referências espíritas externas: [[allan-kardec|Allan Kardec]] (codificador) · [[divaldo-franco|Divaldo Franco]] (orador, incentivador) · [[chico-xavier|Chico Xavier]] (médium).
 
 ### Produções
 - [[morrendo-e-aprendendo|Morrendo e Aprendendo]] (2008, fundação) · [[muito-alem-da-janela|Muito Além da Janela]] (2009) · [[na-praca-dos-girassois|Na Praça dos Girassóis]] (2010) · [[reencarnashow|ReencarnaShow]] (2011) · [[samara-sempre-sabe|Samara Sempre Sabe]] (2013) · [[irmas-buonanotte|Irmãs Buonanotte]] (2014) · [[fim|Fim?]] (2022) · [[60-minutos-para-morrer|60 Minutos Para Morrer]] (2024).
