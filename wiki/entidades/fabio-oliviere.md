@@ -6,7 +6,7 @@ areas: [artistico, operacional, institucional, administrativo]
 status: ativo
 created: 2026-06-08
 updated: 2026-06-09
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]"]
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [socio, producao, direcao, cenografia, iluminacao]
 aliases: ["Fábio de Oliveira Martins", "Fábio Oliviere"]
 ---
@@ -31,6 +31,10 @@ Responsável por produção executiva, direção de arte, cenografia, iluminaç�
 ## Relações
 - [[amigos-da-luz]] — sócio co-fundador. · [[fabio-de-luca]] — sócio co-fundador.
 - [[producao-workflow]] (produção executiva, aprovações) · [[circulacao-teatral]] (aprovador final) · [[casa-de-cultura-amigos-da-luz]]
+
+## Depoimento (TCC 2025)
+> *"A gente queria divertir, mas também deixar uma marquinha boa em quem assistisse."*
+> — no próprio TCC; sediou os primeiros ensaios do grupo em casa, no Bairro da Luz ([[fonte-tcc-teatro-humor-espiritualidade]]).
 
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-institucional]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]]

@@ -83,3 +83,7 @@
 - **Expandidos:** [[humor-espirita]] (fundamentação acadêmica), [[pesquisa-academica]] (catálogo corrigido — a "tese UERJ 2018" e "Religião e humor" eram o **mesmo** trabalho: a dissertação de Grazyelle, 2019), [[leopoldo-machado]] (biografia + precursor do teatro espírita), [[mediunidade]], [[morrendo-e-aprendendo]], [[fabio-oliviere]], [[historia-amigos-da-luz]] (+conflito 2017).
 - **Achados:** origem do nome = "Bairro da Luz" (Nova Iguaçu); **fundação 2008** (estreia de *Morrendo e Aprendendo*) confirmada pelo operador, com articulação/ensaios em 2007; conflito com federação espírita (01/10/2017, grupo manteve posição).
 - **Arquivos movidos** e renomeados para kebab-ASCII: `raw/academico/` (4), `raw/doutrina/` (6), `raw/historico/` (1).
+
+## [2026-06-09] ingest | Depoimentos do elenco (TCC) nas páginas de pessoas
+- Citações do TCC ([[fonte-tcc-teatro-humor-espiritualidade]]) adicionadas a **9 pessoas**: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]] (+ alias "Bárbara Barbosa"), [[fabio-de-luca]], [[fabio-oliviere]].
+- Fecha a lacuna registrada em [[pesquisa-academica]].

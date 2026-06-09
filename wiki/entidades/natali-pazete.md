@@ -5,8 +5,8 @@ subtype: pessoa
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]"]
+updated: 2026-06-09
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, atriz, dublagem]
 aliases: ["Natali de Souza Pazete"]
 ---
@@ -30,5 +30,9 @@ Atriz e dubladora.
 ## Relações
 - [[amigos-da-luz]] — elenco fixo.
 
+## Depoimento (TCC 2025)
+> *"O humor desarma. A pessoa chega com preconceito ou medo do tema, mas quando ri, o coração se abre."*
+> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
+
 ## Fontes
-- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]]
+- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]

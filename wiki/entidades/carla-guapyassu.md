@@ -5,8 +5,8 @@ subtype: pessoa
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]"]
+updated: 2026-06-09
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, atriz, preparacao-vocal]
 aliases: ["Carla Guapyassú Meirelles do Nascimento"]
 ---
@@ -33,5 +33,10 @@ Atriz. Atua também como preparadora vocal em diversas produções.
 ## Relações
 - [[amigos-da-luz]] — elenco fixo (preparação vocal).
 
+## Depoimento (TCC 2025)
+> *"A comédia abre uma porta que o discurso não abre."*
+> *"Humor não é deboche. A gente ri com o público, nunca do público."*
+> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
+
 ## Fontes
-- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]]
+- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]] · [[fonte-tcc-teatro-humor-espiritualidade]]

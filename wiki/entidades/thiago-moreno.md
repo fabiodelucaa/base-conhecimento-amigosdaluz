@@ -5,8 +5,8 @@ subtype: pessoa
 areas: [criativo]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]"]
+updated: 2026-06-09
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [colaborador, roteirista]
 aliases: ["Thiago Moreno dos Santos Cardoso"]
 ---
@@ -27,5 +27,9 @@ Roteirista. Especialista em conceitos criativos, campanhas, roteiros e gestão d
 ## Relações
 - [[amigos-da-luz]] — colaborador (roteirista). · [[producao-workflow]]
 
+## Depoimento (TCC 2025)
+> *"Nada nasce pronto. A gente testa, improvisa, corta e refaz. É um aprendizado constante."*
+> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
+
 ## Fontes
-- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]]
+- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]
