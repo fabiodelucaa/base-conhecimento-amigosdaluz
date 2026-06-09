@@ -33,10 +33,5 @@ Ator. Elenco dos espetáculos desde o começo; participa ativamente do canal.
 ## Relações
 - [[amigos-da-luz]] — elenco fixo.
 
-## Depoimento (TCC 2025)
-> *"A gente ri primeiro da gente, pra depois rir com o público."*
-> *"O humor é o jeito mais direto de falar sobre o que é humano. E o espiritismo é, acima de tudo, uma doutrina sobre o ser humano."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]

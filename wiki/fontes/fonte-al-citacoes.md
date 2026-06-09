@@ -4,13 +4,13 @@ type: fonte
 areas: [comunicacao, criativo, espiritual]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: ["raw/AL_citacoes.md"]
 tags: [citacoes, entrevistas, tom-de-voz]
 aliases: ["AL_citacoes"]
 ---
 
-> **Resumo:** ~90 citações-chave extraídas das 14 entrevistas, indexadas por dimensão (identidade, origem, processo, público, bastidores) e por falante.
+> **Resumo:** ~103 citações-chave (14 entrevistas + 1 TCC, 2025), indexadas por dimensão (identidade, origem, processo, público, bastidores) e por falante.
 
 ## Metadados
 - **Arquivo:** `raw/AL_citacoes.md`
@@ -18,6 +18,7 @@ aliases: ["AL_citacoes"]
 
 ## Pontos-chave
 - Voz autêntica do grupo (sobretudo Fábio de Luca e Sidney Grillo) sobre o método: "rir dos próprios monstros", "não sair de Kardec", "equipe de encarnados e desencarnados".
+- **§15 (TCC 2025):** depoimentos do **elenco** (Carla, Alex, Loeni, Natali, Ewerton, Thiago Moreno) sobre o método — coletados no TCC de [[fabio-oliviere]].
 - Material valioso para tom de voz ([[identidade-de-marca]]) e fundamentação do [[humor-espirita]].
 
 ## Alimenta

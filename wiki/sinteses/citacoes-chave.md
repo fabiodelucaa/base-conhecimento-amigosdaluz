@@ -4,13 +4,13 @@ type: sintese
 areas: [comunicacao, criativo, espiritual]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: ["[[fonte-al-citacoes]]"]
 tags: [citacoes, tom-de-voz, identidade]
 aliases: []
 ---
 
-> **Resumo:** Recortes da voz autêntica do grupo (~90 citações das 14 entrevistas), por dimensão — material de referência para tom de voz e fundamentação do método.
+> **Resumo:** Recortes da voz autêntica do grupo (~103 citações: 14 entrevistas + TCC 2025), por dimensão — material de referência para tom de voz e fundamentação do método.
 
 ## Identidade / filosofia
 - *Fábio de Luca:* "O bom humor é um estado elevado da alma."
@@ -29,6 +29,12 @@ aliases: []
 ## Bastidores
 - *Fábio de Luca:* "Somos uma equipe de encarnados e desencarnados juntos trabalhando sempre."
 - *Sidney Grillo:* "Esse trabalho tem o poder curativo... voltava pra casa completamente curado."
+
+## Elenco — o método em suas palavras (TCC 2025)
+- *Carla Guapyassú:* "A comédia abre uma porta que o discurso não abre."
+- *Alex Moczy:* "A gente ri primeiro da gente, pra depois rir com o público."
+- *Ewerton Oliveira:* "Famílias e professores usavam nossos vídeos em sala de aula. A arte estava ensinando, mesmo sem intenção formal de ensinar."
+- *Natali Pazete:* "O humor desarma. A pessoa chega com preconceito ou medo do tema, mas quando ri, o coração se abre."
 
 ## Uso
 Respeitar atribuição (falante/data/fonte); preferir paráfrase em respostas longas; data é contexto (2015 ≠ 2020). Índice completo (~90 citações por dimensão) e timestamps na fonte.

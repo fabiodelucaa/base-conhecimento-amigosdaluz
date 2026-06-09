@@ -33,10 +33,5 @@ Atriz. Atua também como preparadora vocal em diversas produções.
 ## Relações
 - [[amigos-da-luz]] — elenco fixo (preparação vocal).
 
-## Depoimento (TCC 2025)
-> *"A comédia abre uma porta que o discurso não abre."*
-> *"Humor não é deboche. A gente ri com o público, nunca do público."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]] · [[fonte-tcc-teatro-humor-espiritualidade]]

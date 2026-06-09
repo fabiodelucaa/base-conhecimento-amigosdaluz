@@ -31,10 +31,5 @@ Atriz, diretora e maquiadora. Atua em caracterização, gestão de equipe e pres
 ## Relações
 - [[amigos-da-luz]] — elenco fixo (caracterização/direção).
 
-## Depoimento (TCC 2025)
-> *"O humor é a nossa linguagem, mas o que sustenta o trabalho é o respeito à mensagem."*
-> *"O público quer rir, refletir e se emocionar. Nosso papel é abrir esse espaço, sem medo de inovar."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]] · [[fonte-tcc-teatro-humor-espiritualidade]]

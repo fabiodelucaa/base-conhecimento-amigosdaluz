@@ -23,8 +23,5 @@ Intérprete de Libras e co-apresentadora das Lives (*Estudo Divertido do Espirit
 ## Relações
 - [[amigos-da-luz]] — colaboradora. · [[canal-youtube-amigos-da-luz]] — co-apresentação das lives.
 
-## No TCC (2025)
-Citada como **intérprete de Libras e co-apresentadora** das lives *Estudo Divertido do Espiritismo*; o TCC destaca que a Libras é "incorporada de forma cômica", reforçando o caráter **inclusivo** do trabalho ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]

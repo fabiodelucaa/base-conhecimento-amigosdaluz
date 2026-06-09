@@ -27,9 +27,5 @@ Roteirista. Especialista em conceitos criativos, campanhas, roteiros e gestão d
 ## Relações
 - [[amigos-da-luz]] — colaborador (roteirista). · [[producao-workflow]]
 
-## Depoimento (TCC 2025)
-> *"Nada nasce pronto. A gente testa, improvisa, corta e refaz. É um aprendizado constante."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]

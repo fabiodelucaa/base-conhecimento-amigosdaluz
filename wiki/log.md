@@ -93,3 +93,8 @@
 - **2 conceitos guarda-chuva:** [[espiritismo]] (doutrina + tríplice aspecto, reunindo os conceitos doutrinários) e [[genese-do-espiritismo]] (origem 1848 → Codificação).
 - Linkados a [[humor-espirita]] (base doutrinária) e ao índice (novo bloco "Fundamentos").
 - Arquivos movidos p/ `raw/doutrina/` (historico-do-espiritismo, resumo-doutrina-espirita), renomeados kebab-ASCII.
+
+## [2026-06-09] lint | Consolidação das citações do TCC em AL_citacoes (remove duplicação)
+- Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
+- Atualizados [[fonte-al-citacoes]] (escopo ~103) e [[citacoes-chave]] (recorte do elenco). O link [[fonte-tcc-teatro-humor-espiritualidade]] permanece como proveniência nas páginas.
+- Nota: editei `raw/AL_citacoes.md` — exceção pontual à imutabilidade de `raw/`, por ser doc-índice mantido por IA (com protocolo de append §17) e a pedido do operador.

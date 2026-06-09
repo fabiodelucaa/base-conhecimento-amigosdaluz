@@ -34,11 +34,6 @@ Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-pr
 - [[humor-espirita]] · [[producao-workflow]] (criação/roteiro/finalização) · [[circulacao-teatral]] (agenda/divulgação/financeiro)
 - [[morrendo-e-aprendendo]] · [[60-minutos-para-morrer]] · [[preces-do-alberto]] (intérprete de Alberto)
 
-## Depoimento (TCC 2025)
-> *"As pessoas vinham dizer: 'vocês me fizeram rir e entender o espiritismo de um jeito que nunca tinham me explicado'. Aí percebemos que o humor podia ser um meio de educação moral e espiritual."*
-> *"O desafio é equilibrar humor e reverência, porque o Espiritismo merece ser tratado com seriedade, mesmo quando o assunto é engraçado."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-institucional]] · [[fonte-al-citacoes]] · [[fonte-tcc-teatro-humor-espiritualidade]]
 - Entrevistas: [[fonte-entrevista-carona-espirita-fabio-p1-2017]] · [[fonte-entrevista-carona-espirita-fabio-p2-2017]] · [[fonte-entrevista-trajetoria-amigos-da-luz]] · [[fonte-entrevista-tv-brasil-viralizando-2018]] · [[fonte-entrevista-correio-news-2020]]

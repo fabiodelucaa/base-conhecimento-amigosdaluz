@@ -23,9 +23,5 @@ Ator e equipe técnica. Produtor, cantor, compositor, desenhista, ilusionista, f
 ## Relações
 - [[amigos-da-luz]] — elenco fixo / técnico.
 
-## Depoimento (TCC 2025)
-> *"Recebíamos mensagens de professores, evangelizadores e famílias inteiras dizendo que usavam nossos vídeos em sala de aula. A gente entendeu que a arte estava ensinando, mesmo sem intenção formal de ensinar."*
-> — entrevista para o TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
-
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-tcc-teatro-humor-espiritualidade]]

@@ -6,7 +6,7 @@ status: ready
 scope: "Citações-chave extraídas das 14 entrevistas do acervo, organizadas por entrevista e indexadas por dimensão temática"
 updated_by: "Claude"
 created: 2026-04-21
-updated: 2026-06-06
+updated: 2026-06-09
 related:
   - AL_imprensa
   - AL_id_marca
@@ -281,7 +281,39 @@ Coletânea de citações-chave extraídas das 14 entrevistas catalogadas em `AL_
 
 ---
 
-## 15. Como usar estas citações
+## 15. TCC "Teatro, Humor e Espiritualidade" — Fábio Oliviere (2025)
+
+**Formato:** Entrevista coletiva com o elenco, conduzida por Fábio Oliviere para seu TCC (graduação em Teatro, Estácio de Sá) · **Fonte:** [tcc-teatro-humor-espiritualidade-fabio-oliviere.md](academico/tcc-teatro-humor-espiritualidade-fabio-oliviere.md)
+
+> **[identidade]** *Carla Guapyassú:* "A comédia abre uma porta que o discurso não abre."
+
+> **[identidade]** *Carla Guapyassú:* "Humor não é deboche. A gente ri com o público, nunca do público."
+
+> **[identidade]** *Alex Moczy:* "A gente ri primeiro da gente, pra depois rir com o público."
+
+> **[identidade]** *Alex Moczy:* "O humor é o jeito mais direto de falar sobre o que é humano. E o espiritismo é, acima de tudo, uma doutrina sobre o ser humano."
+
+> **[identidade]** *Loeni Mazzei:* "O humor é a nossa linguagem, mas o que sustenta o trabalho é o respeito à mensagem."
+
+> **[publico]** *Loeni Mazzei:* "O público quer rir, refletir e se emocionar. Nosso papel é abrir esse espaço, sem medo de inovar."
+
+> **[processo]** *Thiago Moreno:* "Nada nasce pronto. A gente testa, improvisa, corta e refaz. É um aprendizado constante."
+
+> **[publico]** *Ewerton Oliveira:* "Recebíamos mensagens de professores, evangelizadores e famílias inteiras dizendo que usavam nossos vídeos em sala de aula. A gente entendeu que a arte estava ensinando, mesmo sem intenção formal de ensinar."
+
+> **[identidade]** *Natali Pazete:* "O humor desarma. A pessoa chega com preconceito ou medo do tema, mas quando ri, o coração se abre."
+
+> **[identidade]** *Fábio de Luca:* "As pessoas vinham dizer: 'vocês me fizeram rir e entender o espiritismo de um jeito que nunca tinham me explicado'. Aí percebemos que o humor podia ser um meio de educação moral e espiritual."
+
+> **[processo]** *Fábio de Luca:* "O desafio é equilibrar humor e reverência, porque o Espiritismo merece ser tratado com seriedade, mesmo quando o assunto é engraçado."
+
+> **[bastidores]** *Fábio Oliviere:* "A gente queria divertir, mas também deixar uma marquinha boa em quem assistisse." *(sediou os primeiros ensaios em casa, no Bairro da Luz)*
+
+> **[bastidores]** *Bárbara Barbosa (Babi):* intérprete de Libras e co-apresentadora das lives; no TCC, a Libras aparece "incorporada de forma cômica", reforçando o caráter inclusivo do trabalho.
+
+---
+
+## 16. Como usar estas citações
 
 **Para agentes de IA que consomem esta base:**
 
@@ -292,9 +324,9 @@ Coletânea de citações-chave extraídas das 14 entrevistas catalogadas em `AL_
 
 ---
 
-## 16. Índice temático
+## 17. Índice temático
 
-Contagem de citações por dimensão, com localização por seção.
+Contagem de citações por dimensão, com localização por seção. *(§15 — TCC/2025 — acrescenta ~13 citações: 7 identidade, 2 processo, 2 público, 2 bastidores.)*
 
 ### 16.1 Identidade e filosofia (humor + espiritismo)
 
@@ -318,10 +350,10 @@ Contagem de citações por dimensão, com localização por seção.
 
 ---
 
-## 17. Status e manutenção
+## 18. Status e manutenção
 
-- **Cobertura atual:** 14/14 entrevistas do acervo
-- **Volume:** ~90 citações
+- **Cobertura atual:** 14 entrevistas do acervo + 1 TCC (2025)
+- **Volume:** ~103 citações
 - **Revisão:** validada por Fábio em 2026-04-21 — fidelidade confirmada (ajustes foram apenas de legibilidade: remoção de muletas, pausas e repetições, mantendo o sentido integral). Status `ready`.
 - **Atualização:** quando uma nova entrevista for catalogada em `AL_imprensa.md`, adicionar nova seção aqui seguindo o mesmo formato e atualizar o índice temático (§16).
 - **Formato das citações:** `> **[dimensão]** *Falante [timestamp/contexto]:* "citação"`
