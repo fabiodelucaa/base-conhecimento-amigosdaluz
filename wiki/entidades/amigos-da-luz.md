@@ -5,16 +5,16 @@ subtype: organizacao
 areas: [institucional, juridico, comercial, comunicacao]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-al-institucional]]", "[[fonte-al-historico]]"]
 tags: [institucional, identidade, dados-legais, contatos]
 aliases: ["Amigos da Luz", "AMIGOS DA LUZ PRODUTORA LTDA", "Amigos da Luz Produtora"]
 ---
 
-> **Resumo:** Produtora artístico-cultural de humor espírita kardecista (audiovisual + cênico) — o nó institucional central da wiki.
+> **Resumo:** Grupo artístico-cultural de humor espírita kardecista (audiovisual + cênico) — o nó institucional central da wiki.
 
 ## Descrição
-Produtora dedicada ao **humor espírita** ([[humor-espirita]]), com atuação integrada em **audiovisual** (YouTube e redes) e **artes cênicas** (teatro, oficinas, eventos). Cria, produz e distribui vídeos, espetáculos, cursos e eventos. ([[fonte-al-institucional]])
+Grupo artístico dedicado ao **humor espírita** ([[humor-espirita]]), com atuação integrada em **audiovisual** (YouTube e redes) e **artes cênicas** (teatro, oficinas, eventos). Cria, produz e distribui vídeos, espetáculos, cursos e eventos. ([[fonte-al-institucional]])
 
 ## Identidade
 [[missao]] · [[visao]] · [[valores]] · [[humor-espirita]] · marca: [[identidade-de-marca]] / [[identidade-visual]].
