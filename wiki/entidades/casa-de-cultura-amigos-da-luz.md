@@ -6,7 +6,7 @@ areas: [operacional, institucional, espiritual]
 status: ativo
 created: 2026-06-08
 updated: 2026-06-13
-sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
+sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]", "[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-al-equipe-dados]]"]
 tags: [casa-de-cultura, sede, infraestrutura]
 aliases: ["Espaço Cultural Amigos da Luz", "Casa de Cultura"]
 ---
@@ -36,7 +36,7 @@ Distintos dos da produtora ([[missao]]/[[visao]]/[[valores]]). **Missão:** prom
 - **Parceria Centros Vizinhos:** a [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] usa a Casa como estrutura profissional para centros espíritas próximos que desejam oferecer arte espírita aos frequentadores sem manter auditório ou produção própria. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Relações
-- [[amigos-da-luz]] (sede) · [[parceria-centros-vizinhos]] · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos)
+- [[amigos-da-luz]] (sede) · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]] · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos) · [[fabio-de-luca]] (moradia atual cadastrada)
 
 ## Fontes
-- [[fonte-al-casa-cultura]] · [[fonte-al-institucional]] · [[fonte-parceria-centros-vizinhos-2026]]
+- [[fonte-al-casa-cultura]] · [[fonte-al-institucional]] · [[fonte-parceria-centros-vizinhos-2026]] · [[fonte-al-equipe-dados]]

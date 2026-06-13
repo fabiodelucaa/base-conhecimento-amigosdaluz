@@ -35,7 +35,7 @@ O método já é objeto de **4 trabalhos acadêmicos** (ver [[pesquisa-academica
 - **Tensão institucional (2017):** uma federação espírita questionou a união humor+doutrina; o grupo manteve a posição (*"não pretende ser unanimidade"*), com ~99% de aprovação no canal.
 
 ## Relações
-- [[amigos-da-luz]] · [[espiritismo]] (base doutrinária) · [[missao]] · [[valores]] (fidelidade doutrinária) · [[identidade-de-marca]] · [[citacoes-chave]] · [[pesquisa-academica]] · [[parceria-centros-vizinhos]]
+- [[amigos-da-luz]] · [[espiritismo]] (base doutrinária) · [[missao]] · [[valores]] (fidelidade doutrinária) · [[identidade-de-marca]] · [[citacoes-chave]] · [[pesquisa-academica]] · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]]
 
 ## Fontes
 - [[fonte-al-institucional]] · [[fonte-al-id-marca]] · [[fonte-al-citacoes]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]] · [[fonte-parceria-centros-vizinhos-2026]]

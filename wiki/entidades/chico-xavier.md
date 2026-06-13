@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [espiritual, historico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-al-citacoes]]", "[[fonte-entrevista-tv-nova-luz-2015]]"]
 tags: [referencia, espiritismo, medium]
 aliases: ["Francisco Cândido Xavier"]

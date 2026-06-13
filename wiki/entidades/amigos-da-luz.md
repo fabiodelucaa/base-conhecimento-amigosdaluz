@@ -40,7 +40,7 @@ contato@amigosdaluz.com · WhatsApp (21) 2669-2424 · www.amigosdaluz.com · red
 - **Audiovisual:** [[canal-youtube-amigos-da-luz]].
 - **Teatro:** [[fim]] · [[60-minutos-para-morrer]] · repertório completo via [[historia-amigos-da-luz]].
 - **Negócio:** [[portfolio-de-negocios]] · [[circulacao-teatral]] · [[oficinas-e-cursos]] · [[estrutura-financeira]] · [[ferramentas-digitais]].
-- **Parcerias:** [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] conecta centros espíritas próximos à Casa de Cultura, venda de ingressos físicos, programação na [[casa-de-cultura-amigos-da-luz]] e divulgação da arte espírita. ([[fonte-parceria-centros-vizinhos-2026]])
+- **Parcerias:** [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] conecta centros espíritas próximos à Casa de Cultura, venda de ingressos físicos, programação na [[casa-de-cultura-amigos-da-luz]] e divulgação da arte espírita; ver síntese em [[modelo-parceria-centros-vizinhos]]. ([[fonte-parceria-centros-vizinhos-2026]])
 - **Público & marca:** [[publico-alvo]] · [[cobertura-de-imprensa]] · [[pesquisa-academica]].
 - **Momento atual:** [[campanha-sos-amigos-da-luz]].
 - **História:** [[historia-amigos-da-luz]].

@@ -24,7 +24,7 @@ Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], a caridade aparece c
 Vault `base-conhecimento` › `concepts/caridade.md`, `concepts/lei-de-amor.md`, `concepts/perdao.md`.
 
 ## Relações
-- [[reforma-intima]] · [[humor-espirita]] · [[valores]] (responsabilidade social) · [[parceria-centros-vizinhos]]
+- [[reforma-intima]] · [[humor-espirita]] · [[valores]] (responsabilidade social) · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]]
 
 ## Fontes
 - [[fonte-acervo-esquetes]] · [[fonte-parceria-centros-vizinhos-2026]]

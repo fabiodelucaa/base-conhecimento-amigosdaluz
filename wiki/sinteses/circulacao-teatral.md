@@ -27,7 +27,7 @@ Primeiro contato → envio de informações → negociação → **aprovação (
 2+ apresentações em cidades próximas, datas contíguas. **Transporte rateado igualmente por cidade.** Referência: Turnê Santa Catarina 2025 (*[[fim]]* / *[[60-minutos-para-morrer]]*).
 
 ## Papéis
-Produtor(a) de Circulação ([[kelli-sacalem]], [[isabelle-oliveira]] — vínculo a confirmar) · [[fabio-oliviere]] (aprova/produz viagem) · [[fabio-de-luca]] (agenda/divulgação/financeiro) · [[victoria-bastos|Designer]].
+Produtoras de circulação ([[kelli-sacalem]], [[isabelle-oliveira]]) · [[fabio-oliviere]] (aprova/produz viagem) · [[fabio-de-luca]] (agenda/divulgação/financeiro) · [[victoria-bastos|Designer]].
 
 ## Restrições de patrocínio local
 Vetados: partidos políticos, bebidas alcoólicas, marcas que conflitem com os valores ([[identidade-de-marca]]).

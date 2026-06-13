@@ -18,7 +18,7 @@ Integra a equipe de **Produtora(s) de Circulação** (com [[kelli-sacalem]]): pr
 
 Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], aparece como contato de produção junto com [[fabio-oliviere]]. ([[fonte-parceria-centros-vizinhos-2026]])
 
-> ⚠️ Dados detalhados de vínculo e função ainda não foram ingeridos. O vault irmão `base-conhecimento` tem uma página `entities/isabelle-oliveira.md` com mais contexto.
+> ⚠️ Dados cadastrais detalhados ainda não foram ingeridos. O vault irmão `base-conhecimento` tem uma página `entities/isabelle-oliveira.md` com mais contexto.
 
 ## Relações
 - [[amigos-da-luz]] · [[parceria-centros-vizinhos]] · [[circulacao-teatral]] · [[fabio-oliviere]] · [[kelli-sacalem]]

@@ -4,7 +4,7 @@ type: conceito
 areas: [espiritual, criativo]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-acervo-esquetes]]"]
 tags: [doutrina-espirita, espiritismo, obsessao]
 aliases: ["auto-obsessão"]

@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [espiritual, historico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-al-citacoes]]", "[[fonte-acervo-esquetes]]"]
 tags: [referencia, espiritismo, codificador]
 aliases: ["Hippolyte Léon Denizard Rivail", "Kardec"]

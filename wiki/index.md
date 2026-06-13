@@ -22,8 +22,8 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[fabio-de-luca|Fábio de Luca]] — sócio-fundador; ator/diretor/roteirista/apresentador.
 - [[fabio-oliviere|Fábio Oliviere]] — sócio co-fundador; produção executiva, cenografia.
 - [[alex-moczy|Alex Moczy]] · [[carla-guapyassu|Carla Guapyassú]] · [[ewerton-oliveira|Ewerton Oliveira]] · [[jean-rizo|Jean Rizo]] · [[loeni-mazzei|Loeni Mazzei]] · [[mariah-huguenin|Mariah Huguenin]] · [[natali-pazete|Natali Pazete]] · [[sidney-grillo|Sidney Grillo]] (†) · [[sonia-barbosa|Sônia Barbosa]] — elenco fixo.
-- [[babi|Babi]] (Libras) · [[thiago-brito|Thiago Brito]] (consultor) · [[thiago-moreno|Thiago Moreno]] (roteirista) · [[victoria-bastos|Victória Bastos]] (design/edição) — colaboradores.
-- [[kelli-sacalem|Kelli Sacalém]] · [[isabelle-oliveira|Isabelle de Oliveira]] — produção de circulação (vínculo a confirmar).
+- [[babi|Babi]] (Libras) · [[thiago-brito|Thiago Brito]] (consultor) · [[thiago-moreno|Thiago Moreno]] (roteirista eventual) · [[victoria-bastos|Victória Bastos]] (design/edição) — colaboradores.
+- [[kelli-sacalem|Kelli Sacalém]] · [[isabelle-oliveira|Isabelle de Oliveira]] — produção de circulação; Isabelle também aparece como contato da [[parceria-centros-vizinhos|Parceria Centros Vizinhos]].
 - Referência externa: [[leopoldo-machado|Leopoldo Machado]] — educador espírita (Colégio Leopoldo), influência formativa.
 - Referências espíritas externas: [[allan-kardec|Allan Kardec]] (codificador) · [[divaldo-franco|Divaldo Franco]] (orador, incentivador) · [[chico-xavier|Chico Xavier]] (médium).
 - Pesquisadores(as): [[grazyelle-de-carvalho-fonseca|Grazyelle Fonseca]] (dissertação UERJ) · [[alanne-almeida|Alanne Almeida]] · [[roberia-nascimento|Robéria Nascimento]] (artigos UEPB).

@@ -29,7 +29,7 @@ Atriz, diretora e maquiadora. Atua em caracterização, gestão de equipe e pres
 - CPF/RG/DRT/nascimento/PIX: *(a completar)* — ⚠️ no CSV original o RG trazia o valor do CNPJ (erro provável; confirmar).
 
 ## Relações
-- [[amigos-da-luz]] — elenco fixo (caracterização/direção).
+- [[amigos-da-luz]] — elenco fixo (caracterização/direção). · [[mariah-huguenin]] — amiga de escola.
 
 ## Fontes
 - [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-citacoes]] · [[fonte-tcc-teatro-humor-espiritualidade]]

@@ -21,7 +21,7 @@ aliases: ["Missão"]
 Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], a missão é formulada como divulgar a Doutrina Espírita com leveza, alegria e compromisso doutrinário, usando o riso como recurso artístico e pedagógico. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Relações
-- [[amigos-da-luz]] · [[humor-espirita]] · [[visao]] · [[valores]] · [[parceria-centros-vizinhos]]
+- [[amigos-da-luz]] · [[humor-espirita]] · [[visao]] · [[valores]] · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]]
 
 ## Fontes
 - [[fonte-al-institucional]] · [[fonte-parceria-centros-vizinhos-2026]]

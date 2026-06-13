@@ -4,7 +4,7 @@ type: fonte
 areas: [operacional, comercial, juridico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["raw/AL_circulacao.md"]
 tags: [circulacao, turnes, parceria, bilheteria]
 aliases: ["AL_circulacao"]
@@ -20,7 +20,7 @@ aliases: ["AL_circulacao"]
 - Parceria de bilheteria (sem cachê fixo); referência 30% local / 70% Cia (flexível).
 - Meta mínima 250 ingressos/sessão; ingressos R$45 (meia/social) / R$90 (inteira).
 - Turnê = 2+ apresentações em cidades próximas; transporte rateado igualmente por cidade.
-- Aprovação final de toda confirmação: **Fábio Oliviere** (crítico). Produtoras de circulação: Kelli Sacalém e Isabelle de Oliveira (vínculo a confirmar).
+- Aprovação final de toda confirmação: **Fábio Oliviere** (crítico). Produtoras de circulação: [[kelli-sacalem|Kelli Sacalém]] e [[isabelle-oliveira|Isabelle de Oliveira]].
 - Referências: *ReencarnaShow* Criciúma 2018; Turnê Santa Catarina 2025 (*Fim?* / *60 Minutos*).
 
 ## Alimenta

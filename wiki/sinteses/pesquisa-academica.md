@@ -4,7 +4,7 @@ type: sintese
 areas: [historico, institucional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-academia]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dissertacao-religiao-humor]]", "[[fonte-artigo-espiritismo-humor-youtube]]", "[[fonte-artigo-espiritismo-vies-do-riso]]"]
 tags: [academia, pesquisa, dissertacao, artigos]
 aliases: []
@@ -29,8 +29,9 @@ aliases: []
 ## Conexões
 Fundamenta o [[humor-espirita]]; dialoga com [[cobertura-de-imprensa]] e [[publico-alvo]] (pesquisadores como público secundário).
 
-## Lacunas
-- Os 4 trabalhos estão arquivados em `raw/academico/`. Pendente: **enriquecer páginas de pessoas** com os depoimentos do elenco coletados no TCC (Carla, Alex, Loeni, Thiago Moreno, Ewerton, Natali).
+## Manutenção
+- Os 4 trabalhos estão arquivados em `raw/academico/`.
+- Os depoimentos do elenco coletados no TCC foram consolidados em [[fonte-al-citacoes]] / [[citacoes-chave]] para evitar duplicação nas páginas de pessoas.
 
 ## Fontes
 - [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]]

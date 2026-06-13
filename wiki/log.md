@@ -1,7 +1,7 @@
 # Log — Wiki Amigos da Luz
 
 > Log cronológico **append-only**. Mais novo embaixo. Cada entrada começa com
-> `## [AAAA-MM-DD] <tipo> | <título>`. Tipos: `ingest`, `query`, `lint`, `setup`, `schema`.
+> `## [AAAA-MM-DD] <tipo> | <título>`. Tipos: `ingest`, `query`, `lint`, `ideia`, `setup`, `schema`.
 > A mensagem de commit espelha a entrada correspondente (ver [[CLAUDE]] §10).
 
 ## [2026-06-08] setup | Bootstrap da wiki Amigos da Luz
@@ -111,3 +111,9 @@
 - Páginas atualizadas: [[fabio-de-luca]], [[fabio-oliviere]], [[alex-moczy]], [[carla-guapyassu]], [[ewerton-oliveira]], [[jean-rizo]], [[loeni-mazzei]], [[mariah-huguenin]], [[natali-pazete]], [[sonia-barbosa]], [[victoria-bastos]], [[babi]], [[thiago-brito]], [[thiago-moreno]].
 - Áreas tocadas: administrativo, juridico, artistico, operacional, criativo, comunicacao, institucional.
 - Notas: a fonte foi movida de `raw/inbox/`. Por decisão do operador, os dados de `raw/dados-operacionais-equipe-2026-06-13.md` prevalecem sobre registros anteriores em [[fabio-de-luca]], [[loeni-mazzei]] e [[thiago-moreno]]. [[victoria-bastos]] foi mantida como colaboradora por decisão do operador.
+
+## [2026-06-13] lint | Correções pós-health-check
+- Corrigidos claims obsoletos sobre produção de circulação e pesquisa acadêmica.
+- Atualizados `updated` desatualizados em páginas doutrinárias, figuras espíritas, acervo de esquetes e workflow de produção.
+- Backlinks recíprocos recentes adicionados para [[modelo-parceria-centros-vizinhos]], [[producao-workflow]] e relações de equipe.
+- Notas: lacunas financeiras, cadastrais e contratuais permanecem pendentes de novas fontes.

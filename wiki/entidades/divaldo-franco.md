@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [espiritual, historico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-entrevista-carona-espirita-fabio-p1-2017]]", "[[fonte-entrevista-juventude-maior-2017]]", "[[fonte-al-citacoes]]"]
 tags: [referencia, espiritismo, orador, medium]
 aliases: ["Divaldo Pereira Franco"]
