@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, atriz, preparacao-vocal]
 aliases: ["Carla Guapyassú Meirelles do Nascimento"]
@@ -25,7 +25,9 @@ Atriz. Atua também como preparadora vocal em diversas produções.
 
 ## Dados cadastrais e contato
 - **Nome completo:** Carla Guapyassú Meirelles do Nascimento · **Nascimento:** 29/08/1975
-- **CPF:** 045.288.847-63 · **DRT:** 44152/RJ · **CREFONO:** 8381/RJ · **CNH:** válida
+- **CPF:** 045.288.847-63 · **RG:** *(a completar)* · **DRT:** 44152/RJ · **CREFONO:** 8381/RJ · **CNH:** válida
+- **Bairro/Cidade/UF:** Barra da Tijuca, Rio de Janeiro/RJ
+- **Endereço / CNPJ / PIX:** *(a completar)*
 - **Disponibilidade:** restrições às quartas e quintas
 - **Instagram:** @carlaguapyassu · **E-mail:** carlaguapy@uol.com.br · **Tel/WhatsApp:** (21) 98755-8035
 - **Outros:** YouTube @CarlaGuapyassu · LinkedIn carlaguapyassu · Lattes · IMDb nm5852154 · site elencodigital.com.br/CarlaGuapyassu

@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [comunicacao, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [colaborador, libras, acessibilidade]
 aliases: ["Bárbara Barbosa"]
@@ -18,6 +18,7 @@ Intérprete de Libras e co-apresentadora das Lives (*Estudo Divertido do Espirit
 
 ## Dados cadastrais e contato
 - **Instagram:** @abayomi_cult
+- **Cidade/UF:** Brasília/DF
 - Nome completo / CPF / RG / contato: *(a completar)*
 
 ## Relações

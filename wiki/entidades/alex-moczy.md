@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, ator]
 aliases: ["Alex Moczydlower", "Alex Móczy"]
@@ -26,7 +26,7 @@ Ator. Elenco dos espetáculos desde o começo; participa ativamente do canal.
 ## Dados cadastrais e contato
 - **Nome completo:** Alex Moczydlower · **Nome artístico:** Alex Móczy · **Nascimento:** 01/06/1974
 - **CPF:** 072.914.837-86 · **RG:** 09.843.700-7 · **DRT:** 52636/RJ
-- **Endereço:** Rua São Clemente, 185/506, Rio de Janeiro/RJ
+- **Endereço:** Rua São Clemente, 185, ap. 506, Rio de Janeiro/RJ
 - **Instagram:** @alexmoczy · **E-mail:** alexmoczy@hotmail.com · **Tel/WhatsApp:** (21) 98086-4748
 - **Site profissional:** elencodigital.com.br/AlexMoczy
 

@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, ator, equipe-tecnica]
 aliases: []
@@ -18,6 +18,7 @@ Ator e equipe técnica. Produtor, cantor, compositor, desenhista, ilusionista, f
 
 ## Dados cadastrais e contato
 - **Instagram:** @ewerton.fotografia · **E-mail:** ewertono@gmail.com · **Tel/WhatsApp:** (21) 98544-8285
+- **Bairro/Cidade/UF:** Campo Grande, Rio de Janeiro/RJ
 - CPF/RG/DRT/endereço/nascimento/PIX: *(a completar)*
 
 ## Relações

@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico, criativo, institucional, comunicacao]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [socio, elenco, direcao, roteiro, apresentacao]
 aliases: ["Fábio Bastos de Luca", "Fábio de Luca"]
@@ -24,7 +24,7 @@ Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-pr
 ## Dados cadastrais e contato
 - **Nome completo:** Fábio Bastos de Luca · **Nascimento:** 20/03/1980
 - **CPF:** 089.411.557-03 · **RG:** 12.045.756-9 · **DRT:** 28074/RJ
-- **Endereço:** Rua São Francisco Xavier, 169 — casa 9 — Tijuca, Rio de Janeiro/RJ
+- **Endereço atual:** Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro/RJ, CEP 20250-460. Fábio de Luca está morando na [[casa-de-cultura-amigos-da-luz]]. ([[fonte-al-equipe-dados]])
 - **Instagram:** @fabiodelucaa · **YouTube:** @ofabiodeluca · **Facebook:** FabiodeLucaOficial
 - **E-mail:** fabiodeluc@gmail.com · **Tel/WhatsApp:** (21) 99521-8556
 - **Site profissional:** elencodigital.com.br/fabiodeluca

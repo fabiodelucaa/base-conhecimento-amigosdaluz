@@ -8,7 +8,7 @@ created: 2026-06-08
 updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [socio, producao, direcao, cenografia, iluminacao]
-aliases: ["Fábio de Oliveira Martins", "Fábio Oliviere"]
+aliases: ["Fábio de Oliveira Martins", "Fábio Oliviere", "Fabinho"]
 ---
 
 > **Resumo:** Sócio co-fundador dos Amigos da Luz — produtor executivo, diretor, ator, cenógrafo e iluminador; aprovador final da circulação.
@@ -25,7 +25,7 @@ Também aparece como contato de produção da [[parceria-centros-vizinhos|Parcer
 - Autor do TCC *Teatro, Humor e Espiritualidade* (Estácio, 2025) — [[fonte-tcc-teatro-humor-espiritualidade]]; ver [[pesquisa-academica]].
 
 ## Dados cadastrais e contato
-- **Nome completo:** Fábio de Oliveira Martins · **Nascimento:** 26/08/1986
+- **Nome completo:** Fábio de Oliveira Martins · **Apelido:** Fabinho · **Nascimento:** 26/08/1986
 - **CPF:** 103.210.847-99 · **RG:** 13.044.153-8
 - **Endereço:** Rua São Francisco Xavier, 169 — casa 22 — Tijuca, Rio de Janeiro/RJ
 - **Instagram:** @fabiooliviere · **E-mail:** fabiooliviere@gmail.com · **Tel/WhatsApp:** (21) 97208-1561

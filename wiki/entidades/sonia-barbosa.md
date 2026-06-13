@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico, criativo]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-citacoes]]"]
 tags: [elenco, atriz, direcao, cinema]
 aliases: ["Sonia Regina Barbosa"]
@@ -24,7 +24,7 @@ Atriz e diretora. Cineasta e roteirista; professora de teatro.
 
 ## Dados cadastrais e contato
 - **Nome completo:** Sonia Regina Barbosa · **Nascimento:** 12/02/1966
-- **CPF:** 968.686.867-49 · **RG:** 07.032.954-5 · **DRT:** 2871/RJ · **CNPJ:** 14.597.254/0001-43
+- **CPF:** 968.686.867-49 · **RG:** 07.032.954-5 · **DRT:** 2871/RJ · **Empresa (PJ):** razão social a completar · **CNPJ:** 14.597.254/0001-43
 - **Endereço:** Rua Anajamirim, 390 — Jardim Carioca, Ilha do Governador, RJ · **Emergência:** (21) 98517-7233
 - **Instagram:** @soniaatriz · **E-mail:** perolaproducoesrj@gmail.com · **Tel/WhatsApp:** (21) 98587-2661
 - **Outros:** YouTube @Soniateatro1 · site pejocama.wixsite.com/my-site

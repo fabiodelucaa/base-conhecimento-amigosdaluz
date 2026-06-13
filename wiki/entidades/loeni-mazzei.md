@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, atriz, direcao, maquiagem]
 aliases: ["Loeni Maia Mazzei"]
@@ -24,7 +24,7 @@ Atriz, diretora e maquiadora. Atua em caracterização, gestão de equipe e pres
 
 ## Dados cadastrais e contato
 - **Empresa (PJ):** LOENI MAIA MAZZEI PRODUÇÕES CINEMATOGRÁFICAS · **CNPJ:** 33.547.622/0001-93
-- **Cidade/UF:** Tijuca, RJ / Bela Vista, SP
+- **Bairro/Cidade/UF:** Bela Vista, São Paulo/SP. ([[fonte-al-equipe-dados]])
 - **Instagram:** @eu_loe (makeup: @loenimazzei_makeup) · **E-mail:** loenimazzei@gmail.com · **Tel/WhatsApp:** (21) 99893-8423
 - CPF/RG/DRT/nascimento/PIX: *(a completar)* — ⚠️ no CSV original o RG trazia o valor do CNPJ (erro provável; confirmar).
 

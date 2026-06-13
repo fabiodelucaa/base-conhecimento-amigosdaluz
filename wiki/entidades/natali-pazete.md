@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [artistico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
 tags: [elenco, atriz, dublagem]
 aliases: ["Natali de Souza Pazete"]
@@ -23,7 +23,8 @@ Atriz e dubladora.
 
 ## Dados cadastrais e contato
 - **Nome completo:** Natali de Souza Pazete · **Pronomes:** ela/dela · **Nascimento:** 05/07/1985
-- **CPF:** 105.182.397-80 · **DRT:** 33866/RJ · **SUSEP** · **CNPJ:** 48.925.514/0001-84
+- **CPF:** 105.182.397-80 · **RG:** *(a completar)* · **DRT:** 33866/RJ · **SUSEP** · **CNPJ:** 48.925.514/0001-84
+- **Bairro/Cidade/UF:** Tijuca, Rio de Janeiro/RJ · **PIX:** *(a completar)*
 - **Instagram:** @natalipazete · **E-mail:** natali.pazete@gmail.com · **Tel/WhatsApp:** (21) 98832-7060
 - **Outros:** Facebook natali.pazete · Fandom Dublagem
 

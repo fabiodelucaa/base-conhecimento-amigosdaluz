@@ -105,3 +105,9 @@
 - Páginas atualizadas: [[amigos-da-luz]], [[casa-de-cultura-amigos-da-luz]], [[portfolio-de-negocios]], [[estrutura-financeira]], [[circulacao-teatral]], [[publico-alvo]], [[humor-espirita]], [[missao]], [[caridade]], [[fabio-oliviere]], [[isabelle-oliveira]], `wiki/index.md`.
 - Áreas tocadas: institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico.
 - Notas: o PDF foi movido de `raw/inbox/` para `raw/parceria-centros-vizinhos-2026.pdf`; modelo distinguido da circulação teatral com produtores locais e turnês.
+
+## [2026-06-13] ingest | Dados operacionais da equipe 2026-06-13
+- Fonte expandida: [[fonte-al-equipe-dados]] (`raw/dados-operacionais-equipe-2026-06-13.md`).
+- Páginas atualizadas: [[fabio-de-luca]], [[fabio-oliviere]], [[alex-moczy]], [[carla-guapyassu]], [[ewerton-oliveira]], [[jean-rizo]], [[loeni-mazzei]], [[mariah-huguenin]], [[natali-pazete]], [[sonia-barbosa]], [[victoria-bastos]], [[babi]], [[thiago-brito]], [[thiago-moreno]].
+- Áreas tocadas: administrativo, juridico, artistico, operacional, criativo, comunicacao, institucional.
+- Notas: a fonte foi movida de `raw/inbox/`. Por decisão do operador, os dados de `raw/dados-operacionais-equipe-2026-06-13.md` prevalecem sobre registros anteriores em [[fabio-de-luca]], [[loeni-mazzei]] e [[thiago-moreno]]. [[victoria-bastos]] foi mantida como colaboradora por decisão do operador.

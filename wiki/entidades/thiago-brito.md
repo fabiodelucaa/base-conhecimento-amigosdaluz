@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [espiritual, criativo, comunicacao]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-13
 sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]"]
 tags: [colaborador, consultor, palestrante-espirita, stand-up]
 aliases: ["Thiago Pereira Brito"]
@@ -24,6 +24,7 @@ Consultor de conteúdo: participa da aprovação de roteiros (ver [[producao-wor
 ## Dados cadastrais e contato
 - **Nome completo:** Thiago Pereira Brito · **Nascimento:** 16/02/1984 · **Cidade:** Nova Iguaçu/RJ
 - **MTE:** 01799-0 · **CNPJ:** 04.655.786/0001-36
+- **CPF / RG / DRT / endereço / PIX:** *(a completar)*
 - **Instagram:** @thiagobritoespiritismo · **E-mail:** thiagobritomusica@gmail.com (agenda: agendathiagobrito@gmail.com) · **Tel/WhatsApp:** (21) 96484-9674
 
 ## Relações
