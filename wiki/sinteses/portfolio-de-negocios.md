@@ -4,8 +4,8 @@ type: sintese
 areas: [comercial, institucional, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-portfolio]]"]
+updated: 2026-06-13
+sources: ["[[fonte-al-portfolio]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [portfolio, negocios, estrategia, verticais]
 aliases: []
 ---
@@ -16,7 +16,7 @@ aliases: []
 1. **Audiovisual** — esquetes, séries, lives, filmes ([[canal-youtube-amigos-da-luz]]).
 2. **Teatro** — espetáculos em repertório (ver produções).
 3. **Circulação Teatral** — turnês e parcerias locais ([[circulacao-teatral]]).
-4. **Casa de Cultura** — sede e serviços ([[casa-de-cultura-amigos-da-luz]]).
+4. **Casa de Cultura** — sede, serviços e [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] com centros espíritas próximos ([[casa-de-cultura-amigos-da-luz]]).
 5. **Oficinas e Cursos** — formação + [[escola-de-artes-espiritas]] ([[oficinas-e-cursos]]).
 6. **Comunidade** — plataforma/app para fãs e apoiadores (a definir).
 
@@ -25,6 +25,7 @@ aliases: []
 
 ## Conexões
 - Modelo de receita detalhado em [[estrutura-financeira]]; sustentabilidade ligada à [[campanha-sos-amigos-da-luz]].
+- [[modelo-parceria-centros-vizinhos]] descreve a venda de ingressos físicos por centros espíritas próximos à Casa, com repasse de 15% e ativação de público presencial. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Fontes
-- [[fonte-al-portfolio]]
+- [[fonte-al-portfolio]] · [[fonte-parceria-centros-vizinhos-2026]]

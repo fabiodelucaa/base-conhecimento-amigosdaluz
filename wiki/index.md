@@ -37,6 +37,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 ### Campanha · Parceiro
 - [[campanha-sos-amigos-da-luz|Campanha S.O.S. Amigos da Luz]] — arrecadação/sustentabilidade (2025–).
+- [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] — projeto com centros espíritas próximos à Casa de Cultura para venda de ingressos físicos, divulgação e ação assistencial.
 - [[espiritismo-tv|Espiritismo.tv]] — plataforma parceira de distribuição.
 
 ## Conceitos
@@ -68,6 +69,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[portfolio-de-negocios|Portfólio de Negócios]] — 6 verticais + estratégia.
 - [[publico-alvo|Público-Alvo]] — perfil e ativação da audiência.
 - [[circulacao-teatral|Circulação Teatral]] — modelo de parceria e turnês.
+- [[modelo-parceria-centros-vizinhos|Modelo da Parceria Centros Vizinhos]] — venda de ingressos físicos por centros espíritas próximos à Casa, repasse de 15% e ativação comunitária.
 - [[producao-workflow|Workflow de Produção]] — 7 fases do vídeo.
 - [[oficinas-e-cursos|Oficinas e Cursos]] — oferta formativa.
 - [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.
@@ -84,7 +86,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[fonte-entrevista-tv-nova-luz-2015|TV Nova Luz 2015]] · [[fonte-entrevista-programa-repensar-2015|Repensar 2015]] · [[fonte-entrevista-depoimentos-equipe-2015|Depoimentos 2015]] · [[fonte-entrevista-tv-nova-luz-casa-espirita-2017|Casa Espírita 2017]] · [[fonte-entrevista-radio-globo-catanduva-2017|Rádio Globo 2017]] · [[fonte-entrevista-carona-espirita-fabio-p1-2017|Carona Fábio p1]] · [[fonte-entrevista-carona-espirita-fabio-p2-2017|Carona Fábio p2]] · [[fonte-entrevista-carona-espirita-sidney-grillo-2017|Carona Sidney]] · [[fonte-entrevista-juventude-maior-2017|Juventude Maior 2017]] · [[fonte-entrevista-tv-brasil-viralizando-2018|TV Brasil 2018]] · [[fonte-entrevista-correio-espirita-2016|Correio Espírita 2016]] · [[fonte-entrevista-correio-news-2020|Correio News 2020]] · [[fonte-entrevista-abrarte-2020|ABRARTE 2020]] · [[fonte-entrevista-trajetoria-amigos-da-luz|Trajetória]]
 
 **Acervo & circulação:**
-- [[fonte-acervo-esquetes|Acervo de Esquetes]] · [[fonte-guia-circulacao|Guia de Circulação v2.0]] · [[fonte-info-pack-turne-sc|Info-pack Turnê SC]]
+- [[fonte-acervo-esquetes|Acervo de Esquetes]] · [[fonte-guia-circulacao|Guia de Circulação v2.0]] · [[fonte-info-pack-turne-sc|Info-pack Turnê SC]] · [[fonte-parceria-centros-vizinhos-2026|Parceria Centros Vizinhos 2026]]
 
 **Acadêmicas & estudo:**
 - [[fonte-tcc-teatro-humor-espiritualidade|TCC Fábio Oliviere]] · [[fonte-dissertacao-religiao-humor|Dissertação UERJ 2019]] · [[fonte-artigo-espiritismo-humor-youtube|Artigo Anagrama 2019]] · [[fonte-artigo-espiritismo-vies-do-riso|Artigo Temática 2019]] · [[fonte-notas-fenomenos-mediunicos|Notas: fenômenos mediúnicos]] · [[fonte-biografia-leopoldo-machado|Biografia Leopoldo Machado]]

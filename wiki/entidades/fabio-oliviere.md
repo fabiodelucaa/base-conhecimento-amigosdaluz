@@ -5,8 +5,8 @@ subtype: pessoa
 areas: [artistico, operacional, institucional, administrativo]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
+updated: 2026-06-13
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [socio, producao, direcao, cenografia, iluminacao]
 aliases: ["Fábio de Oliveira Martins", "Fábio Oliviere"]
 ---
@@ -15,6 +15,8 @@ aliases: ["Fábio de Oliveira Martins", "Fábio Oliviere"]
 
 ## Função e papel
 Responsável por produção executiva, direção de arte, cenografia, iluminação e operação de áudio. Aprovador final de datas, valores e materiais na [[circulacao-teatral]]; representa o grupo nas viagens. Professor de teatro.
+
+Também aparece como contato de produção da [[parceria-centros-vizinhos|Parceria Centros Vizinhos]]. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Trajetória / créditos
 - ~20 anos em artes cênicas e audiovisuais.
@@ -30,7 +32,7 @@ Responsável por produção executiva, direção de arte, cenografia, iluminaç�
 
 ## Relações
 - [[amigos-da-luz]] — sócio co-fundador. · [[fabio-de-luca]] — sócio co-fundador.
-- [[producao-workflow]] (produção executiva, aprovações) · [[circulacao-teatral]] (aprovador final) · [[casa-de-cultura-amigos-da-luz]]
+- [[producao-workflow]] (produção executiva, aprovações) · [[circulacao-teatral]] (aprovador final) · [[parceria-centros-vizinhos]] · [[casa-de-cultura-amigos-da-luz]]
 
 ## Fontes
-- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-institucional]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]]
+- [[fonte-al-equipe]] · [[fonte-al-equipe-dados]] · [[fonte-al-institucional]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-parceria-centros-vizinhos-2026]]

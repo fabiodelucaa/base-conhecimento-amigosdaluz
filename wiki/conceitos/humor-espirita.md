@@ -4,8 +4,8 @@ type: conceito
 areas: [criativo, espiritual, artistico, institucional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-09
-sources: ["[[fonte-al-institucional]]", "[[fonte-al-id-marca]]", "[[fonte-al-citacoes]]", "[[fonte-al-academia]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dissertacao-religiao-humor]]", "[[fonte-artigo-espiritismo-humor-youtube]]", "[[fonte-artigo-espiritismo-vies-do-riso]]"]
+updated: 2026-06-13
+sources: ["[[fonte-al-institucional]]", "[[fonte-al-id-marca]]", "[[fonte-al-citacoes]]", "[[fonte-al-academia]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dissertacao-religiao-humor]]", "[[fonte-artigo-espiritismo-humor-youtube]]", "[[fonte-artigo-espiritismo-vies-do-riso]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [humor-espirita, espiritismo, identidade, metodo]
 aliases: []
 ---
@@ -24,6 +24,8 @@ Combinação de **entretenimento, espiritualidade e educação**: o humor como p
 ## Como se aplica
 Eixo de toda a produção — esquetes ([[canal-youtube-amigos-da-luz]], personagens como [[daniel-e-a-mentorona]]), espetáculos ([[morrendo-e-aprendendo]], [[60-minutos-para-morrer]]), filmes e lives. Está na [[missao]] e fundamenta a [[identidade-de-marca]].
 
+Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], o humor aparece como recurso artístico e pedagógico para aproximar princípios espíritas do público e transformar o ingresso em ponto de encontro comunitário. ([[fonte-parceria-centros-vizinhos-2026]])
+
 ## Fundamentação acadêmica
 O método já é objeto de **4 trabalhos acadêmicos** (ver [[pesquisa-academica]]):
 - **Dupla codificação** (Umberto Eco) — a piada na superfície, o ensino doutrinário no fundo; eixo do TCC de [[fabio-oliviere]] ([[fonte-tcc-teatro-humor-espiritualidade]]).
@@ -33,7 +35,7 @@ O método já é objeto de **4 trabalhos acadêmicos** (ver [[pesquisa-academica
 - **Tensão institucional (2017):** uma federação espírita questionou a união humor+doutrina; o grupo manteve a posição (*"não pretende ser unanimidade"*), com ~99% de aprovação no canal.
 
 ## Relações
-- [[amigos-da-luz]] · [[espiritismo]] (base doutrinária) · [[missao]] · [[valores]] (fidelidade doutrinária) · [[identidade-de-marca]] · [[citacoes-chave]] · [[pesquisa-academica]]
+- [[amigos-da-luz]] · [[espiritismo]] (base doutrinária) · [[missao]] · [[valores]] (fidelidade doutrinária) · [[identidade-de-marca]] · [[citacoes-chave]] · [[pesquisa-academica]] · [[parceria-centros-vizinhos]]
 
 ## Fontes
-- [[fonte-al-institucional]] · [[fonte-al-id-marca]] · [[fonte-al-citacoes]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]]
+- [[fonte-al-institucional]] · [[fonte-al-id-marca]] · [[fonte-al-citacoes]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]] · [[fonte-parceria-centros-vizinhos-2026]]

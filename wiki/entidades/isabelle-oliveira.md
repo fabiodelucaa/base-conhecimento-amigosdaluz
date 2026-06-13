@@ -3,23 +3,25 @@ title: "Isabelle de Oliveira"
 type: entidade
 subtype: pessoa
 areas: [operacional, comercial]
-status: rascunho
+status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-circulacao]]"]
+updated: 2026-06-13
+sources: ["[[fonte-al-circulacao]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [equipe, circulacao, producao]
 aliases: ["Isabelle Oliveira"]
 ---
 
-> **Resumo:** Produtora de circulação dos Amigos da Luz (vínculo a confirmar) — atua na prospecção e operação de turnês.
+> **Resumo:** Contato de produção dos Amigos da Luz na Parceria Centros Vizinhos; também citada na produção de circulação.
 
 ## Função e papel
 Integra a equipe de **Produtora(s) de Circulação** (com [[kelli-sacalem]]): prospecção, negociação com produtores locais e acompanhamento de apresentações. Ver [[circulacao-teatral]].
 
-> ⚠️ Vínculo/status a confirmar (citada em `AL_circulacao`). Dados detalhados não ingeridos. O vault irmão `base-conhecimento` tem uma página `entities/isabelle-oliveira.md` com mais contexto.
+Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], aparece como contato de produção junto com [[fabio-oliviere]]. ([[fonte-parceria-centros-vizinhos-2026]])
+
+> ⚠️ Dados detalhados de vínculo e função ainda não foram ingeridos. O vault irmão `base-conhecimento` tem uma página `entities/isabelle-oliveira.md` com mais contexto.
 
 ## Relações
-- [[amigos-da-luz]] · [[circulacao-teatral]] · [[fabio-oliviere]] (aprovador final) · [[kelli-sacalem]]
+- [[amigos-da-luz]] · [[parceria-centros-vizinhos]] · [[circulacao-teatral]] · [[fabio-oliviere]] · [[kelli-sacalem]]
 
 ## Fontes
-- [[fonte-al-circulacao]]
+- [[fonte-al-circulacao]] · [[fonte-parceria-centros-vizinhos-2026]]

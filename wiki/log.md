@@ -98,3 +98,10 @@
 - Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
 - Atualizados [[fonte-al-citacoes]] (escopo ~103) e [[citacoes-chave]] (recorte do elenco). O link [[fonte-tcc-teatro-humor-espiritualidade]] permanece como proveniência nas páginas.
 - Nota: editei `raw/AL_citacoes.md` — exceção pontual à imutabilidade de `raw/`, por ser doc-índice mantido por IA (com protocolo de append §17) e a pedido do operador.
+
+## [2026-06-13] ingest | Parceria Centros Vizinhos 2026
+- Fonte criada: [[fonte-parceria-centros-vizinhos-2026]] (`raw/parceria-centros-vizinhos-2026.pdf`).
+- Páginas criadas: [[parceria-centros-vizinhos]], [[modelo-parceria-centros-vizinhos]].
+- Páginas atualizadas: [[amigos-da-luz]], [[casa-de-cultura-amigos-da-luz]], [[portfolio-de-negocios]], [[estrutura-financeira]], [[circulacao-teatral]], [[publico-alvo]], [[humor-espirita]], [[missao]], [[caridade]], [[fabio-oliviere]], [[isabelle-oliveira]], `wiki/index.md`.
+- Áreas tocadas: institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico.
+- Notas: o PDF foi movido de `raw/inbox/` para `raw/parceria-centros-vizinhos-2026.pdf`; modelo distinguido da circulação teatral com produtores locais e turnês.

@@ -5,8 +5,8 @@ subtype: lugar
 areas: [operacional, institucional, espiritual]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
-sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]"]
+updated: 2026-06-13
+sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [casa-de-cultura, sede, infraestrutura]
 aliases: ["Espaço Cultural Amigos da Luz", "Casa de Cultura"]
 ---
@@ -33,9 +33,10 @@ Distintos dos da produtora ([[missao]]/[[visao]]/[[valores]]). **Missão:** prom
 ## Atividades e serviços
 - **Uso interno:** gravações de vídeo/podcast, ensaios e montagens teatrais; temporadas de [[fim]], [[60-minutos-para-morrer]].
 - **Ao público (a implementar):** formação ([[oficinas-e-cursos]]), produção de terceiros, gravação (vídeo-books, cursos), eventos, aluguel de estúdios/salas.
+- **Parceria Centros Vizinhos:** a [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] usa a Casa como estrutura profissional para centros espíritas próximos que desejam oferecer arte espírita aos frequentadores sem manter auditório ou produção própria. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Relações
-- [[amigos-da-luz]] (sede) · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos)
+- [[amigos-da-luz]] (sede) · [[parceria-centros-vizinhos]] · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos)
 
 ## Fontes
-- [[fonte-al-casa-cultura]] · [[fonte-al-institucional]]
+- [[fonte-al-casa-cultura]] · [[fonte-al-institucional]] · [[fonte-parceria-centros-vizinhos-2026]]
