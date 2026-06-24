@@ -124,3 +124,8 @@
 - Atualizados `updated` desatualizados em páginas doutrinárias, figuras espíritas, acervo de esquetes e workflow de produção.
 - Backlinks recíprocos recentes adicionados para [[modelo-parceria-centros-vizinhos]], [[producao-workflow]] e relações de equipe.
 - Notas: lacunas financeiras, cadastrais e contratuais permanecem pendentes de novas fontes.
+
+## [2026-06-24] decisao | Tom de comunicação com casas espíritas
+- Criada a decisão [[tom-comunicacao-casas-espiritas]] para registrar a diretriz de comunicação com centros, casas e instituições espíritas.
+- Regra central: valor artístico-cultural e divulgação doutrinária vêm antes; termos comerciais como comissão, venda e repasse podem aparecer de forma clara, mas discreta.
+- Índice atualizado em `wiki/index.md`.

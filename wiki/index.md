@@ -59,7 +59,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[escola-de-artes-espiritas|Escola de Artes Espíritas]] — `semente`: braço formativo permanente (futuro).
 
 ## Decisões
-- *(vazio.)*
+- [[tom-comunicacao-casas-espiritas|Tom de Comunicação com Casas Espíritas]] — diretriz para comunicações com centros, casas e instituições espíritas.
 
 ## Reuniões
 - *(vazio.)*
