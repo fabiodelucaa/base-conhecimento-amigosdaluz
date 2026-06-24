@@ -129,3 +129,8 @@
 - Criada a decisão [[tom-comunicacao-casas-espiritas]] para registrar a diretriz de comunicação com centros, casas e instituições espíritas.
 - Regra central: valor artístico-cultural e divulgação doutrinária vêm antes; termos comerciais como comissão, venda e repasse podem aparecer de forma clara, mas discreta.
 - Índice atualizado em `wiki/index.md`.
+
+## [2026-06-24] modelo | Registro de Parceria Iluminada
+- Criado modelo leve para centros/casas/instituições espíritas atuarem como pontos de venda ou divulgação de ingressos: `outputs/modelos/parceria-iluminada/registro-parceria-iluminada-pontos-de-venda.md`.
+- Versões geradas: Markdown editável, HTML e PDF A4 verificado.
+- Diretriz aplicada: não usar linguagem de contrato; enfatizar clareza, confiança, ausência de meta obrigatória/custo/exclusividade e garantia de repasse pelos ingressos efetivamente vendidos.
