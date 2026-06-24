@@ -132,5 +132,5 @@
 
 ## [2026-06-24] modelo | Registro de Parceria Iluminada
 - Criado modelo leve para centros/casas/instituições espíritas atuarem como pontos de venda ou divulgação de ingressos: `outputs/modelos/parceria-iluminada/registro-parceria-iluminada-pontos-de-venda.md`.
-- Versões geradas: Markdown editável, HTML e PDF A4 verificado.
+- Versões geradas: Markdown editável, DOCX editável, HTML e PDF A4 verificado.
 - Diretriz aplicada: não usar linguagem de contrato; enfatizar clareza, confiança, ausência de meta obrigatória/custo/exclusividade e garantia de repasse pelos ingressos efetivamente vendidos.
