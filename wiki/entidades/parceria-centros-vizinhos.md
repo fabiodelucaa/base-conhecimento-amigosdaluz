@@ -5,7 +5,7 @@ subtype: projeto
 areas: [institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico]
 status: ativo
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-28
 sources: ["[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [parceria, centros-espiritas, bilheteria, divulgacao]
 aliases: ["Parceria com Centros Vizinhos"]
@@ -24,6 +24,12 @@ O modelo se apoia em três ganhos simultâneos: o público acessa arte espírita
 - **Acompanhamento:** a equipe acompanha semanalmente o engajamento e repõe materiais quando necessário.
 - **Fechamento mensal:** vendas e ingressos não vendidos são conferidos; o centro fica com 15% de cada ingresso vendido.
 - **Ação assistencial:** o público é convidado a doar 1 kg de alimento não perecível; centros com trabalhos sociais podem destinar as doações às próprias ações assistenciais.
+
+## Leads ativos / contatos de parceria
+
+| Data | Instituição | Bairro | Contato | Status | Próximo passo |
+|---|---|---|---|---|---|
+| 2026-06-28 | Grupo Espírita Franciscano Caridade e Amor | Catete | Alexandre Coutinho | quer fechar parceria; aguardando telefone/WhatsApp | incluir telefone/WhatsApp quando Fábio encaminhar e avançar fechamento |
 
 ## Relações
 - [[modelo-parceria-centros-vizinhos]] — síntese do mecanismo operacional, financeiro e comunitário.
