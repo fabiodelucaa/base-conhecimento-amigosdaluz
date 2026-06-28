@@ -134,3 +134,8 @@
 - Criado modelo leve para centros/casas/instituições espíritas atuarem como pontos de venda ou divulgação de ingressos: `outputs/modelos/parceria-iluminada/registro-parceria-iluminada-pontos-de-venda.md`.
 - Versões geradas: Markdown editável, DOCX editável, HTML e PDF A4 verificado.
 - Diretriz aplicada: não usar linguagem de contrato; enfatizar clareza, confiança, ausência de meta obrigatória/custo/exclusividade e garantia de repasse pelos ingressos efetivamente vendidos.
+
+## [2026-06-27] operacional | Prospecção de instituições espíritas — visita de campo 2026-06-28
+- Criada a síntese [[prospeccao-instituicoes-espiritas-2026-06-28]] como documento vivo para registrar check-ins, fotos de fachada, horários, contatos, tamanho percebido e observações da primeira visita presencial a 31 instituições.
+- Criados artefatos operacionais editáveis em `outputs/parcerias/campo-instituicoes-espiritas/2026-06-28/`: CSV, JSON e pasta `fotos/`.
+- Uso previsto: alimentar futuras parcerias da Parceria Iluminada e priorização de relacionamento com casas/instituições próximas à CCAL.
