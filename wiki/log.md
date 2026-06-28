@@ -139,3 +139,6 @@
 - Criada a síntese [[prospeccao-instituicoes-espiritas-2026-06-28]] como documento vivo para registrar check-ins, fotos de fachada, horários, contatos, tamanho percebido e observações da primeira visita presencial a 31 instituições.
 - Criados artefatos operacionais editáveis em `outputs/parcerias/campo-instituicoes-espiritas/2026-06-28/`: CSV, JSON e pasta `fotos/`.
 - Uso previsto: alimentar futuras parcerias da Parceria Iluminada e priorização de relacionamento com casas/instituições próximas à CCAL.
+## [2026-06-27] operacional | Métricas de tempo da visita de campo
+- Ampliado o cadastro [[prospeccao-instituicoes-espiritas-2026-06-28]] para registrar horário de check-in, tempo desde início, tempo desde a instituição anterior, facilidade de parada, tranquilidade da rota e problemas/desvios.
+- Objetivo: produzir avaliação final realista da rota após a primeira ida presencial, comparando estimativa planejada com execução em campo.

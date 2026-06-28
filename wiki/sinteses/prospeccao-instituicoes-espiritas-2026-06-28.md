@@ -37,6 +37,13 @@ Quando Fábio mandar check-ins durante a rota, atualizar a linha correspondente 
 
 - `status_visita`: `visitado`, `fechado`, `não encontrado`, `pular`, `retornar`
 - `visitado_em`: data/hora local quando disponível
+- `checkin_recebido_em`: horário da mensagem/áudio de check-in no WhatsApp
+- `tempo_desde_inicio_min`: minutos desde o primeiro check-in/saída registrada
+- `tempo_desde_anterior_min`: minutos desde o check-in da instituição anterior
+- `tempo_parada_min`: quando for possível inferir, tempo entre chegada/entrega/saída
+- `facilidade_parada_carro`: `fácil`, `média`, `difícil`, `não deu para parar`
+- `rota_tranquila`: `sim`, `não`, `parcial`
+- `desvio_ou_problema_rota`: trânsito, erro de mapa, rua ruim, retorno, obra, lugar difícil de achar
 - `tamanho`: `PP`, `P`, `M`, `G`, `GG`
 - `material_entregue`: `sim`, `caixa correio`, `não`, `parcial`
 - `foto_fachada`: caminho do arquivo recebido/salvo
@@ -45,6 +52,22 @@ Quando Fábio mandar check-ins durante a rota, atualizar a linha correspondente 
 - `potencial_parceria`: `baixo`, `médio`, `alto`, `prioritário`
 - `proximo_passo`: ação prática posterior
 - `observacoes`: qualquer contexto livre
+
+
+## Avaliação final da rota
+
+Ao encerrar a visita de campo, consolidar:
+
+- horário de início e horário de fim;
+- tempo total porta a porta;
+- tempo total estimado de direção versus tempo real percebido;
+- média de minutos por instituição;
+- gargalos: estacionamento/parada rápida, ruas, retornos, trânsito, instituições difíceis de localizar;
+- instituições que merecem retorno com conversa mais longa;
+- instituições que podem virar contato prioritário;
+- ajustes recomendados para uma próxima rota semelhante.
+
+Durante o campo, cada check-in enviado logo após a entrega deve ser usado como marcador temporal para calcular `tempo_desde_anterior_min` e estimar o ritmo real da operação.
 
 ## Rota de campo
 
