@@ -114,7 +114,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 24 | 23 | GECAF | Estácio | fechado | P |  | Foto/placa recebida; Grupo Espírita Caminho da Felicidade, nº 17; site www.gecaf.net; vinculado CEERJ/12º CEU; reuniões 2ª 12h30/19h30, 3ª 17h/19h30, 4ª privativa 19h30, 5ª/6ª 19h30, sábado evangelização 15h; fácil estacionar; bem perto da CCAL/espaço; material ainda não confirmado |
 | 25 | 22 | Congregação Espírita Umbandista do Brasil | Estácio | fechado | P | sim | Foto/placa: Templo Umbandista Maria Conga do Congo (Centro Escola); consultas 2ª a partir de 16h; kit deixado; sem contato confirmado; não priorizar no recorte kardecista sem estratégia específica |
 | 26 | 18 | Centro Espírita Bezerra Menezes | Estácio | visitado | G | em mãos | Material entregue ao responsável Duque; WhatsApp Duque 98152-8156 sem DDD informado; vão fechar parceria para venda de ingressos na CCAL/casa; cartaz: palestras 3ª 15h/dom 10h, evangelização sáb 8h30; redes /cebmestacio, Wpp público (21) 2273-9398, site bezerramenezes.org.br; prioridade parceria |
-| 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | pendente |  |  |  |
+| 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | fechado | M |  | Foto/banner: Centro Espírita Caminho da Esperança, nº 51; reuniões públicas 2ª e 4ª 19h-20h; Instagram @caminhodaesperancagece, Facebook facebook.com/caminhodaesperancagece, YouTube @CaminhoDaEsperancaGECE; bem perto da CCAL/espaço; material ainda não confirmado |
 | 28 | 21 | Grupo Samaritanos | Praça da Bandeira | pendente |  |  |  |
 | 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | pendente |  |  |  |
 | 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | pendente |  |  |  |
@@ -130,3 +130,4 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 12:28: Congregação Espírita Umbandista/Templo Umbandista Maria Conga do Congo registrado como fechado, P, kit deixado; placa indica consultas às segundas 16h e linha umbandista explícita.
 - 2026-06-28 12:32: Complementado Templo Umbandista Maria Conga do Congo com contato Duque e telefone/WhatsApp 98152-8156 sem DDD informado.
 - 2026-06-28 12:33: Centro Espírita Bezerra de Menezes visitado; material entregue ao responsável Duque, WhatsApp 98152-8156 sem DDD; parceria de venda de ingressos sinalizada. Corrigida atribuição anterior do contato Duque, que pertence ao Bezerra de Menezes, não ao templo umbandista.
+- 2026-06-28 12:36: Grupo Espírita Caminho da Esperança registrado como fechado, M, bem perto da CCAL/espaço; banner com reuniões 2ª/4ª 19h-20h e redes sociais; material ainda não confirmado.
