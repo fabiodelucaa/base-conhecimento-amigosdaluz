@@ -117,7 +117,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | fechado | M |  | Foto/banner: Centro Espírita Caminho da Esperança, nº 51; reuniões públicas 2ª e 4ª 19h-20h; Instagram @caminhodaesperancagece, Facebook facebook.com/caminhodaesperancagece, YouTube @CaminhoDaEsperancaGECE; bem perto da CCAL/espaço; material ainda não confirmado |
 | 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado | P | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Seu Ivan; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
 | 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | fechado | M | sim | Fotos/placa e fachada nº 142; reuniões públicas domingos 10h; kit deixado; fachada/portão fechado; instituição kardecista explícita pela placa/Codificação Kardecista |
-| 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | fechado |  |  | Foto/placa recebida; tocou campainha e ninguém atendeu; pessoas da casa já foram ao espaço/CCAL; atividades: 3ª 19h30 estudo, 5ª 14h30 reunião pública, dom 10h evangelização; Wpp (21) 98921-1563; tels. (21) 2273-3366/(21) 3256-3898; Instagram @obreirosdobemaeob; material ainda não confirmado |
+| 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | fechado |  | sim | Foto/placa recebida; tocou campainha e ninguém atendeu; kit deixado; pessoas da casa já foram ao espaço/CCAL; atividades: 3ª 19h30 estudo, 5ª 14h30 reunião pública, dom 10h evangelização; Wpp (21) 98921-1563; tels. (21) 2273-3366/(21) 3256-3898; Instagram @obreirosdobemaeob |
 | 31 | 25 | Centro Espirita Caridade Ismael | Rio Comprido | pendente |  |  |  |
 
 ## Log de campo
@@ -135,3 +135,4 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 13:04: Grupo Samaritanos atualizado com porte P conforme correção de Fábio.
 - 2026-06-28 13:04: Cruzada dos Militares Espíritas nº 142 registrada como fechada, M, kit deixado; placa/fachada arquivadas; reuniões públicas domingos 10h.
 - 2026-06-28 13:13: AEOB/Associação Espírita Obreiros do Bem registrada como fechada; campainha sem resposta; placa com horários, contatos e redes arquivada; relação prévia com pessoas que já foram à CCAL; material ainda não confirmado.
+- 2026-06-28 13:15: AEOB complementada com confirmação de kit/material deixado; segunda foto da placa arquivada.
