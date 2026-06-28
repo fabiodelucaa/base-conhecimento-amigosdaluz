@@ -138,3 +138,21 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 13:15: AEOB complementada com confirmação de kit/material deixado; segunda foto da placa arquivada.
 - 2026-06-28 13:21: Centro Espírita Caridade Ismael/CECI registrado como fechado, G visual, kit deixado; fotos de placa e fachada arquivadas; horários extraídos da placa.
 - 2026-06-28 13:24: Centro Espírita Caridade Ismael atualizado com porte M, acesso fácil por rua sem saída até o final, área visualmente feia/parece perigosa mas avaliada como segura; próximo da CCAL e bom para parceria.
+
+## Avaliação final da rota — 2026-06-28
+
+- Início operacional registrado: **09:47**.
+- Fim informado por Fábio / chegada ao espaço: **13:29**.
+- Tempo total porta a porta: **3h42**.
+- Parada operacional no espaço para pegar cartaz/material: **~10 min**.
+- Tempo líquido estimado em rota: **3h32**.
+- Instituições processadas hoje como visitadas/fechadas: **29**.
+- Média bruta: **7,7 min por instituição**.
+- Média líquida sem parada do cartaz: **7,3 min por instituição**.
+- Mediana entre check-ins: **5,9 min**.
+- Material/kit confirmado em **20** instituições.
+- Pendências operacionais: Grupo Espírita Sebastião ficou para entrega amanhã; CEJN/Jorge Niemeyer segue sem check-in conclusivo registrado; 9 instituições seguem com material não confirmado explicitamente.
+
+Prioridades de parceria identificadas: GEAL (Melissa/Mel como ponte), Centro Espírita Bezerra de Menezes/Estácio (Duque e ponto de venda de ingressos), Sociedade Espírita Jorge (relação prévia), AEOB/Obreiros do Bem (pessoas já foram à CCAL) e Centro Espírita Caridade Ismael (perto da CCAL, bom acesso e bom potencial).
+
+Arquivo de relatório final: `outputs/parcerias/campo-instituicoes-espiritas/2026-06-28/relatorio-final-visita-campo-2026-06-28.md`.
