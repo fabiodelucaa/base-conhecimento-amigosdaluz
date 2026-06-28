@@ -673,7 +673,7 @@
     "endereco": "Rua Correia Vasques, 17 - Estácio, Rio de Janeiro - RJ, 20211-140",
     "bairro": "Estácio",
     "status_visita": "fechado",
-    "visitado_em": "",
+    "visitado_em": "2026-06-28 12:21",
     "tamanho": "P",
     "material_entregue": "",
     "foto_fachada": "/root/vaults/base-conhecimento-amigosdaluz/outputs/parcerias/campo-instituicoes-espiritas/2026-06-28/fotos/24-gecaf-grupo-espirita-caminho-da-felicidade-placas-horarios.jpg",
@@ -686,14 +686,14 @@
     "receptividade": "",
     "potencial_parceria": "médio",
     "proximo_passo": "confirmar se material foi entregue e validar contato pelo site/CEERJ; casa aderente ao recorte kardecista pela placa CEERJ/CEU",
-    "observacoes": "Check-in parcial/foto Fábio 2026-06-28: foto de placa/fachada recebida e arquivada. Placa: Grupo Espírita Caminho da Felicidade (GECAF), fundado em 06/11/1983; sede Rua Corrêa Vasques, 17, Estácio, Rio de Janeiro/RJ, CEP 20211-140; site www.gecaf.net. Vínculo informado na placa: CEERJ e 12º Conselho Espírita de Unificação (CEU). Reuniões: 2ª 12h30-14h e 19h30-21h; 3ª 17h-18h30 e 19h30-21h; 4ª 19h30-21h privativa; 5ª 19h30-21h; 6ª 19h30-21h; sábado 15h-17h Escola de Evangelização Espírita (infância, mocidade e familiar). Visual sem pessoas/atividade no momento; portão/entrada lateral aparenta fechado, mas status deve ser confirmado por relato de campo. Porte visual pequeno/local (P), confirmar se Fábio avaliar diferente.",
-    "checkin_recebido_em": "2026-06-28 12:?? -03",
+    "observacoes": "Check-in parcial/foto Fábio 2026-06-28: foto de placa/fachada recebida e arquivada. Placa: Grupo Espírita Caminho da Felicidade (GECAF), fundado em 06/11/1983; sede Rua Corrêa Vasques, 17, Estácio, Rio de Janeiro/RJ, CEP 20211-140; site www.gecaf.net. Vínculo informado na placa: CEERJ e 12º Conselho Espírita de Unificação (CEU). Reuniões: 2ª 12h30-14h e 19h30-21h; 3ª 17h-18h30 e 19h30-21h; 4ª 19h30-21h privativa; 5ª 19h30-21h; 6ª 19h30-21h; sábado 15h-17h Escola de Evangelização Espírita (infância, mocidade e familiar). Visual sem pessoas/atividade no momento; portão/entrada lateral aparenta fechado, mas status deve ser confirmado por relato de campo. Porte visual pequeno/local (P), confirmar se Fábio avaliar diferente. Complemento Fábio 2026-06-28 12:21 -03: confirma check-in no GECAF; estava fechado; foto da plaquinha já enviada; fácil/de boa de estacionar; ponto bem perto da CCAL/espaço.",
+    "checkin_recebido_em": "2026-06-28 12:21:20 -03",
     "tempo_desde_inicio_min": "",
     "tempo_desde_anterior_min": "",
     "tempo_parada_min": "",
-    "facilidade_parada_carro": "",
-    "rota_tranquila": "",
-    "desvio_ou_problema_rota": ""
+    "facilidade_parada_carro": "fácil",
+    "rota_tranquila": "sim",
+    "desvio_ou_problema_rota": "bem perto da CCAL/espaço; fácil de estacionar"
   },
   {
     "ordem_rota": 25,

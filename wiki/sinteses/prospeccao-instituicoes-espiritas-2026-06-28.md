@@ -111,7 +111,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 21 | 16 | GEAL - Grupo Espírita André Luiz | Maracanã | visitado |  | em mãos | Fábio falou com Dona Denise; Melissa/Mel frequenta e deve ser ponte; muitos jovens/interesse alto; kit ficou lá; horários/site registrados |
 | 22 | 15 | Grupo Espírita Sebastião | Maracanã | pendente |  |  |  |
 | 23 | 17 | IEVE - IRMANDADE ESPIRITUALISTA VERDADE ETERNA | Praça da Bandeira | fechado |  | em mãos | Material entregue ao porteiro; Fábio chegou quando a reunião parecia ter acabado e a casa já estava fechando/fechada; inferência: abriu domingo de manhã, mas às 12h14 já encerrava; foto da fachada com letreiro 'IEVE', sem horários/contatos visíveis; confirmar aderência espiritualista/kardecista e horários oficiais |
-| 24 | 23 | GECAF | Estácio | fechado | P |  | Foto/placa recebida; Grupo Espírita Caminho da Felicidade, nº 17; site www.gecaf.net; vinculado CEERJ/12º CEU; reuniões 2ª 12h30/19h30, 3ª 17h/19h30, 4ª privativa 19h30, 5ª/6ª 19h30, sábado evangelização 15h; material ainda não confirmado |
+| 24 | 23 | GECAF | Estácio | fechado | P |  | Foto/placa recebida; Grupo Espírita Caminho da Felicidade, nº 17; site www.gecaf.net; vinculado CEERJ/12º CEU; reuniões 2ª 12h30/19h30, 3ª 17h/19h30, 4ª privativa 19h30, 5ª/6ª 19h30, sábado evangelização 15h; fácil estacionar; bem perto da CCAL/espaço; material ainda não confirmado |
 | 25 | 22 | Congregação Espírita Umbandista do Brasil | Estácio | pendente |  |  |  |
 | 26 | 18 | Centro Espírita Bezerra Menezes | Estácio | pendente |  |  |  |
 | 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | pendente |  |  |  |
@@ -125,3 +125,4 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-27: cadastro inicial criado a partir da rota otimizada saindo da Rua São Francisco Xavier, 169 e terminando na Rua Campos da Paz, 105.
 - 2026-06-28 12:14: IEVE registrado como fechado/encerrando; material entregue em mãos ao porteiro; foto de fachada arquivada; sem horários oficiais visíveis.
 - 2026-06-28: GECAF registrado por foto/OCR; placas com endereço, site, vínculo CEERJ/12º CEU e horários de reuniões; material ainda não confirmado.
+- 2026-06-28 12:21: GECAF confirmado fechado; estacionamento fácil e ponto bem perto da CCAL/espaço; material ainda não confirmado.
