@@ -19,7 +19,7 @@ tags: [parceria-iluminada, campo, relatorio-final, centros-espiritas]
 - Tempo total porta a porta: **3h42** (222.2 min).
 - Desconto operacional informado: **~10 min** para voltar ao espaço e buscar cartaz/material que tinha acabado.
 - Tempo líquido estimado em rota: **3h32** (212.2 min).
-- Instituições processadas hoje como visitadas/fechadas: **29**.
+- Instituições processadas hoje como visitadas/fechadas: **30**.
 - Média bruta por instituição processada: **7.7 min**.
 - Média líquida sem a parada do cartaz: **7.3 min**.
 - Mediana entre check-ins registrados: **5.9 min**.
@@ -28,23 +28,23 @@ tags: [parceria-iluminada, campo, relatorio-final, centros-espiritas]
 
 - Total no cadastro da rota: **31** instituições.
 - Fechadas registradas: **23**.
-- Visitadas/abertas com algum contato ou funcionamento: **6**.
+- Visitadas registradas: **7** (inclui CEJN/Jorge Niemeyer pela correção geral, sem detalhe individual).
 - Retorno deliberado: **1** — Grupo Espírita Sebastião, Rua Morais e Silva, para entrega em 2026-06-29.
-- Pendência no cadastro: **1** — CEJN / Centro Espírita Jorge Niemeyer, ainda sem check-in conclusivo registrado.
+- Sem pendência de visita dentro das 30 processadas. Observação: CEJN / Centro Espírita Jorge Niemeyer foi incluído pela correção geral como visitado com material deixado, mas sem detalhe individual de foto/horário/contato.
 
 ## Material
 
-- Material/kit confirmado como entregue/deixado em **20** instituições.
-- Materiais ainda sem confirmação explícita em **9** registros:
-- Agremiação Espírita Francisco de Paula
-- Centro Espirita Jacques Chulan
-- Centro Espirita de Caridade Jesus
-- Centro Espírita Bezerra de Menezes do Andaraí - CEBMA
-- Grupo Espírita Redenção
-- Grupo Espírita Discípulos de Samuel
-- Cabana de Antônio de Aquino
-- GECAF
-- Grupo Espirita Caminho da Esperanca
+- Material/kit confirmado como entregue/deixado em **30** instituições, conforme correção geral de Fábio.
+- Sem pendências de material nas casas visitadas.
+- Grupo Espírita Sebastião ficou para retorno em 2026-06-29 e não entra nas 30 visitadas de hoje.
+
+
+## Quilometragem estimada
+
+- Rota planejada nos 4 blocos completos (31 instituições): **41,0 km** de direção estimada.
+- Rota efetivamente visitada hoje, com 30 instituições e sem contar a ida extra ao espaço: **39,7 km** estimados.
+- Rota efetiva estimada incluindo a ida rápida ao espaço para buscar mais cartaz/material: **43,1 km**.
+- Observação: cálculo por matriz OSRM/rota de direção, não odômetro real; Google Maps ao vivo, manobras e procura de vaga podem mudar alguns quilômetros.
 
 ## Ritmo e rota
 
@@ -86,6 +86,6 @@ Gaps mais longos entre check-ins:
 
 ## Texto curto para grupo de planejamento
 
-> Pessoal, tarefa de campo da Parceria Iluminada concluída hoje. Fábio fez a rota praticamente direto e voltamos agora ao espaço. Foram **29 instituições processadas presencialmente** entre visitadas/fechadas, com fotos, horários, contatos e observações registrados. Tempo total: **3h42**; descontando a parada rápida de ~10 min para buscar mais cartaz no espaço, deu cerca de **3h32 de rota**, média de **7,3 min por instituição**.  
+> Atualização/correção rápida, pessoal: Fábio confirmou que foram **30 instituições visitadas/processadas hoje** e **todas as 30 ficaram com material de divulgação**. Tempo total: **3h42**; descontando a parada rápida para buscar mais cartaz, cerca de **3h32 de rota**, média líquida de **7,3 min por instituição**. Quilometragem estimada da rota efetiva com a ida extra ao espaço: **~43 km**; rota planejada dos blocos completos: **41 km**.  
 >  
-> Destaques de parceria: **GEAL**, **Bezerra de Menezes/Estácio**, **Sociedade Espírita Jorge**, **AEOB/Obreiros do Bem** e **Caridade Ismael**. O Grupo Espírita Sebastião ficou para retorno amanhã por ser perto da casa do Fábio. Registros e materiais de campo estão consolidados na base.
+> Destaques seguem os mesmos: **GEAL**, **Bezerra de Menezes/Estácio**, **Sociedade Espírita Jorge**, **AEOB/Obreiros do Bem** e **Caridade Ismael**. O Grupo Espírita Sebastião ficou para retorno amanhã por ser perto da casa do Fábio. Registros consolidados na base.
