@@ -118,7 +118,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado | P | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Seu Ivan; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
 | 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | fechado | M | sim | Fotos/placa e fachada nº 142; reuniões públicas domingos 10h; kit deixado; fachada/portão fechado; instituição kardecista explícita pela placa/Codificação Kardecista |
 | 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | fechado |  | sim | Foto/placa recebida; tocou campainha e ninguém atendeu; kit deixado; pessoas da casa já foram ao espaço/CCAL; atividades: 3ª 19h30 estudo, 5ª 14h30 reunião pública, dom 10h evangelização; Wpp (21) 98921-1563; tels. (21) 2273-3366/(21) 3256-3898; Instagram @obreirosdobemaeob |
-| 31 | 25 | Centro Espirita Caridade Ismael | Rio Comprido | fechado | G | sim | Fotos/placa e fachada; CECI; kit deixado; horários: 2ª estudo 19h30, 3ª segunda prece 19h30, 4ª 19h30, sáb 15h30, 1º/3º sáb 9h30 e 15h30; fachada ampla com muro/grades azuis; porte G visual, confirmar se necessário |
+| 31 | 25 | Centro Espirita Caridade Ismael | Rio Comprido | fechado | M | sim | Fotos/placa e fachada; CECI; kit deixado; horários: 2ª estudo 19h30, 3ª segunda prece 19h30, 4ª 19h30, sáb 15h30, 1º/3º sáb 9h30 e 15h30; acesso fácil, rua sem saída, centro no final; área parece feia/perigosa mas não é; próximo da CCAL; bom para parceria |
 
 ## Log de campo
 
@@ -137,3 +137,4 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 13:13: AEOB/Associação Espírita Obreiros do Bem registrada como fechada; campainha sem resposta; placa com horários, contatos e redes arquivada; relação prévia com pessoas que já foram à CCAL; material ainda não confirmado.
 - 2026-06-28 13:15: AEOB complementada com confirmação de kit/material deixado; segunda foto da placa arquivada.
 - 2026-06-28 13:21: Centro Espírita Caridade Ismael/CECI registrado como fechado, G visual, kit deixado; fotos de placa e fachada arquivadas; horários extraídos da placa.
+- 2026-06-28 13:24: Centro Espírita Caridade Ismael atualizado com porte M, acesso fácil por rua sem saída até o final, área visualmente feia/parece perigosa mas avaliada como segura; próximo da CCAL e bom para parceria.
