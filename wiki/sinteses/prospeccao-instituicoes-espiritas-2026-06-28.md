@@ -115,8 +115,8 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 25 | 22 | Congregação Espírita Umbandista do Brasil | Estácio | fechado | P | sim | Foto/placa: Templo Umbandista Maria Conga do Congo (Centro Escola); consultas 2ª a partir de 16h; kit deixado; sem contato confirmado; não priorizar no recorte kardecista sem estratégia específica |
 | 26 | 18 | Centro Espírita Bezerra Menezes | Estácio | visitado | G | em mãos | Material entregue ao responsável Duque; WhatsApp Duque 98152-8156 sem DDD informado; vão fechar parceria para venda de ingressos na CCAL/casa; cartaz: palestras 3ª 15h/dom 10h, evangelização sáb 8h30; redes /cebmestacio, Wpp público (21) 2273-9398, site bezerramenezes.org.br; prioridade parceria |
 | 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | fechado | M |  | Foto/banner: Centro Espírita Caminho da Esperança, nº 51; reuniões públicas 2ª e 4ª 19h-20h; Instagram @caminhodaesperancagece, Facebook facebook.com/caminhodaesperancagece, YouTube @CaminhoDaEsperancaGECE; bem perto da CCAL/espaço; material ainda não confirmado |
-| 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado |  | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Seu Ivan; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
-| 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | pendente |  |  |  |
+| 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado | P | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Seu Ivan; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
+| 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | fechado | M | sim | Fotos/placa e fachada nº 142; reuniões públicas domingos 10h; kit deixado; fachada/portão fechado; instituição kardecista explícita pela placa/Codificação Kardecista |
 | 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | pendente |  |  |  |
 | 31 | 25 | Centro Espirita Caridade Ismael | Rio Comprido | pendente |  |  |  |
 
@@ -132,3 +132,5 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 12:33: Centro Espírita Bezerra de Menezes visitado; material entregue ao responsável Duque, WhatsApp 98152-8156 sem DDD; parceria de venda de ingressos sinalizada. Corrigida atribuição anterior do contato Duque, que pertence ao Bezerra de Menezes, não ao templo umbandista.
 - 2026-06-28 12:36: Grupo Espírita Caminho da Esperança registrado como fechado, M, bem perto da CCAL/espaço; banner com reuniões 2ª/4ª 19h-20h e redes sociais; material ainda não confirmado.
 - 2026-06-28 13:01: Grupo Samaritanos/Rua Barão de Ubá 96 visitado; aberto, reunião terminando; material deixado com porteiro para diretor Seu Ivan; sem foto por fachada sem identificação útil.
+- 2026-06-28 13:04: Grupo Samaritanos atualizado com porte P conforme correção de Fábio.
+- 2026-06-28 13:04: Cruzada dos Militares Espíritas nº 142 registrada como fechada, M, kit deixado; placa/fachada arquivadas; reuniões públicas domingos 10h.
