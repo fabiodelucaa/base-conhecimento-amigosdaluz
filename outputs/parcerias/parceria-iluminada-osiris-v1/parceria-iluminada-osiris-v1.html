@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Parceria Iluminada | Amigos da Luz | versão Osíris</title>
+<style>
+@page { size: 1080px 1920px; margin: 0; }
+* { box-sizing: border-box; }
+:root{
+  --azul:#172552;
+  --azul2:#24386f;
+  --amarelo:#f5c84b;
+  --creme:#f7f1df;
+  --papel:#fbf8ef;
+  --branco:#ffffff;
+  --grafite:#1f2533;
+  --muted:#65708b;
+}
+body{ margin:0; background:#ddd; font-family: Arial, Helvetica, sans-serif; color:var(--grafite); }
+.page{ width:1080px; height:1920px; position:relative; overflow:hidden; page-break-after:always; background:var(--papel); padding:92px 86px; }
+.page.dark{ background: radial-gradient(circle at 10% 0%, #315098 0, #172552 46%, #101a3a 100%); color:white; }
+.page.split{ background:linear-gradient(90deg,var(--papel) 0 58%, var(--azul) 58% 100%); }
+.logo{ width:205px; height:auto; display:block; }
+.kicker{ font-size:26px; letter-spacing:.16em; text-transform:uppercase; font-weight:800; color:var(--amarelo); }
+.dark .kicker{ color:var(--amarelo); }
+h1{ font-size:118px; line-height:.92; margin:34px 0 24px; letter-spacing:-.05em; color:var(--azul); }
+.dark h1{ color:white; }
+h2{ font-size:76px; line-height:.95; margin:0 0 34px; letter-spacing:-.045em; color:var(--azul); }
+.dark h2{ color:white; }
+h3{ font-size:34px; margin:0 0 14px; color:var(--azul); }
+.dark h3{ color:var(--amarelo); }
+p{ font-size:31px; line-height:1.32; margin:0 0 24px; }
+.small{ font-size:25px; line-height:1.34; color:var(--muted); }
+.dark .small{ color:#d9e3ff; }
+.bigline{ font-size:48px; line-height:1.05; font-weight:900; letter-spacing:-.035em; }
+.mark{ color:var(--amarelo); }
+.ribbon{ display:inline-block; background:var(--amarelo); color:var(--azul); padding:14px 24px; border-radius:999px; font-size:25px; font-weight:900; text-transform:uppercase; letter-spacing:.08em; }
+.card{ background:white; border:3px solid rgba(23,37,82,.10); border-radius:34px; padding:34px; box-shadow:0 22px 55px rgba(20,25,50,.10); }
+.dark .card{ background:rgba(255,255,255,.09); border-color:rgba(255,255,255,.18); box-shadow:none; backdrop-filter: blur(3px); }
+.grid2{ display:grid; grid-template-columns:1fr 1fr; gap:28px; }
+.grid3{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:24px; }
+.step{ display:grid; grid-template-columns:78px 1fr; gap:24px; align-items:start; margin-bottom:24px; }
+.num{ width:78px; height:78px; border-radius:50%; background:var(--amarelo); color:var(--azul); display:flex; align-items:center; justify-content:center; font-size:34px; font-weight:900; }
+.bullet{ display:grid; grid-template-columns:24px 1fr; gap:18px; margin-bottom:20px; font-size:28px; line-height:1.26; }
+.dot{ width:15px; height:15px; background:var(--amarelo); border-radius:50%; margin-top:10px; }
+.hero-photo{ width:100%; height:660px; object-fit:cover; border-radius:46px; box-shadow:0 32px 85px rgba(23,37,82,.22); }
+.photo{ width:100%; height:360px; object-fit:cover; border-radius:30px; }
+.photo.tall{ height:660px; }
+.footer{ position:absolute; left:86px; right:86px; bottom:58px; display:flex; align-items:center; justify-content:space-between; font-size:21px; color:rgba(23,37,82,.62); }
+.dark .footer{ color:rgba(255,255,255,.62); }
+.pillbar{ display:flex; gap:14px; flex-wrap:wrap; }
+.pill{ border:2px solid rgba(23,37,82,.18); border-radius:999px; padding:12px 18px; font-size:23px; font-weight:800; color:var(--azul); background:rgba(255,255,255,.72); }
+.dark .pill{ color:white; border-color:rgba(255,255,255,.24); background:rgba(255,255,255,.08); }
+.percent{ font-size:220px; line-height:.75; letter-spacing:-.08em; font-weight:950; color:var(--amarelo); }
+.percent-label{ font-size:38px; line-height:1.1; font-weight:900; color:white; }
+.callout{ background:var(--azul); color:white; padding:38px; border-radius:34px; }
+.callout h3{ color:var(--amarelo); }
+.quote{ font-size:42px; line-height:1.12; font-weight:900; color:var(--azul); letter-spacing:-.035em; }
+.dark .quote{ color:white; }
+.img-stack{ position:absolute; right:70px; top:260px; width:400px; display:grid; gap:26px; }
+.img-stack img:nth-child(2){ transform:rotate(2deg); }
+.img-stack img:nth-child(3){ transform:rotate(-2deg); }
+.contact-row{ display:grid; grid-template-columns:1fr 1fr; gap:26px; margin-top:22px; }
+.contact-card{ background:white; color:var(--azul); padding:30px; border-radius:30px; }
+.name{ font-size:31px; font-weight:900; }
+.phone{ font-size:29px; margin-top:8px; }
+.qr{ width:250px; height:250px; border-radius:24px; background:white; padding:15px; }
+.watermark{ position:absolute; font-size:420px; font-weight:950; color:rgba(245,200,75,.10); right:-60px; bottom:20px; letter-spacing:-.08em; }
+</style>
+</head>
+<body>
+
+<section class="page">
+  <img class="logo" src="assets/logo.png">
+  <div style="margin-top:92px" class="ribbon">Rede de Centros Parceiros 2026</div>
+  <h1>Parceria<br>Iluminada</h1>
+  <p class="bigline">Arte espírita, humor e divulgação doutrinária em movimento.</p>
+  <div style="height:46px"></div>
+  <img class="hero-photo" src="assets/grupo-palco.png">
+  <div class="footer"><span>Amigos da Luz</span><span>proposta de parceria cultural</span></div>
+</section>
+
+<section class="page dark">
+  <div class="watermark">15%</div>
+  <div class="kicker">A proposta em uma frase</div>
+  <h2>O Centro divulga.<br>O público vem.<br>A luz circula.</h2>
+  <div class="grid3" style="margin-top:70px">
+    <div class="card"><h3>1. Nós produzimos</h3><p>Espetáculos, estrutura, materiais gráficos, vídeo de divulgação e suporte de acompanhamento.</p></div>
+    <div class="card"><h3>2. O Centro vende</h3><p>Ingressos físicos para frequentadores e comunidade, sem custo inicial, sem meta mínima e sem risco.</p></div>
+    <div class="card"><h3>3. Todos ganham</h3><p>O Centro fica com parte da venda e o público acessa arte espírita de qualidade.</p></div>
+  </div>
+  <div style="position:absolute; left:86px; right:86px; bottom:145px" class="callout">
+    <div class="percent">15%</div>
+    <div class="percent-label">do valor de cada ingresso vendido fica com o Centro Espírita parceiro.</div>
+  </div>
+  <div class="footer"><span>simples, concreto, sem custo de produção</span><span>02</span></div>
+</section>
+
+<section class="page split">
+  <div style="width:540px">
+    <div class="kicker">Quem somos</div>
+    <h2>Humor com compromisso doutrinário.</h2>
+    <p>O Amigos da Luz é um grupo de Arte Espírita com 18 anos de estrada, unindo teatro, humor e espiritualidade em espetáculos e produções culturais.</p>
+    <p>Nossa missão é divulgar a Doutrina Espírita com leveza, alegria e responsabilidade, aproximando seus princípios do coração do público.</p>
+    <div class="pillbar" style="margin-top:36px">
+      <span class="pill">Arte</span><span class="pill">Humor</span><span class="pill">Espiritualidade</span><span class="pill">Reflexão</span>
+    </div>
+  </div>
+  <div class="img-stack">
+    <img class="photo" src="assets/grupo-evento.png">
+    <img class="photo" src="assets/palco.png">
+    <img class="photo" src="assets/fachada.png">
+  </div>
+  <div class="footer"><span>o riso como ponte pedagógica</span><span>03</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">Nosso espaço cultural</div>
+  <h2>A estrutura é nossa.<br>A missão é compartilhada.</h2>
+  <div class="grid2" style="align-items:start; margin-top:36px">
+    <div>
+      <p>As apresentações acontecem na Casa de Cultura Amigos da Luz, nossa sede no Rio Comprido, RJ.</p>
+      <p>O espaço conta com sala de espetáculos equipada e estrutura profissional para receber peças teatrais, eventos e atividades culturais.</p>
+      <div class="callout" style="margin-top:32px"><h3>Por que isso importa?</h3><p>O Centro parceiro pode oferecer uma experiência cultural aos seus frequentadores sem precisar ter auditório, equipe técnica ou produção própria.</p></div>
+    </div>
+    <div>
+      <img class="photo tall" src="assets/palco.png">
+      <p class="quote" style="margin-top:30px">Transformamos palcos em pontes de luz.</p>
+    </div>
+  </div>
+  <div class="footer"><span>Casa de Cultura Amigos da Luz</span><span>04</span></div>
+</section>
+
+<section class="page dark">
+  <div class="kicker">Como funciona na prática</div>
+  <h2>Um processo simples, acompanhado de perto.</h2>
+  <div style="margin-top:58px">
+    <div class="step"><div class="num">1</div><div><h3>Kit de divulgação</h3><p>Entregamos cartazes, filipetas, talões de ingressos físicos e vídeo exclusivo sobre o evento.</p></div></div>
+    <div class="step"><div class="num">2</div><div><h3>Divulgação e venda</h3><p>O Centro exibe o vídeo, dá os avisos e vende os ingressos diretamente ao público, recebendo da forma que preferir.</p></div></div>
+    <div class="step"><div class="num">3</div><div><h3>Acompanhamento semanal</h3><p>Nossa equipe acompanha o engajamento, oferece suporte e repõe materiais quando necessário.</p></div></div>
+    <div class="step"><div class="num">4</div><div><h3>Fechamento mensal</h3><p>Conferimos vendas e ingressos não vendidos. O Centro fica com 15% de cada ingresso vendido.</p></div></div>
+  </div>
+  <img src="assets/tickets.png" style="position:absolute; right:80px; bottom:130px; width:255px; opacity:.9">
+  <div class="footer"><span>sem custo inicial, sem meta mínima, sem estrutura própria</span><span>05</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">Por que participar?</div>
+  <h2>Porque a divulgação doutrinária também precisa circular.</h2>
+  <div class="grid2" style="margin-top:40px">
+    <div>
+      <div class="bullet"><div class="dot"></div><div><b>Compromisso doutrinário.</b><br>Espetáculos criados com respeito à Codificação e aos princípios espíritas.</div></div>
+      <div class="bullet"><div class="dot"></div><div><b>Risco zero.</b><br>Não há investimento inicial, cessão de espaço nem meta mínima de venda.</div></div>
+      <div class="bullet"><div class="dot"></div><div><b>Fortalecimento da Casa.</b><br>Parte do valor dos ingressos permanece com o Centro.</div></div>
+    </div>
+    <div>
+      <div class="bullet"><div class="dot"></div><div><b>Caridade em ação.</b><br>O público será convidado a doar 1 kg de alimento não perecível.</div></div>
+      <div class="bullet"><div class="dot"></div><div><b>Arte e integração.</b><br>Uma experiência cultural que promove convivência, alegria e reflexão.</div></div>
+      <div class="bullet"><div class="dot"></div><div><b>Trabalho maior.</b><br>Uma rede pela divulgação da Doutrina Espírita através da arte.</div></div>
+    </div>
+  </div>
+  <div class="callout" style="position:absolute; left:86px; right:86px; bottom:155px">
+    <p class="quote" style="color:white; margin:0">Mais que arrecadação: uma ponte entre cultura, comunidade e espiritualidade.</p>
+  </div>
+  <div class="footer"><span>benefícios claros para diretoria, público e instituição</span><span>06</span></div>
+</section>
+
+<section class="page dark">
+  <div class="kicker">Para apresentar à diretoria</div>
+  <h2>O argumento que precisa ficar fácil.</h2>
+  <div class="card" style="margin-top:50px">
+    <p class="bigline" style="color:white">“O Centro pode oferecer arte espírita aos frequentadores, arrecadar com os ingressos vendidos e participar de uma rede de divulgação doutrinária, sem custo e sem risco.”</p>
+  </div>
+  <div class="grid3" style="margin-top:34px">
+    <div class="card"><h3>Sem custo</h3><p>O investimento de produção é do Amigos da Luz.</p></div>
+    <div class="card"><h3>Sem pressão</h3><p>Não existe meta mínima de venda.</p></div>
+    <div class="card"><h3>Com retorno</h3><p>15% de cada ingresso vendido fica com o Centro.</p></div>
+  </div>
+  <p class="quote" style="position:absolute; left:86px; right:86px; bottom:190px">Onde a união serve ao bem, a luz encontra caminho e se multiplica.</p>
+  <div class="footer"><span>um resumo para decisão rápida</span><span>07</span></div>
+</section>
+
+<section class="page dark">
+  <img class="logo" src="assets/logo.png" style="filter:brightness(1.25); background:white; padding:16px; border-radius:22px">
+  <div style="margin-top:80px" class="kicker">Próximo passo</div>
+  <h2>Vamos levar este projeto ao seu Centro?</h2>
+  <p>Fale com a produção para conhecer a programação, receber o kit de divulgação e combinar a melhor forma de começar a parceria.</p>
+  <div class="contact-row">
+    <div class="contact-card"><div class="name">Fábio Oliviere</div><div class="phone">(21) 97208-1561</div></div>
+    <div class="contact-card"><div class="name">Isabelle Oliveira</div><div class="phone">(21) 97548-9620</div></div>
+  </div>
+  <div class="grid2" style="align-items:center; margin-top:52px">
+    <div>
+      <p><b>Casa de Cultura Amigos da Luz</b><br>Rua Campos da Paz, 105<br>Rio Comprido, Rio de Janeiro, RJ</p>
+      <p><b>www.amigosdaluz.com</b></p>
+    </div>
+    <div style="text-align:center">
+      <img class="qr" src="assets/qr-site.png">
+      <p class="small" style="margin-top:14px">acesse o site</p>
+    </div>
+  </div>
+  <img class="photo" src="assets/grupo-palco.png" style="position:absolute; left:86px; right:86px; bottom:135px; width:908px; height:360px; opacity:.95">
+  <div class="footer"><span>Parceria Iluminada | Amigos da Luz</span><span>08</span></div>
+</section>
+
+</body>
+</html>
