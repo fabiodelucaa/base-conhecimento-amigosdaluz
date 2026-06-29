@@ -5,7 +5,7 @@ subtype: projeto
 areas: [institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico]
 status: ativo
 created: 2026-06-13
-updated: 2026-06-28
+updated: 2026-06-29
 sources: ["[[fonte-parceria-centros-vizinhos-2026]]"]
 tags: [parceria, centros-espiritas, bilheteria, divulgacao]
 aliases: ["Parceria com Centros Vizinhos"]
@@ -29,7 +29,8 @@ O modelo se apoia em três ganhos simultâneos: o público acessa arte espírita
 
 | Data | Instituição | Bairro | Contato | Status | Próximo passo |
 |---|---|---|---|---|---|
-| 2026-06-28 | Grupo Espírita Franciscano Caridade e Amor | Catete | Alexandre Coutinho | quer fechar parceria; aguardando telefone/WhatsApp | incluir telefone/WhatsApp quando Fábio encaminhar e avançar fechamento |
+| 2026-06-28 | Grupo Espírita Franciscano Caridade e Amor | Catete | Alexandre Coutinho, WhatsApp +55 21 99543-3064 | quer fechar parceria; contato completo | responder Alexandre e avançar fechamento |
+| 2026-06-29 | Centro Espírita Samaritanos / Grupo Samaritanos | Praça da Bandeira | Ivan, WhatsApp (21) 98056-2457 | contato do diretor recebido após visita de campo; material deixado com porteiro | confirmar recebimento do material e avançar conversa de parceria |
 
 ## Relações
 - [[modelo-parceria-centros-vizinhos]] — síntese do mecanismo operacional, financeiro e comunitário.

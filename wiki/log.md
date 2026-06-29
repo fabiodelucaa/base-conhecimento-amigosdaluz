@@ -142,3 +142,7 @@
 ## [2026-06-27] operacional | Métricas de tempo da visita de campo
 - Ampliado o cadastro [[prospeccao-instituicoes-espiritas-2026-06-28]] para registrar horário de check-in, tempo desde início, tempo desde a instituição anterior, facilidade de parada, tranquilidade da rota e problemas/desvios.
 - Objetivo: produzir avaliação final realista da rota após a primeira ida presencial, comparando estimativa planejada com execução em campo.
+
+## [2026-06-29] operacional | Contatos de leads da Parceria Iluminada
+- Atualizados contatos operacionais em `outputs/parcerias/contatos-parceria-iluminada/` com WhatsApp de Ivan (Centro Espírita Samaritanos / Grupo Samaritanos) e Alexandre Coutinho (Grupo Espírita Franciscano Caridade e Amor).
+- Complementados [[prospeccao-instituicoes-espiritas-2026-06-28]] e [[parceria-centros-vizinhos]] para manter os próximos passos de follow-up.

@@ -4,7 +4,7 @@ type: sintese
 areas: [comercial, comunicacao, operacional, espiritual]
 status: ativo
 created: 2026-06-27
-updated: 2026-06-28
+updated: 2026-06-29
 sources: []
 tags: [parceria-iluminada, centros-espiritas, campo, prospeccao, rio-de-janeiro]
 ---
@@ -115,7 +115,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 | 25 | 22 | Congregação Espírita Umbandista do Brasil | Estácio | fechado | P | sim | Foto/placa: Templo Umbandista Maria Conga do Congo (Centro Escola); consultas 2ª a partir de 16h; kit deixado; sem contato confirmado; não priorizar no recorte kardecista sem estratégia específica |
 | 26 | 18 | Centro Espírita Bezerra Menezes | Estácio | visitado | G | em mãos | Material entregue ao responsável Duque; WhatsApp Duque 98152-8156 sem DDD informado; vão fechar parceria para venda de ingressos na CCAL/casa; cartaz: palestras 3ª 15h/dom 10h, evangelização sáb 8h30; redes /cebmestacio, Wpp público (21) 2273-9398, site bezerramenezes.org.br; prioridade parceria |
 | 27 | 19 | Grupo Espirita Caminho da Esperanca | Rio Comprido | fechado | M | sim | Foto/banner: Centro Espírita Caminho da Esperança, nº 51; reuniões públicas 2ª e 4ª 19h-20h; Instagram @caminhodaesperancagece, Facebook facebook.com/caminhodaesperancagece, YouTube @CaminhoDaEsperancaGECE; bem perto da CCAL/espaço; material deixado |
-| 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado | P | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Seu Ivan; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
+| 28 | 21 | Grupo Samaritanos | Praça da Bandeira | visitado | P | porteiro | Aberto/funcionando; reunião terminando por volta de 13h; reuniões 5ª/sáb/dom sem horários detalhados; material deixado com o porteiro para entregar hoje ao diretor Ivan; WhatsApp Ivan (21) 98056-2457; sem foto porque fachada só tinha nº 96 e banner discreto de trabalho social |
 | 29 | 27 | Cruzada dos Militares Espíritas | Praça da Bandeira | fechado | M | sim | Fotos/placa e fachada nº 142; reuniões públicas domingos 10h; kit deixado; fachada/portão fechado; instituição kardecista explícita pela placa/Codificação Kardecista |
 | 30 | 20 | AEOB - ASSOCIAÇÃO ESPÍRITA OBREIROS DO BEM | Rio Comprido | fechado |  | sim | Foto/placa recebida; tocou campainha e ninguém atendeu; kit deixado; pessoas da casa já foram ao espaço/CCAL; atividades: 3ª 19h30 estudo, 5ª 14h30 reunião pública, dom 10h evangelização; Wpp (21) 98921-1563; tels. (21) 2273-3366/(21) 3256-3898; Instagram @obreirosdobemaeob |
 | 31 | 25 | Centro Espirita Caridade Ismael | Rio Comprido | fechado | M | sim | Fotos/placa e fachada; CECI; kit deixado; horários: 2ª estudo 19h30, 3ª segunda prece 19h30, 4ª 19h30, sáb 15h30, 1º/3º sáb 9h30 e 15h30; acesso fácil, rua sem saída, centro no final; área parece feia/perigosa mas não é; próximo da CCAL; bom para parceria |
@@ -133,6 +133,7 @@ Regra operacional: não bombardear Fábio se ele estiver dirigindo a operação.
 - 2026-06-28 12:36: Grupo Espírita Caminho da Esperança registrado como fechado, M, bem perto da CCAL/espaço; banner com reuniões 2ª/4ª 19h-20h e redes sociais; material ainda não confirmado.
 - 2026-06-28 13:01: Grupo Samaritanos/Rua Barão de Ubá 96 visitado; aberto, reunião terminando; material deixado com porteiro para diretor Seu Ivan; sem foto por fachada sem identificação útil.
 - 2026-06-28 13:04: Grupo Samaritanos atualizado com porte P conforme correção de Fábio.
+- 2026-06-29: Complementado Grupo Samaritanos/Centro Espírita Samaritanos com telefone/WhatsApp do diretor Ivan: (21) 98056-2457.
 - 2026-06-28 13:04: Cruzada dos Militares Espíritas nº 142 registrada como fechada, M, kit deixado; placa/fachada arquivadas; reuniões públicas domingos 10h.
 - 2026-06-28 13:13: AEOB/Associação Espírita Obreiros do Bem registrada como fechada; campainha sem resposta; placa com horários, contatos e redes arquivada; relação prévia com pessoas que já foram à CCAL; material ainda não confirmado.
 - 2026-06-28 13:15: AEOB complementada com confirmação de kit/material deixado; segunda foto da placa arquivada.
