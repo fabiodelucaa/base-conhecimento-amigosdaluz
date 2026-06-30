@@ -146,6 +146,10 @@
 ## [2026-06-29] operacional | Contatos de leads da Parceria Iluminada
 - Atualizados contatos operacionais em `outputs/parcerias/contatos-parceria-iluminada/` com WhatsApp de Ivan (Centro Espírita Samaritanos / Grupo Samaritanos) e Alexandre Coutinho (Grupo Espírita Franciscano Caridade e Amor).
 - Complementados [[prospeccao-instituicoes-espiritas-2026-06-28]] e [[parceria-centros-vizinhos]] para manter os próximos passos de follow-up.
+## [2026-06-30] query | Contato Jorge José SEJ
+- Atualizado contato da Sociedade Espírita Jorge / Jorge José para Parceria Iluminada.
+- Páginas/artefatos tocados: [[parceria-centros-vizinhos]], contatos-parceria-iluminada, visitas-instituicoes-espiritas-2026-06-28.
+- Status: PDF já enviado por Fabinho; aguardando resposta.
 
 ## [2026-07-01] setup | Restrição de git push revogada
 - A regra que delegava o `git push` ao auto-sync do Obsidian foi revogada. O agente agora tem liberdade para fazer commit e push diretamente.
