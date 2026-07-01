@@ -146,6 +146,7 @@
 ## [2026-06-29] operacional | Contatos de leads da Parceria Iluminada
 - Atualizados contatos operacionais em `outputs/parcerias/contatos-parceria-iluminada/` com WhatsApp de Ivan (Centro Espírita Samaritanos / Grupo Samaritanos) e Alexandre Coutinho (Grupo Espírita Franciscano Caridade e Amor).
 - Complementados [[prospeccao-instituicoes-espiritas-2026-06-28]] e [[parceria-centros-vizinhos]] para manter os próximos passos de follow-up.
+
 ## [2026-06-30] query | Contato Jorge José SEJ
 - Atualizado contato da Sociedade Espírita Jorge / Jorge José para Parceria Iluminada.
 - Páginas/artefatos tocados: [[parceria-centros-vizinhos]], contatos-parceria-iluminada, visitas-instituicoes-espiritas-2026-06-28.
@@ -155,3 +156,9 @@
 - A regra que delegava o `git push` ao auto-sync do Obsidian foi revogada. O agente agora tem liberdade para fazer commit e push diretamente.
 - Arquivos de documentação (`README.md`, `CLAUDE.md`) e skills (`obsd-al-ingest`, `obsd-al-lint`) foram atualizados para incluir o comando `git push`.
 - Aproveitou-se para trocar encadeadores de bash (`&&`) por delimitadores de PowerShell (`;`) nas instruções de git para seguir conformidade de ambiente.
+
+## [2026-07-01] ingest | Minuta de contrato (TOTVS)
+- Fonte criada: [[fonte-minuta-de-contrato-totvs]] (`raw/juridico/minuta-de-contrato-totvs-2026.md`).
+- Página criada: [[minuta-de-contrato]].
+- Páginas atualizadas: [[circulacao-teatral]], [[modelo-parceria-centros-vizinhos]], [[parceria-centros-vizinhos]], [[juridico]], `wiki/index.md`.
+- Notas: artigo usado como referência externa para diferenciar minuta, contrato, aditivo e adendo; aplicação prática marcada como apoio à formalização leve da Parceria Iluminada / Centros Vizinhos e da circulação teatral.

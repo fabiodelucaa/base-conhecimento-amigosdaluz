@@ -4,8 +4,8 @@ type: sintese
 areas: [operacional, comercial, juridico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-13
-sources: ["[[fonte-al-circulacao]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
+updated: 2026-07-01
+sources: ["[[fonte-al-circulacao]]", "[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-minuta-de-contrato-totvs]]"]
 tags: [circulacao, turnes, parceria, bilheteria]
 aliases: []
 ---
@@ -21,7 +21,7 @@ Parceria colaborativa de **bilheteria** (sem cachê fixo). Referência **30% pro
 A [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] é um modelo distinto da circulação: centros espíritas próximos à Casa de Cultura vendem ingressos físicos para eventos dos Amigos da Luz, ficam com 15% de cada ingresso vendido e não assumem custo, risco ou meta mínima. A estrutura e a produção permanecem com os Amigos da Luz, sobretudo via [[casa-de-cultura-amigos-da-luz]]. ([[fonte-parceria-centros-vizinhos-2026]], [[modelo-parceria-centros-vizinhos]])
 
 ## Fluxo (8 etapas)
-Primeiro contato → envio de informações → negociação → **aprovação ([[fabio-oliviere|Fábio Oliviere]], crítico)** → formalização (contrato + pacote de divulgação) → organização prévia → agenda/comunicação (mín. 30 dias) → pós-venda.
+Primeiro contato → envio de informações → negociação → **aprovação ([[fabio-oliviere|Fábio Oliviere]], crítico)** → [[minuta-de-contrato|minuta]] / formalização (contrato + pacote de divulgação) → organização prévia → agenda/comunicação (mín. 30 dias) → pós-venda. A minuta entra como etapa flexível para revisar responsabilidades, bilheteria, custos e conflitos antes de virar contrato final. ([[fonte-minuta-de-contrato-totvs]])
 
 ## Turnês
 2+ apresentações em cidades próximas, datas contíguas. **Transporte rateado igualmente por cidade.** Referência: Turnê Santa Catarina 2025 (*[[fim]]* / *[[60-minutos-para-morrer]]*).
@@ -33,4 +33,4 @@ Produtoras de circulação ([[kelli-sacalem]], [[isabelle-oliveira]]) · [[fabio
 Vetados: partidos políticos, bebidas alcoólicas, marcas que conflitem com os valores ([[identidade-de-marca]]).
 
 ## Fontes
-- [[fonte-al-circulacao]] · [[fonte-guia-circulacao]] (guia v2.0 completo) · [[fonte-info-pack-turne-sc]] · [[fonte-parceria-centros-vizinhos-2026]]
+- [[fonte-al-circulacao]] · [[fonte-guia-circulacao]] (guia v2.0 completo) · [[fonte-info-pack-turne-sc]] · [[fonte-parceria-centros-vizinhos-2026]] · [[fonte-minuta-de-contrato-totvs]]

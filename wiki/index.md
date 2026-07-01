@@ -49,6 +49,9 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 **Fundamentos:**
 - [[espiritismo|Espiritismo (Doutrina Espírita)]] — guarda-chuva doutrinário · [[genese-do-espiritismo|Gênese do Espiritismo]] — origem histórica.
 
+**Jurídicos e operacionais:**
+- [[minuta-de-contrato|Minuta de Contrato]] — rascunho estruturado e negociável para alinhar partes, objeto, obrigações, valores e solução de conflitos antes do contrato final.
+
 **Doutrinários (temas dos esquetes):**
 - [[reforma-intima|Reforma Íntima]] · [[obsessao|Obsessão]] · [[prece|Prece]] · [[mediunidade|Mediunidade]] · [[reencarnacao|Reencarnação]] · [[caridade|Caridade]] · [[causa-e-efeito|Causa e Efeito]] · [[desencarne|Desencarne e Luto]] · [[livre-arbitrio|Livre-Arbítrio]] · [[transicao-planetaria|Transição Planetária]] · [[progresso-espiritual|Progresso Espiritual]] · [[deus|Deus]].
 
@@ -92,3 +95,6 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 **Acadêmicas & estudo:**
 - [[fonte-tcc-teatro-humor-espiritualidade|TCC Fábio Oliviere]] · [[fonte-dissertacao-religiao-humor|Dissertação UERJ 2019]] · [[fonte-artigo-espiritismo-humor-youtube|Artigo Anagrama 2019]] · [[fonte-artigo-espiritismo-vies-do-riso|Artigo Temática 2019]] · [[fonte-notas-fenomenos-mediunicos|Notas: fenômenos mediúnicos]] · [[fonte-biografia-leopoldo-machado|Biografia Leopoldo Machado]]
 - [[fonte-espiritismo-simples-expressao|O Espiritismo em sua mais simples expressão (Kardec)]] — fundamentos doutrinários.
+
+**Jurídicas & gestão:**
+- [[fonte-minuta-de-contrato-totvs|Minuta de contrato (TOTVS)]] — artigo sobre minuta, contrato, aditivo, adendo e estrutura mínima de formalização.

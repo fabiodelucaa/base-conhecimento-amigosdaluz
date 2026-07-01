@@ -2,12 +2,12 @@
 title: "Parceria Centros Vizinhos"
 type: entidade
 subtype: projeto
-areas: [institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico]
+areas: [institucional, comercial, operacional, financeiro, espiritual, comunicacao, artistico, juridico]
 status: ativo
 created: 2026-06-13
-updated: 2026-06-30
-sources: ["[[fonte-parceria-centros-vizinhos-2026]]"]
-tags: [parceria, centros-espiritas, bilheteria, divulgacao]
+updated: 2026-07-01
+sources: ["[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-minuta-de-contrato-totvs]]"]
+tags: [parceria, centros-espiritas, bilheteria, divulgacao, formalizacao]
 aliases: ["Parceria com Centros Vizinhos"]
 ---
 
@@ -24,6 +24,7 @@ O modelo se apoia em três ganhos simultâneos: o público acessa arte espírita
 - **Acompanhamento:** a equipe acompanha semanalmente o engajamento e repõe materiais quando necessário.
 - **Fechamento mensal:** vendas e ingressos não vendidos são conferidos; o centro fica com 15% de cada ingresso vendido.
 - **Ação assistencial:** o público é convidado a doar 1 kg de alimento não perecível; centros com trabalhos sociais podem destinar as doações às próprias ações assistenciais.
+- **Formalização sugerida:** usar uma [[minuta-de-contrato|minuta]] ou termo simples como etapa de alinhamento, registrando responsabilidades, repasse, conferência de talões, divulgação, encerramento e solução de divergências antes de qualquer contrato definitivo. ([[fonte-minuta-de-contrato-totvs]])
 
 ## Leads ativos / contatos de parceria
 
@@ -42,9 +43,10 @@ O modelo se apoia em três ganhos simultâneos: o público acessa arte espírita
 - [[humor-espirita]] e [[missao]] — base artística e doutrinária da proposta.
 - [[caridade]] — dimensão assistencial ligada à doação de alimentos.
 - [[circulacao-teatral]] — modelo distinto das turnês e parcerias com produtores locais.
+- [[minuta-de-contrato]] — referência para transformar o combinado operacional em documento claro, revisável e de baixo atrito.
 
 ## Cronologia
 - 2026 — PDF de apresentação da Parceria Centros Vizinhos, com contatos de produção em [[fabio-oliviere]] e [[isabelle-oliveira]]. ([[fonte-parceria-centros-vizinhos-2026]])
 
 ## Fontes
-- [[fonte-parceria-centros-vizinhos-2026]]
+- [[fonte-parceria-centros-vizinhos-2026]] · [[fonte-minuta-de-contrato-totvs]]
