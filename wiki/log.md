@@ -76,6 +76,13 @@
 - Índice: nova linha "Referências espíritas externas" em Pessoas.
 - **Tags padronizadas** em 14 páginas (só nas linhas `tags:`): `kardecismo`→`espiritismo`, `doutrina`→`doutrina-espirita`.
 
+## [2026-06-09] setup | Indexação OpenViking do vault AdL
+- Recurso criado: `viking://resources/projects/adl-vault/base-conhecimento-amigosdaluz`.
+- Escopo: snapshot markdown-only de `README.md`, `CLAUDE.md`, `wiki/**`, `raw/**`, `_templates/**` e `.claude/skills/**`; excluídos `.git/`, `.obsidian/`, `outputs/`, `scripts/` e binários.
+- Relatório: `outputs/openviking-index-2026-06-09.md`.
+- Verificação: recurso destravado (`isLocked: false`), busca semântica e leitura direta retornaram páginas esperadas.
+- Nota de sensibilidade: inclui material interno de equipe/financeiro/contatos/pessoas quando presente; expor PII somente com necessidade operacional explícita.
+
 ## [2026-06-09] ingest | Acadêmicos (4) + fenômenos mediúnicos (6) + biografia de Leopoldo
 - **6 fontes:** [[fonte-tcc-teatro-humor-espiritualidade]] (Fábio Oliviere/Estácio 2025), [[fonte-dissertacao-religiao-humor]] (Grazyelle Fonseca/UERJ 2019), [[fonte-artigo-espiritismo-humor-youtube]] e [[fonte-artigo-espiritismo-vies-do-riso]] (Alanne Almeida & Robéria Nascimento/UEPB 2019), [[fonte-notas-fenomenos-mediunicos]], [[fonte-biografia-leopoldo-machado]].
 - **6 conceitos (fenômenos):** [[psicofonia]], [[clarividencia]], [[desdobramento]], [[bicorporeidade]], [[fenomeno-de-transporte]], [[terapia-pela-oracao]] — satélites de [[mediunidade]], com cross-ref ao vault irmão.
@@ -95,7 +102,7 @@
 - Arquivos movidos p/ `raw/doutrina/` (historico-do-espiritismo, resumo-doutrina-espirita), renomeados kebab-ASCII.
 
 ## [2026-06-09] lint | Consolidação das citações do TCC em AL_citacoes (remove duplicação)
-- Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[loeni-mazzei]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
+- Citações do elenco (TCC) movidas das páginas de pessoas → `raw/AL_citacoes.md` (nova §15) para evitar dois lugares com citações. Removida a seção "Depoimento (TCC 2025)" de 9 páginas: [[carla-guapyassu]], [[alex-moczy]], [[thiago-moreno]], [[ewerton-oliveira]], [[natali-pazete]], [[babi]], [[fabio-de-luca]], [[fabio-oliviere]].
 - Atualizados [[fonte-al-citacoes]] (escopo ~103) e [[citacoes-chave]] (recorte do elenco). O link [[fonte-tcc-teatro-humor-espiritualidade]] permanece como proveniência nas páginas.
 - Nota: editei `raw/AL_citacoes.md` — exceção pontual à imutabilidade de `raw/`, por ser doc-índice mantido por IA (com protocolo de append §17) e a pedido do operador.
 
@@ -117,6 +124,28 @@
 - Atualizados `updated` desatualizados em páginas doutrinárias, figuras espíritas, acervo de esquetes e workflow de produção.
 - Backlinks recíprocos recentes adicionados para [[modelo-parceria-centros-vizinhos]], [[producao-workflow]] e relações de equipe.
 - Notas: lacunas financeiras, cadastrais e contratuais permanecem pendentes de novas fontes.
+
+## [2026-06-24] decisao | Tom de comunicação com casas espíritas
+- Criada a decisão [[tom-comunicacao-casas-espiritas]] para registrar a diretriz de comunicação com centros, casas e instituições espíritas.
+- Regra central: valor artístico-cultural e divulgação doutrinária vêm antes; termos comerciais como comissão, venda e repasse podem aparecer de forma clara, mas discreta.
+- Índice atualizado em `wiki/index.md`.
+
+## [2026-06-24] modelo | Registro de Parceria Iluminada
+- Criado modelo leve para centros/casas/instituições espíritas atuarem como pontos de venda ou divulgação de ingressos: `outputs/modelos/parceria-iluminada/registro-parceria-iluminada-pontos-de-venda.md`.
+- Versões geradas: Markdown editável, DOCX editável, HTML e PDF A4 verificado.
+- Diretriz aplicada: não usar linguagem de contrato; enfatizar clareza, confiança, ausência de meta obrigatória/custo/exclusividade e garantia de repasse pelos ingressos efetivamente vendidos.
+
+## [2026-06-27] operacional | Prospecção de instituições espíritas — visita de campo 2026-06-28
+- Criada a síntese [[prospeccao-instituicoes-espiritas-2026-06-28]] como documento vivo para registrar check-ins, fotos de fachada, horários, contatos, tamanho percebido e observações da primeira visita presencial a 31 instituições.
+- Criados artefatos operacionais editáveis em `outputs/parcerias/campo-instituicoes-espiritas/2026-06-28/`: CSV, JSON e pasta `fotos/`.
+- Uso previsto: alimentar futuras parcerias da Parceria Iluminada e priorização de relacionamento com casas/instituições próximas à CCAL.
+## [2026-06-27] operacional | Métricas de tempo da visita de campo
+- Ampliado o cadastro [[prospeccao-instituicoes-espiritas-2026-06-28]] para registrar horário de check-in, tempo desde início, tempo desde a instituição anterior, facilidade de parada, tranquilidade da rota e problemas/desvios.
+- Objetivo: produzir avaliação final realista da rota após a primeira ida presencial, comparando estimativa planejada com execução em campo.
+
+## [2026-06-29] operacional | Contatos de leads da Parceria Iluminada
+- Atualizados contatos operacionais em `outputs/parcerias/contatos-parceria-iluminada/` com WhatsApp de Ivan (Centro Espírita Samaritanos / Grupo Samaritanos) e Alexandre Coutinho (Grupo Espírita Franciscano Caridade e Amor).
+- Complementados [[prospeccao-instituicoes-espiritas-2026-06-28]] e [[parceria-centros-vizinhos]] para manter os próximos passos de follow-up.
 
 ## [2026-07-01] setup | Restrição de git push revogada
 - A regra que delegava o `git push` ao auto-sync do Obsidian foi revogada. O agente agora tem liberdade para fazer commit e push diretamente.

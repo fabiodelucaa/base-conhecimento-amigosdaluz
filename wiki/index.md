@@ -59,7 +59,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[escola-de-artes-espiritas|Escola de Artes Espíritas]] — `semente`: braço formativo permanente (futuro).
 
 ## Decisões
-- *(vazio.)*
+- [[tom-comunicacao-casas-espiritas|Tom de Comunicação com Casas Espíritas]] — diretriz para comunicações com centros, casas e instituições espíritas.
 
 ## Reuniões
 - *(vazio.)*
@@ -70,6 +70,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[publico-alvo|Público-Alvo]] — perfil e ativação da audiência.
 - [[circulacao-teatral|Circulação Teatral]] — modelo de parceria e turnês.
 - [[modelo-parceria-centros-vizinhos|Modelo da Parceria Centros Vizinhos]] — venda de ingressos físicos por centros espíritas próximos à Casa, repasse de 15% e ativação comunitária.
+- [[prospeccao-instituicoes-espiritas-2026-06-28|Prospecção de instituições espíritas — visita de campo 2026-06-28]] — cadastro vivo das 31 instituições visitadas para Parceria Iluminada.
 - [[producao-workflow|Workflow de Produção]] — 7 fases do vídeo.
 - [[oficinas-e-cursos|Oficinas e Cursos]] — oferta formativa.
 - [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.

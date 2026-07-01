@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Orçamento - Locação de Sala - Amigos da Luz</title>
+<style>
+  :root {
+    --gold: #f2b600;
+    --gold-soft: #fff8df;
+    --gold-line: #ead38a;
+    --ink: #202124;
+    --muted: #5f6368;
+    --line: #dedede;
+  }
+  @page { size: A4; margin: 13mm 14mm 11mm 14mm; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Aptos, "Segoe UI", Arial, Helvetica, sans-serif;
+    color: var(--ink);
+    font-size: 9.3pt;
+    line-height: 1.3;
+    background: #fff;
+  }
+  .page { position: relative; min-height: 273mm; padding-bottom: 20mm; }
+  .topbar {
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+  }
+  .brand { display: flex; align-items: center; gap: 13px; }
+  .brand img { width: 54px; height: 54px; object-fit: contain; }
+  .brand-title { font-size: 18pt; font-weight: 800; letter-spacing: .15px; color: #171717; }
+  .brand-sub { color: var(--muted); font-size: 8.2pt; margin-top: 1px; letter-spacing: .45px; }
+  .doc-meta {
+    text-align: right;
+    font-size: 8.5pt;
+    color: var(--muted);
+    line-height: 1.35;
+    background: var(--gold-soft);
+    border: 1px solid #f0dda2;
+    border-radius: 9px;
+    padding: 7px 10px;
+    min-width: 178px;
+  }
+  .doc-meta strong { color: var(--ink); letter-spacing: .9px; }
+  h1 {
+    margin: 18px 0 4px;
+    font-size: 16.2pt;
+    line-height: 1.08;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: .35px;
+    color: var(--ink);
+  }
+  .subtitle { text-align: center; color: var(--muted); margin-bottom: 14px; font-size: 9.2pt; }
+  .section { margin-top: 10.5px; }
+  .section-title {
+    font-weight: 800;
+    color: var(--ink);
+    font-size: 8.9pt;
+    text-transform: uppercase;
+    letter-spacing: .55px;
+    border-left: 4px solid var(--gold);
+    padding-left: 9px;
+    margin-bottom: 6px;
+  }
+  table { width: 100%; margin-top: 6px; }
+  .no-border {
+    border-collapse: separate;
+    border-spacing: 0;
+    background: #fffdf7;
+    border: 1px solid #efe0ad;
+    border-radius: 9px;
+    padding: 6px 9px;
+  }
+  .no-border td { border: 0; padding: 2px 0; }
+  .label { color: var(--muted); width: 20%; font-weight: 800; }
+  .items {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid var(--line);
+    border-radius: 9px;
+    overflow: hidden;
+  }
+  .items th, .items td { border: 0; border-bottom: 1px solid #e3e3e3; padding: 7px 8px; vertical-align: top; }
+  .items th { background: var(--gold-soft); color: var(--ink); font-weight: 800; text-align: left; font-size: 8.6pt; letter-spacing: .2px; }
+  .items tr:last-child td { border-bottom: 0; }
+  .items th:nth-child(2), .items td:nth-child(2), .items th:nth-child(3), .items td:nth-child(3), .items th:nth-child(4), .items td:nth-child(4) { text-align: right; }
+  .total-row td { font-weight: 800; background: var(--gold-soft); font-size: 10pt; }
+  p { margin: 4px 0; }
+  ul { margin: 4px 0 0 16px; padding: 0; }
+  li { margin: 1.4px 0; padding-left: 1px; }
+  .note {
+    border: 1px solid var(--gold-line);
+    background: var(--gold-soft);
+    padding: 7px 9px;
+    border-radius: 6px;
+    margin-top: 7px;
+    color: #3b3522;
+  }
+  .signature { margin-top: 64px; width: 58%; }
+  .signature-line { border-top: 1px solid #444; padding-top: 7px; text-align: center; color: var(--ink); font-size: 8.7pt; line-height: 1.28; }
+  .footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: 1px solid var(--line);
+    padding-top: 6px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 8.1pt;
+    line-height: 1.25;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="topbar">
+    <div class="brand">
+      <img src="logo-amigos-da-luz.png" alt="Amigos da Luz">
+      <div>
+        <div class="brand-title">Amigos da Luz</div>
+        <div class="brand-sub">AMIGOS DA LUZ PRODUTORA LTDA</div>
+      </div>
+    </div>
+    <div class="doc-meta">
+      <div><strong>ORÇAMENTO</strong></div>
+      <div>Nº ADL-2026-0616-01</div>
+      <div>Rio de Janeiro, 16 de junho de 2026</div>
+    </div>
+  </header>
+
+  <h1>ORÇAMENTO DE ALUGUEL DE SALA CLIMATIZADA</h1>
+  <div class="subtitle">Casa de Cultura Amigos da Luz</div>
+
+  <section class="section">
+    <div class="section-title">Solicitante</div>
+    <table class="no-border">
+      <tr><td class="label">Nome:</td><td>Ana Beatriz</td></tr>
+      <tr><td class="label">Telefone:</td><td>(21) 99108-2490</td></tr>
+    </table>
+  </section>
+
+  <section class="section">
+    <div class="section-title">Objeto</div>
+    <p>Aluguel de sala climatizada da Casa de Cultura Amigos da Luz para realização de ensaios no período de <strong>20 a 29 de julho de 2026</strong>, totalizando <strong>10 dias corridos</strong>.</p>
+  </section>
+
+  <section class="section">
+    <div class="section-title">Condições de uso do espaço</div>
+    <ul>
+      <li>Período-base de utilização: <strong>6 horas diárias</strong> de ensaio, das 14h às 20h. Os 30 minutos antes para organização e os 30 minutos depois para desmontagem/arrumação não serão contabilizados na cobrança.</li>
+      <li>Nos dias <strong>25 e 26 de julho (sábado e domingo)</strong>, o horário deverá ser ajustado para uso no período da manhã/diurno, com liberação total da sala até <strong>16h</strong>, em função de espetáculo às 18h.</li>
+      <li>Dimensões informadas: sala total de <strong>12m x 6m</strong>; área sem palco de <strong>9m x 6m</strong>.</li>
+      <li>Autorizado manter case/equipamentos próximos à técnica, no fundo da sala, sem prejuízo da circulação.</li>
+      <li>Bateria e demais equipamentos deverão ser desmontados e guardados no camarim aos sábados e domingos. Nos demais dias, poderão permanecer montados na sala, conforme disponibilidade informada.</li>
+      <li>O espaço possui pontos elétricos 110V e 220V.</li>
+      <li>Emissão de nota fiscal prevista.</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <div class="section-title">Composição do orçamento</div>
+    <table class="items">
+      <thead>
+        <tr><th>Descrição</th><th>Quantidade</th><th>Valor unitário</th><th>Total</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Aluguel de sala climatizada para ensaio</td>
+          <td>60 horas</td>
+          <td>R$ 98,00/hora</td>
+          <td>R$ 5.880,00</td>
+        </tr>
+        <tr class="total-row">
+          <td colspan="3">Valor total do orçamento</td>
+          <td>R$ 5.880,00</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="note">Valor calculado considerando 10 dias de utilização x 6 horas diárias, à razão de R$ 98,00 por hora, conforme condições acima.</div>
+  </section>
+
+  <section class="section">
+    <div class="section-title">Observações</div>
+    <p>Reserva sujeita à confirmação de disponibilidade e alinhamento final dos horários dos dias 25 e 26 de julho. Fotos do espaço e demais informações técnicas poderão ser encaminhadas separadamente, se necessário.</p>
+  </section>
+
+  <section class="signature">
+    <div class="signature-line">
+      AMIGOS DA LUZ PRODUTORA LTDA<br>
+      CNPJ 12.378.545/0001-15
+    </div>
+  </section>
+
+  <footer class="footer">
+    AMIGOS DA LUZ PRODUTORA LTDA · CNPJ 12.378.545/0001-15 · Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro/RJ · contato@amigosdaluz.com · (21) 2669-2424
+  </footer>
+</div>
+</body>
+</html>
