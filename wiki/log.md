@@ -117,3 +117,8 @@
 - Atualizados `updated` desatualizados em páginas doutrinárias, figuras espíritas, acervo de esquetes e workflow de produção.
 - Backlinks recíprocos recentes adicionados para [[modelo-parceria-centros-vizinhos]], [[producao-workflow]] e relações de equipe.
 - Notas: lacunas financeiras, cadastrais e contratuais permanecem pendentes de novas fontes.
+
+## [2026-07-01] setup | Restrição de git push revogada
+- A regra que delegava o `git push` ao auto-sync do Obsidian foi revogada. O agente agora tem liberdade para fazer commit e push diretamente.
+- Arquivos de documentação (`README.md`, `CLAUDE.md`) e skills (`obsd-al-ingest`, `obsd-al-lint`) foram atualizados para incluir o comando `git push`.
+- Aproveitou-se para trocar encadeadores de bash (`&&`) por delimitadores de PowerShell (`;`) nas instruções de git para seguir conformidade de ambiente.

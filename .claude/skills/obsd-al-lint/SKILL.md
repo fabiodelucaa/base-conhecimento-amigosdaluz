@@ -66,7 +66,7 @@ Relatório no chat, **sem auto-corrigir nada**, agrupado por **severidade** (nã
 Aplique correções **somente com confirmação** do operador (ou se ele já disse "corrige o que achar"). Ao aplicar:
 - Atualize `updated` nas páginas tocadas.
 - Anexe em `wiki/log.md`: `## [AAAA-MM-DD] lint | <resumo do que foi corrigido>`.
-- `git add -A && git commit -m "lint | <resumo>"` (espelha o log; **sem `git push`** — o auto-sync do Obsidian faz o push). **Se foi só relatório, sem correções → sem commit.**
+- `git add -A ; git commit -m "lint | <resumo>" ; git push` (espelha o log). **Se foi só relatório, sem correções → sem commit e push.**
 
 ## Regras duras
 - **Relatório primeiro, sempre.** Nunca edição em massa silenciosa.

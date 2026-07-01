@@ -319,11 +319,11 @@ Adições mais prováveis: subtipos de entidade `produto-servico`, `canal`, `ace
 Este vault **já é um repositório git** conectado a um **remote privado no GitHub** (`origin`,
 branch `main`).
 
-- **NÃO** rode `git init`, **NÃO** crie um novo remote e **NÃO** dê `git push` — o **push é responsabilidade do auto-sync do Obsidian (Git plugin)**, que sincroniza sozinho em intervalos. O agente só **commita**.
+- **NÃO** rode `git init` e **NÃO** crie um novo remote.
 - Após **cada ingestão**, cada **query arquivada**, cada **lint com correções aplicadas** e cada
-  **captura/promoção de ideia**, rode:
+  **captura/promoção de ideia**, faça commit e push:
   ```
-  git add -A && git commit -m "<mensagem>"
+  git add -A ; git commit -m "<mensagem>" ; git push
   ```
 - A **mensagem de commit espelha a entrada do `log.md`** (ex.: `ingest | Edital Lei Rouanet 2026`,
   `query | comparação de orçamentos`, `lint | correções de wikilinks`, `ideia | esquete do porteiro`).
@@ -337,7 +337,7 @@ Isso mantém cada mudança da fonte da verdade versionada e reversível.
 - **Idioma:** PT-BR no conteúdo; slugs/chaves/vocabulário em kebab-case ASCII sem acentos.
 - **raw/ é imutável; wiki/ é sua.**
 - **INGEST:** ler fonte → discutir → criar `fonte` → atualizar 10–15 páginas → sinalizar
-  contradições → índice → log → commit (push: auto-sync do Obsidian).
+  contradições → índice → log → commit e push.
 - **QUERY:** índice → páginas → (raw/ se preciso) → responder com citações → oferecer arquivar
   síntese.
 - **LINT:** escanear → relatar checklist → corrigir só com OK.
