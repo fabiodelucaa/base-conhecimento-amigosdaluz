@@ -162,3 +162,8 @@
 - Página criada: [[minuta-de-contrato]].
 - Páginas atualizadas: [[circulacao-teatral]], [[modelo-parceria-centros-vizinhos]], [[parceria-centros-vizinhos]], [[juridico]], `wiki/index.md`.
 - Notas: artigo usado como referência externa para diferenciar minuta, contrato, aditivo e adendo; aplicação prática marcada como apoio à formalização leve da Parceria Iluminada / Centros Vizinhos e da circulação teatral.
+
+## [2026-07-06] lint | Higiene estrutural de índice e outputs operacionais
+- Escopo: decisões aplicadas após comparação entre lint do vault pessoal e lint do vault AdL.
+- Atualizadas: 3 páginas/arquivos — `.gitignore`, `wiki/index.md`, `wiki/log.md`.
+- Notas: `wiki/index.md` recebeu frontmatter para cumprir o contrato geral do `CLAUDE.md`; `.gitignore` passou a ignorar apenas outputs operacionais de instância (`contratos/`, `orcamentos/`, `roteiros/` e assinaturas transparentes geradas), preservando modelos e outputs já versionados.

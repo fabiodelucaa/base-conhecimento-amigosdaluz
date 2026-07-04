@@ -7,3 +7,10 @@ outputs/**/*.tmp
 __pycache__/
 *.pyc
 .venv/
+
+# Outputs operacionais de instância (contratos, orçamentos, roteiros e assinaturas gerados para casos reais)
+# Modelos e artefatos versionados em outputs/modelos/, outputs/parcerias/ etc. continuam rastreados.
+outputs/contratos/
+outputs/orcamentos/
+outputs/roteiros/
+outputs/assets/assinaturas/*-transparente.png

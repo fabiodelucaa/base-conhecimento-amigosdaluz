@@ -1,7 +1,19 @@
+---
+title: "Índice — Wiki Amigos da Luz"
+type: sintese
+areas: [institucional, operacional]
+status: ativo
+created: 2026-06-08
+updated: 2026-07-06
+sources: []
+tags: [indice, catalogo]
+aliases: ["Índice da Wiki Amigos da Luz"]
+---
+
 # Índice — Wiki Amigos da Luz
 
 > **Resumo:** Catálogo mestre da base de conhecimento dos Amigos da Luz, organizado por categoria.
-> Comece por aqui para localizar páginas. Esquema e workflows: ver [[CLAUDE]] na raiz do repositório.
+> Comece por aqui para localizar páginas. Esquema e workflows: ver [CLAUDE.md](../CLAUDE.md) na raiz do repositório.
 
 **Como navegar:** as **áreas** são hubs Dataview; as demais categorias são páginas conectadas por
 wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de links.
