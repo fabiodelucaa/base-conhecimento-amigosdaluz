@@ -1,6 +1,5 @@
 ---
 title: "Identidade de Marca — Amigos da Luz"
-slug: AL_id_marca
 type: domain-doc
 status: ready
 scope: "Posicionamento, pilares, tom de voz e narrativa da marca"

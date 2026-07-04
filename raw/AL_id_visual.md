@@ -1,6 +1,5 @@
 ---
 title: "Identidade Visual — Amigos da Luz"
-slug: AL_id_visual
 type: domain-doc
 status: ready
 scope: "Paleta de cores, tipografia e aplicações visuais da marca"

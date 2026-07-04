@@ -1,6 +1,5 @@
 ---
 title: "Circulação Teatral — Amigos da Luz"
-slug: AL_circulacao
 type: domain-doc
 status: ready
 scope: "Modelo de parceria com produtores locais, processos operacionais de apresentações e turnês"

@@ -1,6 +1,5 @@
 ---
 title: "Ferramentas e Recursos — Amigos da Luz"
-slug: AL_ferramentas
 type: domain-doc
 status: ready
 scope: "Catálogo de ferramentas digitais disponíveis para uso em gestão, produção, marketing e IA"

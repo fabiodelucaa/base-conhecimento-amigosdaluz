@@ -1,6 +1,5 @@
 ---
 title: "Institucional — Amigos da Luz"
-slug: AL_institucional
 type: domain-doc
 status: ready
 scope: "Identidade jurídica, missão/visão/valores, contatos oficiais e posicionamento"

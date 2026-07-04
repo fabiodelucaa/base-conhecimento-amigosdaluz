@@ -1,6 +1,5 @@
 ---
 title: "Pesquisa Acadêmica sobre Amigos da Luz"
-slug: AL_academia
 type: domain-doc
 status: ready
 scope: "Catálogo de TCCs, artigos acadêmicos, teses e papers que analisam o grupo ou tratam do tema humor espírita"

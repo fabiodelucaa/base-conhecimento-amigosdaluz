@@ -1,6 +1,5 @@
 ---
 title: "Citações-Chave das Entrevistas — Amigos da Luz"
-slug: AL_citacoes
 type: domain-doc
 status: ready
 scope: "Citações-chave extraídas das 14 entrevistas do acervo, organizadas por entrevista e indexadas por dimensão temática"

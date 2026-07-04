@@ -4,7 +4,7 @@ type: sintese
 areas: [institucional, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-07-06
+updated: 2026-07-04
 sources: []
 tags: [indice, catalogo]
 aliases: ["Índice da Wiki Amigos da Luz"]
@@ -88,15 +88,16 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[prospeccao-instituicoes-espiritas-2026-06-28|Prospecção de instituições espíritas — visita de campo 2026-06-28]] — cadastro vivo das 31 instituições visitadas para Parceria Iluminada.
 - [[producao-workflow|Workflow de Produção]] — 7 fases do vídeo.
 - [[oficinas-e-cursos|Oficinas e Cursos]] — oferta formativa.
-- [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.
-- [[estrutura-financeira|Estrutura Financeira]] — receitas e despesas.
+|- [[arquitetura-do-sistema|Arquitetura do Sistema]] — 5 camadas: marca, unidades, operações, canais, infraestrutura.
+|- [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.
+|- [[estrutura-financeira|Estrutura Financeira]] — receitas e despesas.
 - [[metricas-do-canal|Métricas do Canal]] — KPIs do YouTube.
 - [[cobertura-de-imprensa|Cobertura de Imprensa]] — índice de entrevistas.
 - [[citacoes-chave|Citações-Chave]] — voz autêntica do grupo.
 - [[pesquisa-academica|Pesquisa Acadêmica]] — dissertação, artigos e TCC.
 
 ## Fontes
-- [[fonte-al-institucional|Institucional]] · [[fonte-al-equipe|Equipe]] · [[fonte-al-equipe-dados|Diretório da Equipe]] · [[fonte-al-casa-cultura|Casa de Cultura]] · [[fonte-al-historico|Histórico]] · [[fonte-al-portfolio|Portfólio]] · [[fonte-al-publico|Público]] · [[fonte-al-id-marca|Id. de Marca]] · [[fonte-al-id-visual|Id. Visual]] · [[fonte-al-repertorio|Repertório]] · [[fonte-al-audiovisual|Audiovisual]] · [[fonte-al-producao|Produção]] · [[fonte-al-oficinas-cursos|Oficinas e Cursos]] · [[fonte-al-circulacao|Circulação]] · [[fonte-al-financeiro|Financeiro]] · [[fonte-al-metricas|Métricas]] · [[fonte-al-imprensa|Imprensa]] · [[fonte-al-academia|Academia]] · [[fonte-al-citacoes|Citações]] · [[fonte-al-contatos-externos|Contatos Externos]] · [[fonte-al-ferramentas|Ferramentas]]
+- [[fonte-al-institucional|Institucional]] · [[fonte-al-equipe|Equipe]] · [[fonte-al-equipe-dados|Diretório da Equipe]] · [[fonte-al-casa-cultura|Casa de Cultura]] · [[fonte-al-historico|Histórico]] · [[fonte-al-portfolio|Portfólio]] · [[fonte-al-publico|Público]] · [[fonte-al-id-marca|Id. de Marca]] · [[fonte-al-id-visual|Id. Visual]] · [[fonte-al-repertorio|Repertório]] · [[fonte-al-audiovisual|Audiovisual]] · [[fonte-al-producao|Produção]] · [[fonte-al-oficinas-cursos|Oficinas e Cursos]] · [[fonte-al-circulacao|Circulação]] · [[fonte-al-financeiro|Financeiro]] · [[fonte-al-metricas|Métricas]] · [[fonte-al-imprensa|Imprensa]] · [[fonte-al-academia|Academia]] · [[fonte-al-citacoes|Citações]] · [[fonte-al-contatos-externos|Contatos Externos]] · [[fonte-al-ferramentas|Ferramentas]] · [[fonte-arquitetura-do-sistema|Arquitetura do Sistema]]
 
 **Entrevistas (transcrições integrais):**
 - [[fonte-entrevista-tv-nova-luz-2015|TV Nova Luz 2015]] · [[fonte-entrevista-programa-repensar-2015|Repensar 2015]] · [[fonte-entrevista-depoimentos-equipe-2015|Depoimentos 2015]] · [[fonte-entrevista-tv-nova-luz-casa-espirita-2017|Casa Espírita 2017]] · [[fonte-entrevista-radio-globo-catanduva-2017|Rádio Globo 2017]] · [[fonte-entrevista-carona-espirita-fabio-p1-2017|Carona Fábio p1]] · [[fonte-entrevista-carona-espirita-fabio-p2-2017|Carona Fábio p2]] · [[fonte-entrevista-carona-espirita-sidney-grillo-2017|Carona Sidney]] · [[fonte-entrevista-juventude-maior-2017|Juventude Maior 2017]] · [[fonte-entrevista-tv-brasil-viralizando-2018|TV Brasil 2018]] · [[fonte-entrevista-correio-espirita-2016|Correio Espírita 2016]] · [[fonte-entrevista-correio-news-2020|Correio News 2020]] · [[fonte-entrevista-abrarte-2020|ABRARTE 2020]] · [[fonte-entrevista-trajetoria-amigos-da-luz|Trajetória]]

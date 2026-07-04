@@ -1,6 +1,5 @@
 ---
 title: "Produção — Workflows"
-slug: AL_producao
 type: domain-doc
 status: ready
 scope: "Workflows de produção audiovisual e teatral"

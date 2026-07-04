@@ -1,6 +1,5 @@
 ---
 title: "Métricas do Canal — Amigos da Luz"
-slug: AL_metricas
 type: domain-doc
 status: ready
 scope: "KPIs do canal YouTube: visualizações, inscritos, tempo de exibição, receita"

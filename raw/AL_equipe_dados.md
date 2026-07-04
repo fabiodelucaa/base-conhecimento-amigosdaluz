@@ -1,6 +1,5 @@
 ---
 title: "Diretório da Equipe — Amigos da Luz"
-slug: AL_equipe_dados
 type: reference
 status: ready
 scope: "Diretório da equipe: contatos (redes, e-mail, telefone, links profissionais) e dados cadastrais (CPF, RG, endereço, nascimento, PIX, CNPJ, DRT) de cada membro"

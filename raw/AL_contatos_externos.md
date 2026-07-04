@@ -1,6 +1,5 @@
 ---
 title: "Contatos Externos — Amigos da Luz"
-slug: AL_contatos_externos
 type: reference
 status: ready
 scope: "Contatos de terceiros: produtores locais, fornecedores, portais e veículos de imprensa"

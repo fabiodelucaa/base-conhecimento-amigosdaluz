@@ -1,6 +1,5 @@
 ---
 title: "Financeiro — Amigos da Luz"
-slug: AL_financeiro
 type: domain-doc
 status: to-do
 scope: "Contas bancárias, cartões de crédito, receita e despesas da produtora"

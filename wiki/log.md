@@ -163,7 +163,12 @@
 - Páginas atualizadas: [[circulacao-teatral]], [[modelo-parceria-centros-vizinhos]], [[parceria-centros-vizinhos]], [[juridico]], `wiki/index.md`.
 - Notas: artigo usado como referência externa para diferenciar minuta, contrato, aditivo e adendo; aplicação prática marcada como apoio à formalização leve da Parceria Iluminada / Centros Vizinhos e da circulação teatral.
 
-## [2026-07-06] lint | Higiene estrutural de índice e outputs operacionais
+## [2026-07-04] ingest | Arquitetura do Sistema Amigos da Luz
+- Fonte criada: [[fonte-arquitetura-do-sistema]] (`raw/arquitetura-do-sistema.md`).
+- Página criada: [[arquitetura-do-sistema]] — síntese das 5 camadas (Marca, Unidades, Operações, Canais, Infraestrutura) + 5 princípios fundamentais + regras de integridade do sistema.
+- Páginas atualizadas: `wiki/index.md` (Sínteses e Fontes).
+- Áreas tocadas: institucional, operacional, administrativo, financeiro, comunicacao, comercial, criativo.
+- Notas: documento estrutural de referência — consolida a visão de ecossistema integrado que já estava implícita em [[portfolio-de-negocios]], [[producao-workflow]] e [[ferramentas-digitais]], agora com modelo explícito em camadas. Sem contradições com páginas existentes; complementa e organiza.
 - Escopo: decisões aplicadas após comparação entre lint do vault pessoal e lint do vault AdL.
 - Atualizadas: 3 páginas/arquivos — `.gitignore`, `wiki/index.md`, `wiki/log.md`.
 - Notas: `wiki/index.md` recebeu frontmatter para cumprir o contrato geral do `CLAUDE.md`; `.gitignore` passou a ignorar apenas outputs operacionais de instância (`contratos/`, `orcamentos/`, `roteiros/` e assinaturas transparentes geradas), preservando modelos e outputs já versionados.

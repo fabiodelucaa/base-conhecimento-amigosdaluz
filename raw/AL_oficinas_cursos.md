@@ -1,6 +1,5 @@
 ---
 title: "Oficinas e Cursos — Amigos da Luz"
-slug: AL_oficinas_cursos
 type: domain-doc
 status: ready
 scope: "Grade formativa, metodologia e oferta educacional da produtora"

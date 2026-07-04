@@ -1,6 +1,5 @@
 ---
 title: "Audiovisual — Amigos da Luz"
-slug: AL_audiovisual
 type: domain-doc
 status: ready
 scope: "Canal YouTube, esquetes, séries, lives, filmes e produtos audiovisuais"

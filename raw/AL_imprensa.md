@@ -1,6 +1,5 @@
 ---
 title: "Imprensa e Cobertura Midiática — Amigos da Luz"
-slug: AL_imprensa
 type: domain-doc
 status: ready
 scope: "Catálogo de entrevistas, reportagens e menções na mídia"

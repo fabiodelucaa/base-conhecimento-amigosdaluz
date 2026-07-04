@@ -1,6 +1,5 @@
 ---
 title: "Repertório Teatral — Amigos da Luz"
-slug: AL_repertorio
 type: domain-doc
 status: ready
 scope: "Catálogo de peças teatrais com fichas técnicas, status e sinopses"
