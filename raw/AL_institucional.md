@@ -83,7 +83,7 @@ Fonte única dos canais oficiais da produtora.
 
 ## 6. Sede
 
-**Casa de Cultura Amigos da Luz** *(nome anterior: Espaço Cultural Amigos da Luz, até 2026)* — Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro – RJ, CEP 20250-460.
+**Casa de Cultura Amigos da Luz** — Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro – RJ, CEP 20250-460.
 
 - **Site:** <https://www.amigosdaluz.com/casa>
 - **Instagram:** [@casa.amigosdaluz](https://www.instagram.com/casa.amigosdaluz/)
