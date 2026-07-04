@@ -8,7 +8,7 @@ created: 2026-06-13
 updated: 2026-07-01
 sources: ["[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-minuta-de-contrato-totvs]]"]
 tags: [parceria, centros-espiritas, bilheteria, divulgacao, formalizacao]
-aliases: ["Parceria com Centros Vizinhos"]
+aliases: ["Parceria com Centros Vizinhos", "Parceria Iluminada"]
 ---
 
 > **Resumo:** Projeto de parceria em que centros espíritas próximos à Casa de Cultura vendem ingressos físicos para eventos dos Amigos da Luz, ficam com 15% de cada venda e ajudam a ampliar a divulgação da arte espírita.
