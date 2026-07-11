@@ -27,7 +27,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 ### Organização · Lugar · Canal
 - [[amigos-da-luz|Amigos da Luz]] — o grupo artístico (nó central): identidade, dados legais, mapa do grupo.
-- [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] — sede no Rio Comprido/RJ; infra e serviços.
+- [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] (CCAL) — sede no Rio Comprido/RJ; infra e serviços.
 - [[canal-youtube-amigos-da-luz|Canal do YouTube]] — principal vitrine; 435 mil inscritos, métricas.
 
 ### Pessoas

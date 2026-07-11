@@ -5,15 +5,17 @@ subtype: lugar
 areas: [operacional, institucional, espiritual]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-13
+updated: 2026-07-11
 sources: ["[[fonte-al-casa-cultura]]", "[[fonte-al-institucional]]", "[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-al-equipe-dados]]"]
-tags: [casa-de-cultura, sede, infraestrutura]
-aliases: ["Espaço Cultural Amigos da Luz", "Casa de Cultura"]
+tags: [casa-de-cultura, ccal, sede, infraestrutura]
+aliases: ["CCAL", "Casa de Cultura Amigos da Luz", "Espaço Cultural Amigos da Luz", "Casa de Cultura", "Casa AL"]
 ---
 
-> **Resumo:** Sede operacional da produtora e hub cultural aberto — casarão no Rio Comprido/RJ (ex-"Espaço Cultural", renomeado em 2026).
+> **Resumo:** Casa de Cultura Amigos da Luz (**CCAL**) — sede operacional da produtora e hub cultural aberto; casarão no Rio Comprido/RJ (ex-"Espaço Cultural", renomeado em 2026).
 
 ## Identificação
+- **Nome:** Casa de Cultura Amigos da Luz — sigla **CCAL** (usada internamente em prospecção e planejamento como referência à sede/casa).
+- **Nome anterior:** Espaço Cultural Amigos da Luz *(renomeado em 2026 — não usar em comunicação atual)*.
 - **Endereço:** Rua Campos da Paz, 105, Rio Comprido, Rio de Janeiro – RJ, CEP 20250-460.
 - **Site:** amigosdaluz.com/casa · **Instagram:** @casa.amigosdaluz
 - **Papel:** sede da [[amigos-da-luz]] + hub de atividades culturais, artísticas e educacionais.
@@ -37,6 +39,7 @@ Distintos dos da produtora ([[missao]]/[[visao]]/[[valores]]). **Missão:** prom
 
 ## Relações
 - [[amigos-da-luz]] (sede) · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]] · [[oficinas-e-cursos]] · [[escola-de-artes-espiritas]] · [[producao-workflow]] · [[estrutura-financeira]] (locação/custos) · [[fabio-de-luca]] (moradia atual cadastrada)
+- [[prospeccao-instituicoes-espiritas-2026-06-28]] — prospecção de centros espíritas vizinhos à CCAL (referida no campo como "CCAL"/"casa"/"espaço").
 
 ## Fontes
 - [[fonte-al-casa-cultura]] · [[fonte-al-institucional]] · [[fonte-parceria-centros-vizinhos-2026]] · [[fonte-al-equipe-dados]]

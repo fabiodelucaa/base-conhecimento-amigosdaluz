@@ -172,3 +172,10 @@
 - Escopo: decisões aplicadas após comparação entre lint do vault pessoal e lint do vault AdL.
 - Atualizadas: 3 páginas/arquivos — `.gitignore`, `wiki/index.md`, `wiki/log.md`.
 - Notas: `wiki/index.md` recebeu frontmatter para cumprir o contrato geral do `CLAUDE.md`; `.gitignore` passou a ignorar apenas outputs operacionais de instância (`contratos/`, `orcamentos/`, `roteiros/` e assinaturas transparentes geradas), preservando modelos e outputs já versionados.
+
+## [2026-07-11] lint | Consolidação canônica CCAL + reindex GBrain
+- Motivo: síntese do GBrain recuperava ~20 páginas mas não achava a CCAL, apesar de "CCAL" ser a sigla de Casa de Cultura Amigos da Luz (a sede). Lacuna de curadoria/retrieval: a página-entidade canônica nunca continha o literal "CCAL" nem a sigla como alias.
+- Página canônica reafirmada: [[casa-de-cultura-amigos-da-luz]] — adicionados alias "CCAL" e "Casa de Cultura Amigos da Luz", tag `ccal`, definição explícita da sigla na Identificação, resumo com "(CCAL)" e backlink para [[prospeccao-instituicoes-espiritas-2026-06-28]].
+- Páginas atualizadas: [[fonte-al-casa-cultura]] (alias/tag CCAL, resumo), `wiki/index.md` (resumo da linha com "(CCAL)").
+- Fontes consultadas: `raw/AL_casa_cultura.md`, [[fonte-al-casa-cultura]], [[fonte-al-institucional]], [[fonte-parceria-centros-vizinhos-2026]] e as 12+ menções a "CCAL" em [[prospeccao-instituicoes-espiritas-2026-06-28]] (sempre como sinônimo da sede). Nenhum fato novo inventado; apenas curadoria de sinônimos/links já sustentados pelas fontes.
+- Reindex: `gbrain reindex --markdown` pela janela controlada; busca pós-reindex por "CCAL"/"Casa de Cultura Amigos da Luz" confirmada.

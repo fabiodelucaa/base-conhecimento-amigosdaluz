@@ -4,13 +4,13 @@ type: fonte
 areas: [operacional, institucional, espiritual]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-07-11
 sources: ["raw/AL_casa_cultura.md"]
-tags: [casa-de-cultura, sede, infraestrutura]
-aliases: ["AL_casa_cultura"]
+tags: [casa-de-cultura, ccal, sede, infraestrutura]
+aliases: ["AL_casa_cultura", "CCAL", "Casa de Cultura Amigos da Luz"]
 ---
 
-> **Resumo:** A sede — casarão no Rio Comprido/RJ: identificação, missão/visão/valores próprios da Casa, infraestrutura (cine-teatro, salas, estúdios, acervo) e serviços ao público.
+> **Resumo:** A sede — Casa de Cultura Amigos da Luz (**CCAL**), casarão no Rio Comprido/RJ: identificação, missão/visão/valores próprios da Casa, infraestrutura (cine-teatro, salas, estúdios, acervo) e serviços ao público.
 
 ## Metadados
 - **Arquivo:** `raw/AL_casa_cultura.md`
