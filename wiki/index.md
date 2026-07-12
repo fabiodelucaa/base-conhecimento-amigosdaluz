@@ -4,7 +4,7 @@ type: sintese
 areas: [institucional, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-07-04
+updated: 2026-07-11
 sources: []
 tags: [indice, catalogo]
 aliases: ["Índice da Wiki Amigos da Luz"]
@@ -72,6 +72,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 ## Ideias
 - [[escola-de-artes-espiritas|Escola de Artes Espíritas]] — `semente`: braço formativo permanente (futuro).
+- [[prova-e-expiacao|Prova e Expiação]] — `semente`: dupla sertaneja para esquete sobre provas e expiações.
 
 ## Decisões
 - [[tom-comunicacao-casas-espiritas|Tom de Comunicação com Casas Espíritas]] — diretriz para comunicações com centros, casas e instituições espíritas.

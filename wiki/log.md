@@ -179,3 +179,8 @@
 - Páginas atualizadas: [[fonte-al-casa-cultura]] (alias/tag CCAL, resumo), `wiki/index.md` (resumo da linha com "(CCAL)").
 - Fontes consultadas: `raw/AL_casa_cultura.md`, [[fonte-al-casa-cultura]], [[fonte-al-institucional]], [[fonte-parceria-centros-vizinhos-2026]] e as 12+ menções a "CCAL" em [[prospeccao-instituicoes-espiritas-2026-06-28]] (sempre como sinônimo da sede). Nenhum fato novo inventado; apenas curadoria de sinônimos/links já sustentados pelas fontes.
 - Reindex: `gbrain reindex --markdown` pela janela controlada; busca pós-reindex por "CCAL"/"Casa de Cultura Amigos da Luz" confirmada.
+
+## [2026-07-11] ideia | Prova e Expiação
+- Criada [[prova-e-expiacao]]: semente de personagem/esquete, uma dupla sertaneja chamada *Prova e Expiação*.
+- Relações: [[humor-espirita]] e [[causa-e-efeito]].
+- Origem: ideia direta de Fábio de Luca; ainda sem situação cômica, perfis individuais ou letra definidos.
