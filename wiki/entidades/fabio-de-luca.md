@@ -5,8 +5,8 @@ subtype: pessoa
 areas: [artistico, criativo, institucional, comunicacao]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-13
-sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]"]
+updated: 2026-07-20
+sources: ["[[fonte-al-equipe]]", "[[fonte-al-equipe-dados]]", "[[fonte-al-institucional]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dossie-live-estudo-divertido-2026-07-20]]"]
 tags: [socio, elenco, direcao, roteiro, apresentacao]
 aliases: ["Fábio Bastos de Luca", "Fábio de Luca"]
 ---
@@ -15,6 +15,13 @@ aliases: ["Fábio Bastos de Luca", "Fábio de Luca"]
 
 ## Função e papel
 Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-produção dos vídeos. Apresenta as Lives de Estudo ([[canal-youtube-amigos-da-luz]]). É o roteirista principal e a "voz" da marca.
+
+**Na [[live-estudo-divertido-do-espiritismo|Live Estudo Divertido]]:** apresentador e voz criativa
+central do formato — conduz a leitura de [[o-livro-dos-espiritos|*O Livro dos Espíritos*]], sustenta a
+conversa, conecta o texto doutrinário ao cotidiano e mantém o tom humano da marca, com [[babi]] na
+coapresentação e na Libras. É também a **autoridade que arma o guard de envio** do
+[[copiloto-de-chat-ao-vivo|copiloto de chat]]: nenhuma publicação automática no chat acontece sem
+autorização explícita dele. ([[fonte-dossie-live-estudo-divertido-2026-07-20]])
 
 ## Trajetória / créditos
 - Integrou o elenco do **Parafernalha** e consolidou-se no **Porta dos Fundos** como ator/comediante.
@@ -32,6 +39,7 @@ Lidera processos criativos, roteiros, textos teatrais, direção geral e pós-pr
 ## Relações
 - [[amigos-da-luz]] — sócio-fundador. · [[fabio-oliviere]] — sócio co-fundador.
 - [[humor-espirita]] · [[producao-workflow]] (criação/roteiro/finalização) · [[circulacao-teatral]] (agenda/divulgação/financeiro)
+- [[live-estudo-divertido-do-espiritismo]] (apresentação) · [[o-livro-dos-espiritos]] (texto que o aproximou do espiritismo e que hoje ele lê ao vivo) · [[2026-07-20-emojis-na-copy-publica]] (decisor)
 - [[morrendo-e-aprendendo]] · [[60-minutos-para-morrer]] · [[preces-do-alberto]] (intérprete de Alberto)
 
 ## Fontes

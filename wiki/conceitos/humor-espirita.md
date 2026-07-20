@@ -4,8 +4,8 @@ type: conceito
 areas: [criativo, espiritual, artistico, institucional]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-13
-sources: ["[[fonte-al-institucional]]", "[[fonte-al-id-marca]]", "[[fonte-al-citacoes]]", "[[fonte-al-academia]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dissertacao-religiao-humor]]", "[[fonte-artigo-espiritismo-humor-youtube]]", "[[fonte-artigo-espiritismo-vies-do-riso]]", "[[fonte-parceria-centros-vizinhos-2026]]"]
+updated: 2026-07-20
+sources: ["[[fonte-al-institucional]]", "[[fonte-al-id-marca]]", "[[fonte-al-citacoes]]", "[[fonte-al-academia]]", "[[fonte-tcc-teatro-humor-espiritualidade]]", "[[fonte-dissertacao-religiao-humor]]", "[[fonte-artigo-espiritismo-humor-youtube]]", "[[fonte-artigo-espiritismo-vies-do-riso]]", "[[fonte-parceria-centros-vizinhos-2026]]", "[[fonte-dossie-live-estudo-divertido-2026-07-20]]"]
 tags: [humor-espirita, espiritismo, identidade, metodo]
 aliases: []
 ---
@@ -21,8 +21,39 @@ Combinação de **entretenimento, espiritualidade e educação**: o humor como p
 - **Humor como instrumento:** "mais um instrumento", como outras técnicas de oratória; expoentes (Chico Xavier, Divaldo) já usavam o bom humor.
 - **Acessibilidade:** linguagem simples, sem jargão; foco em alcançar também não-espíritas (ver [[publico-alvo]]).
 
+## Mecanismo de criação (formulação de 2026)
+
+O [[fonte-dossie-live-estudo-divertido-2026-07-20|dossiê da Live]] explicita o eixo de criação: o
+encontro entre **conceito espírita elevado** e **situação prosaica reconhecível**. O humor pode vir
+de:
+
+- contraste entre o sagrado e o cotidiano;
+- literalização de expressões doutrinárias;
+- tríades cômicas;
+- comparação concreta com condomínio, transporte, fila, trabalho, obra, vizinhança;
+- reversão de expectativa;
+- autoironia e reconhecimento de imperfeições humanas.
+
+**Regra ética estável:** rir do **hábito humano imperfeito** — nunca da doutrina, de [[allan-kardec|Kardec]],
+da [[prece]], da [[mediunidade]] ou da fé. A irreverência deve **desembocar em ternura, reflexão e
+esperança**.
+
+Tese de marca correlata: *humor e seriedade não são opostos; o oposto de seriedade é falta de
+compromisso*.
+
+### O que o humor do grupo evita
+Sermão ou locução institucional · moralismo punitivo · elitismo de linguagem · terror espiritual ·
+clickbait que promete mais do que entrega · jargão sem tradução · **piada em excesso que apaga a
+reflexão** · deboche com práticas religiosas · respostas individuais apresentadas como orientação
+doutrinária definitiva.
+
 ## Como se aplica
 Eixo de toda a produção — esquetes ([[canal-youtube-amigos-da-luz]], personagens como [[daniel-e-a-mentorona]]), espetáculos ([[morrendo-e-aprendendo]], [[60-minutos-para-morrer]]), filmes e lives. Está na [[missao]] e fundamenta a [[identidade-de-marca]].
+
+Na [[live-estudo-divertido-do-espiritismo|Live Estudo Divertido]], o humor é uma das **quatro camadas
+indissociáveis** do formato (junto de base doutrinária verificável, mediação popular e comunidade ao
+vivo) e funciona como ferramenta de aproximação, atenção e elaboração afetiva — **não como enfeite
+promocional**. ([[fonte-dossie-live-estudo-divertido-2026-07-20]])
 
 Na [[parceria-centros-vizinhos|Parceria Centros Vizinhos]], o humor aparece como recurso artístico e pedagógico para aproximar princípios espíritas do público e transformar o ingresso em ponto de encontro comunitário. ([[fonte-parceria-centros-vizinhos-2026]])
 
@@ -36,6 +67,7 @@ O método já é objeto de **4 trabalhos acadêmicos** (ver [[pesquisa-academica
 
 ## Relações
 - [[amigos-da-luz]] · [[espiritismo]] (base doutrinária) · [[missao]] · [[valores]] (fidelidade doutrinária) · [[identidade-de-marca]] · [[citacoes-chave]] · [[pesquisa-academica]] · [[parceria-centros-vizinhos]] · [[modelo-parceria-centros-vizinhos]]
+- [[live-estudo-divertido-do-espiritismo]] — formato onde o mecanismo é aplicado ao vivo · [[o-livro-dos-espiritos]] (texto-base) · [[operacao-editorial-da-live]] (gancho verdadeiro ao conteúdo)
 
 ## Fontes
-- [[fonte-al-institucional]] · [[fonte-al-id-marca]] · [[fonte-al-citacoes]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]] · [[fonte-parceria-centros-vizinhos-2026]]
+- [[fonte-al-institucional]] · [[fonte-al-id-marca]] · [[fonte-al-citacoes]] · [[fonte-al-academia]] · [[fonte-tcc-teatro-humor-espiritualidade]] · [[fonte-dissertacao-religiao-humor]] · [[fonte-artigo-espiritismo-humor-youtube]] · [[fonte-artigo-espiritismo-vies-do-riso]] · [[fonte-parceria-centros-vizinhos-2026]] · [[fonte-dossie-live-estudo-divertido-2026-07-20]]

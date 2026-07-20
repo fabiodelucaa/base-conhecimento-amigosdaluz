@@ -5,7 +5,7 @@ subtype: pessoa
 areas: [espiritual, historico]
 status: ativo
 created: 2026-06-08
-updated: 2026-06-13
+updated: 2026-07-20
 sources: ["[[fonte-al-citacoes]]", "[[fonte-acervo-esquetes]]"]
 tags: [referencia, espiritismo, codificador]
 aliases: ["Hippolyte Léon Denizard Rivail", "Kardec"]
@@ -24,6 +24,7 @@ Vault `base-conhecimento` › `entities/allan-kardec.md` e as obras em `sources/
 
 ## Relações
 - [[humor-espirita]] · [[deus]] · [[mediunidade]] · [[reencarnacao]] · [[fabio-de-luca]]
+- [[o-livro-dos-espiritos]] — obra inaugural da Codificação, texto-base da [[live-estudo-divertido-do-espiritismo|Live Estudo Divertido]].
 
 ## Fontes
 - [[fonte-al-citacoes]] · [[fonte-acervo-esquetes]]

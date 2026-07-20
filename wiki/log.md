@@ -184,3 +184,23 @@
 - Criada [[prova-e-expiacao]]: semente de personagem/esquete, uma dupla sertaneja chamada *Prova e Expiação*.
 - Relações: [[humor-espirita]] e [[causa-e-efeito]].
 - Origem: ideia direta de Fábio de Luca; ainda sem situação cômica, perfis individuais ou letra definidos.
+
+## [2026-07-14] ingest | Segundo Café da Manhã do AdL, 12/07/2026
+- Fonte criada: [[fonte-whatsapp-adl-cafe-2026-07-12-14]]; o ZIP original não foi copiado ao vault/Git por conter conversa de participantes.
+- Páginas criadas: [[relatorio-cafe-da-manha-2026-07-12]], [[controle-estoque-cafe-adl]] e [[2026-07-14-controle-estoque-cafe-via-osiris]].
+- Artefato gerado: `outputs/relatorios/relatorio-cafe-da-manha-2026-07-12.md`.
+- Dados registrados: 13 inscrições confirmadas, compras de R$ 207,59, apuração da cantina de R$ 123,00, caixa informado de R$ 137,00 e inventário pós-evento.
+- Notas: a diferença de R$ 14,00 entre cantina e caixa foi marcada como pendência de conciliação; presença real e base comparável do primeiro café continuam em aberto.
+
+## [2026-07-20] ingest | Dossiê da Live Estudo Divertido do Espiritismo
+- Fonte criada: [[fonte-dossie-live-estudo-divertido-2026-07-20]] (`raw/audiovisual/dossie-live-estudo-divertido-adl-2026-07-20.md`, movido de `raw/inbox/`).
+- Páginas criadas (6): [[live-estudo-divertido-do-espiritismo]] (entidade/`producao`), [[o-livro-dos-espiritos]] (entidade/`documento`), [[metricas-live-estudo-divertido-2026-07-20]] (síntese), [[operacao-editorial-da-live]] (síntese), [[copiloto-de-chat-ao-vivo]] (conceito), [[2026-07-20-emojis-na-copy-publica]] (decisão).
+- Páginas atualizadas (10): [[canal-youtube-amigos-da-luz]], [[metricas-do-canal]], [[fonte-al-metricas]], [[fonte-al-audiovisual]], [[babi]], [[fabio-de-luca]], [[humor-espirita]], [[prece]], [[allan-kardec]], [[publico-alvo]] — mais `wiki/index.md`.
+- Áreas tocadas: comunicacao, operacional, espiritual, artistico, criativo, comercial, historico.
+- **Contradições sinalizadas (3, registradas sem sobrescrever):**
+  1. `raw/AL_audiovisual.md` marca a Live como "inativa" — superado por Lives em 06/07 e 13/07/2026 e agendamento em 20/07. Registrado em [[fonte-al-audiovisual]] e [[live-estudo-divertido-do-espiritismo]].
+  2. `raw/AL_metricas.md` rotula 2.447.221.274 como "horas" de exibição; o valor coerente seria ~2,44 milhões de horas (erro de ~1000x). Marcado **não confiável até reconciliação** em [[fonte-al-metricas]] e [[metricas-do-canal]].
+  3. Três superfícies retornam números diferentes para o canal (45,4M / 46,4M / 46,9M views; 1.165 vídeos totais x 751 públicos). Comparação tabelada em [[metricas-do-canal]]; falta fonte oficial única de reporting.
+- Variação histórica registrada: cadência da Live era terça 20h em 2017, hoje é segunda 20h BRT — descrito como calendário atual, não característica do acervo. Série tem ciclos documentados de pausa e retomada (2021 = 0 itens).
+- Decisão do Fábio nesta sessão: emoji na copy pública **não é proibido**, mas deve ser usado com muita economia — revisa a regra anterior de proibição total do guia editorial. Pendência de execução fora do vault: atualizar a skill `preparador-live-adl`.
+- Lacunas herdadas da fonte: ficha técnica de transmissão inexistente (encoder, câmeras, áudio, redundância); impressões/CTR/espectadores únicos recusados pela API de Analytics; curva de retenção por minuto não coletada; legendas fechadas desabilitadas na Live de 20/07/2026.

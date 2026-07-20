@@ -4,7 +4,7 @@ type: sintese
 areas: [institucional, operacional]
 status: ativo
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-07-20
 sources: []
 tags: [indice, catalogo]
 aliases: ["Índice da Wiki Amigos da Luz"]
@@ -28,7 +28,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 ### Organização · Lugar · Canal
 - [[amigos-da-luz|Amigos da Luz]] — o grupo artístico (nó central): identidade, dados legais, mapa do grupo.
 - [[casa-de-cultura-amigos-da-luz|Casa de Cultura Amigos da Luz]] (CCAL) — sede no Rio Comprido/RJ; infra e serviços.
-- [[canal-youtube-amigos-da-luz|Canal do YouTube]] — principal vitrine; 435 mil inscritos, métricas.
+- [[canal-youtube-amigos-da-luz|Canal do YouTube]] — principal vitrine; 445 mil inscritos (07/2026), métricas.
 
 ### Pessoas
 - [[fabio-de-luca|Fábio de Luca]] — sócio-fundador; ator/diretor/roteirista/apresentador.
@@ -43,6 +43,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 ### Produções
 - [[morrendo-e-aprendendo|Morrendo e Aprendendo]] (2008, fundação) · [[muito-alem-da-janela|Muito Além da Janela]] (2009) · [[na-praca-dos-girassois|Na Praça dos Girassóis]] (2010) · [[reencarnashow|ReencarnaShow]] (2011) · [[samara-sempre-sabe|Samara Sempre Sabe]] (2013) · [[irmas-buonanotte|Irmãs Buonanotte]] (2014) · [[fim|Fim?]] (2022) · [[60-minutos-para-morrer|60 Minutos Para Morrer]] (2024).
 - [[uma-divida-de-natal|Uma Dívida de Natal]] (2018, filme) · [[alem-das-janelas|Além das Janelas]] (2019, websérie).
+- [[live-estudo-divertido-do-espiritismo|Live Estudo Divertido do Espiritismo]] (2016–, série ao vivo) — leitura semanal de *O Livro dos Espíritos* com Libras; ativa às segundas, 20h BRT.
 
 ### Personagens
 - [[daniel-e-a-mentorona|Daniel e a Mentorona]] · [[preces-do-alberto|Preces do Alberto]] · [[elisa-a-evoluida|Elisa, a Evoluída]].
@@ -51,6 +52,10 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 - [[campanha-sos-amigos-da-luz|Campanha S.O.S. Amigos da Luz]] — arrecadação/sustentabilidade (2025–).
 - [[parceria-centros-vizinhos|Parceria Centros Vizinhos]] — projeto com centros espíritas próximos à Casa de Cultura para venda de ingressos físicos, divulgação e ação assistencial.
 - [[espiritismo-tv|Espiritismo.tv]] — plataforma parceira de distribuição.
+
+### Documentos operacionais
+- [[controle-estoque-cafe-adl|Controle de estoque do Café]] — saldo vivo pós-Café, atualizado por movimentos informados no grupo AdL-CAFE.
+- [[o-livro-dos-espiritos|O Livro dos Espíritos]] — obra inaugural da Codificação; texto-base da Live e fonte canônica de verificação doutrinária da produção.
 
 ## Conceitos
 - [[humor-espirita|Humor Espírita]] — método criativo central.
@@ -63,6 +68,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 **Jurídicos e operacionais:**
 - [[minuta-de-contrato|Minuta de Contrato]] — rascunho estruturado e negociável para alinhar partes, objeto, obrigações, valores e solução de conflitos antes do contrato final.
+- [[copiloto-de-chat-ao-vivo|Copiloto de Chat ao Vivo]] — método de assistir o chat de transmissões com silêncio como padrão, precedência humana e guard de envio autorizado.
 
 **Doutrinários (temas dos esquetes):**
 - [[reforma-intima|Reforma Íntima]] · [[obsessao|Obsessão]] · [[prece|Prece]] · [[mediunidade|Mediunidade]] · [[reencarnacao|Reencarnação]] · [[caridade|Caridade]] · [[causa-e-efeito|Causa e Efeito]] · [[desencarne|Desencarne e Luto]] · [[livre-arbitrio|Livre-Arbítrio]] · [[transicao-planetaria|Transição Planetária]] · [[progresso-espiritual|Progresso Espiritual]] · [[deus|Deus]].
@@ -76,6 +82,8 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 ## Decisões
 - [[tom-comunicacao-casas-espiritas|Tom de Comunicação com Casas Espíritas]] — diretriz para comunicações com centros, casas e instituições espíritas.
+- [[2026-07-14-controle-estoque-cafe-via-osiris|Controle de estoque do Café via Osíris]] — decisão aprovada para registro vivo de saldo, compras e consultas sob demanda.
+- [[2026-07-20-emojis-na-copy-publica|Emojis na copy pública]] — permitidos com muita economia; revisa a regra anterior de proibição total.
 
 ## Reuniões
 - *(vazio.)*
@@ -92,10 +100,13 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 |- [[arquitetura-do-sistema|Arquitetura do Sistema]] — 5 camadas: marca, unidades, operações, canais, infraestrutura.
 |- [[ferramentas-digitais|Ferramentas Digitais]] — pilha de software.
 |- [[estrutura-financeira|Estrutura Financeira]] — receitas e despesas.
-- [[metricas-do-canal|Métricas do Canal]] — KPIs do YouTube.
+- [[metricas-do-canal|Métricas do Canal]] — KPIs do YouTube; inclui alerta de dado não confiável (tempo de exibição) e divergência entre três superfícies.
+- [[metricas-live-estudo-divertido-2026-07-20|Métricas da Live — corte 2026-07-20]] — 146 itens, ~980 mil views, 13,04% de retenção média e ciclos anuais de publicação.
+- [[operacao-editorial-da-live|Operação Editorial da Live]] — pauta, metadados, thumbnail, divulgação, pós-Live e painel mínimo por edição.
 - [[cobertura-de-imprensa|Cobertura de Imprensa]] — índice de entrevistas.
 - [[citacoes-chave|Citações-Chave]] — voz autêntica do grupo.
 - [[pesquisa-academica|Pesquisa Acadêmica]] — dissertação, artigos e TCC.
+- [[relatorio-cafe-da-manha-2026-07-12|Relatório geral do Café, 12/07/2026]] — aprendizados, indicadores disponíveis e melhorias do segundo encontro.
 
 ## Fontes
 - [[fonte-al-institucional|Institucional]] · [[fonte-al-equipe|Equipe]] · [[fonte-al-equipe-dados|Diretório da Equipe]] · [[fonte-al-casa-cultura|Casa de Cultura]] · [[fonte-al-historico|Histórico]] · [[fonte-al-portfolio|Portfólio]] · [[fonte-al-publico|Público]] · [[fonte-al-id-marca|Id. de Marca]] · [[fonte-al-id-visual|Id. Visual]] · [[fonte-al-repertorio|Repertório]] · [[fonte-al-audiovisual|Audiovisual]] · [[fonte-al-producao|Produção]] · [[fonte-al-oficinas-cursos|Oficinas e Cursos]] · [[fonte-al-circulacao|Circulação]] · [[fonte-al-financeiro|Financeiro]] · [[fonte-al-metricas|Métricas]] · [[fonte-al-imprensa|Imprensa]] · [[fonte-al-academia|Academia]] · [[fonte-al-citacoes|Citações]] · [[fonte-al-contatos-externos|Contatos Externos]] · [[fonte-al-ferramentas|Ferramentas]] · [[fonte-arquitetura-do-sistema|Arquitetura do Sistema]]
@@ -112,3 +123,7 @@ wikilinks. Áreas **não** são pastas — a estrutura transversal é o grafo de
 
 **Jurídicas & gestão:**
 - [[fonte-minuta-de-contrato-totvs|Minuta de contrato (TOTVS)]] — artigo sobre minuta, contrato, aditivo, adendo e estrutura mínima de formalização.
+- [[fonte-whatsapp-adl-cafe-2026-07-12-14|Histórico AdL-CAFE, 12–14/07/2026]] — registro operacional do segundo Café, cantina e inventário; fonte sensível sem cópia bruta no vault.
+
+**Audiovisual & live:**
+- [[fonte-dossie-live-estudo-divertido-2026-07-20|Dossiê da Live Estudo Divertido (20/07/2026)]] — proposta, formato, público, operação editorial, arquitetura técnica e métricas da série; corrige registros desatualizados do inventário audiovisual e das métricas históricas.
